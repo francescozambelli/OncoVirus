@@ -1,0 +1,251 @@
+"node","type"
+"11613.NSS_TSWV1",0
+"GTF2H1",2
+"POLK",2
+"CDK7",2
+"PTRF",2
+"MYC",2
+"CUL4A",2
+"NCBP1",2
+"EP300",2
+"SUMO1",2
+"ESR1",2
+"CCNT1",2
+"CDC73",2
+"CCSER2",2
+"DDB1",2
+"BRCA1",2
+"AQR",2
+"COPS6",2
+"CDK9",2
+"MED14",2
+"ESR2",2
+"LEO1",2
+"ERCC1",2
+"PARP1",2
+"UBC",2
+"POLR1B",2
+"ERCC5",2
+"FUBP1",2
+"TP53",2
+"COPS3",2
+"COPS5",2
+"POLR2A",2
+"MDC1",2
+"RFC4",2
+"PSMC2",2
+"E2F1",2
+"PCNA",2
+"CHEK1",2
+"DDB2",2
+"FANCD2",2
+"COPS4",2
+"SSRP1",2
+"POLR2G",2
+"ATM",2
+"TNIP1",2
+"POLR2E",2
+"IWS1",2
+"LZTS2",2
+"POLR2C",2
+"RPA3",2
+"SUMO3",2
+"TAF2",2
+"AFF4",2
+"GTF2F1",2
+"CTDP1",2
+"POLD1",2
+"ACTN1",2
+"KPNA3",2
+"PPIE",2
+"RPA2",2
+"AR",2
+"TRIM25",2
+"MMS19",2
+"TAF10",2
+"LIG3",2
+"MLLT3",2
+"SUPT16H",2
+"POLR2B",2
+"TP53BP1",2
+"GTF2H4",2
+"CUL4B",2
+"FEN1",2
+"POLR1C",2
+"POLR1D",2
+"RAD51",2
+"RBX1",2
+"GTF2B",2
+"GNL3L",2
+"RFC3",2
+"WDR61",2
+"FANCI",2
+"RPS27A",2
+"RPL35",2
+"ATR",2
+"PRPF19",2
+"CCNK",2
+"BRPF1",2
+"RPA1",2
+"GTF2A1",2
+"NELFA",2
+"COPS7A",2
+"ERCC2",2
+"SUMO2",2
+"RNF11",2
+"ERCC4",2
+"RB1",2
+"RFC1",2
+"POLR2I",2
+"ERCC3",2
+"POLE3",2
+"ERCC8",2
+"POLR1E",2
+"TAF1",2
+"USP7",2
+"RAD23A",2
+"CTR9",2
+"TCEB2",2
+"POLR2L",2
+"EAF1",2
+"VPS29",2
+"ELL",2
+"COPS8",2
+"GTF2E2",2
+"PIAS3",2
+"POLE2",2
+"KLF1",2
+"CDK12",2
+"TAF1C",2
+"TAF4B",2
+"POLR2D",2
+"TCEB1",2
+"SUPT6H",2
+"UBE2I",2
+"PAF1",2
+"PIAS1",2
+"POLR1A",2
+"CDK20",2
+"GEMIN4",2
+"GTF2E1",2
+"RAD23B",2
+"RNGTT",2
+"TBP",2
+"UBB",2
+"TAF15",2
+"NUDC",2
+"COPS2",2
+"CHD1L",2
+"RNF111",2
+"JDP2",2
+"TAF5",2
+"HOXC11",2
+"CETN2",2
+"PARP2",2
+"NELFB",2
+"POLR2H",2
+"PHF5A",2
+"COPS7B",2
+"TAF11",2
+"TCEA1",2
+"NCBP2",2
+"CD3EAP",2
+"TAF1A",2
+"CCNH",2
+"GPS1",2
+"UBE2V2",2
+"RFC5",2
+"TCEB3B",2
+"RRN3",2
+"GTF2H2C",2
+"GTF2F2",2
+"MNAT1",2
+"REEP5",2
+"XAB2",2
+"UBA52",2
+"NELFE",2
+"XRCC1",2
+"GTF2H2C_2",2
+"POLE",2
+"POLR2F",2
+"MLLT1",2
+"NELFCD",2
+"TAF4",2
+"FGL1",2
+"POLD2",2
+"POLR2J",2
+"CCNT2",2
+"ZNF830",2
+"HNF4A",2
+"EAF2",2
+"RTF1",2
+"GTF2H5",2
+"TAF6",2
+"TAF3",2
+"GTF2H3",2
+"GTF2A2",2
+"TAF1B",2
+"GTF2H2",2
+"SUPT4H1",2
+"UBE2N",2
+"RFC2",2
+"HMGN1",2
+"TAF12",2
+"TAF1L",2
+"POLR2K",2
+"TAF7",2
+"SUPT5H",2
+"TAF9B",2
+"XPC",2
+"TAF13",2
+"RNMT",2
+"TRIOBP",2
+"UBTF",2
+"TAF1D",2
+"TCEB3",2
+"POU2AF1",2
+"TXNRD2",2
+"LIG1",2
+"POLE4",2
+"XPA",2
+"TAF7L",2
+"ZNRD1",2
+"POLD3",2
+"ZSCAN1",2
+"RXRB",2
+"TTF1",2
+"USHBP1",2
+"POLD4",2
+"TWISTNB",2
+"BIVM-ERCC5",2
+"UVSSA",2
+"TCEB3C",2
+"TCEB3CL2",2
+"regulation of cyclin-dependent protein serine/threonine kinase activity",6
+"transcription factor TFIIH core complex",6
+"nucleotide-excision repair, DNA duplex unwinding",6
+"chromatin binding",6
+"protein kinase activity",6
+"protein binding",6
+"nucleoplasm",6
+"transcription factor TFIIH holo complex",6
+"DNA repair",6
+"transcription-coupled nucleotide-excision repair",6
+"nucleotide-excision repair, preincision complex stabilization",6
+"nucleotide-excision repair, preincision complex assembly",6
+"nucleotide-excision repair, DNA incision, 3'-to lesion",6
+"nucleotide-excision repair, DNA incision, 5'-to lesion",6
+"transcription by RNA polymerase I",6
+"transcription initiation from RNA polymerase I promoter",6
+"transcription elongation from RNA polymerase I promoter",6
+"termination of RNA polymerase I transcription",6
+"transcription by RNA polymerase II",6
+"transcription initiation from RNA polymerase II promoter",6
+"transcription elongation from RNA polymerase II promoter",6
+"7-methylguanosine mRNA capping",6
+"DNA-dependent ATPase activity",6
+"RNA polymerase II CTD heptapeptide repeat kinase activity",6
+"nucleotide-excision repair, DNA incision",6
+"positive regulation of transcription by RNA polymerase II",6
+"phosphorylation of RNA polymerase II C-terminal domain",6
+"global genome nucleotide-excision repair",6

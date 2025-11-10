@@ -1,0 +1,652 @@
+"node","type"
+"11034.PRO_0000041237",0
+"11034.PRO_0000227773",0
+"11034.PRO_0000041321",0
+"SH2D3C",2
+"G3BP2",2
+"PARP1",2
+"CYLD",2
+"ELAVL1",2
+"HDAC5",2
+"POLK",2
+"EGFR",2
+"EFTUD2",2
+"CDK7",2
+"LARP7",2
+"BRAF",2
+"MOV10",2
+"GBAS",2
+"FN1",2
+"SNCAIP",2
+"HIST1H2BB",2
+"MYC",2
+"SIRT1",2
+"MAPK1",2
+"NTRK1",2
+"HIST1H3E",2
+"CUL4A",2
+"AGR2",2
+"HNRNPA1",2
+"DNMT1",2
+"ADSL",2
+"EP300",2
+"SUMO1",2
+"ITFG1",2
+"BCAR1",2
+"ESR1",2
+"KRAS",2
+"PAN2",2
+"DDB1",2
+"MIR221",2
+"EZH2",2
+"KIAA1429",2
+"AGRN",2
+"CUL7",2
+"CUL1",2
+"RNF144A",2
+"H2AFX",2
+"BRCA2",2
+"EWSR1",2
+"BRCA1",2
+"HIST1H4A",2
+"RNF2",2
+"HIF1A",2
+"ATG16L1",2
+"MIR7-1",2
+"RPL27A",2
+"RPL23A",2
+"ILF3",2
+"LMNA",2
+"RNF4",2
+"CDC5L",2
+"HDAC1",2
+"CDK9",2
+"CENPA",2
+"CA9",2
+"CDC34",2
+"IKBKG",2
+"MED14",2
+"MIRLET7F2",2
+"RBM14",2
+"NPM1",2
+"C3orf17",2
+"BAG3",2
+"MIR128-2",2
+"MIRLET7A3",2
+"DAXX",2
+"ERCC1",2
+"JUN",2
+"RC3H1",2
+"UBC",2
+"MIRLET7C",2
+"CHD4",2
+"FMNL1",2
+"HDAC3",2
+"ERCC5",2
+"SNW1",2
+"TP53",2
+"ATP5A1",2
+"CCDC8",2
+"KCTD12",2
+"COPS5",2
+"BMI1",2
+"MDM2",2
+"CHD3",2
+"PYHIN1",2
+"RECQL4",2
+"SUZ12",2
+"CDK2",2
+"APEX1",2
+"MAFG",2
+"VCP",2
+"LASP1",2
+"OBSL1",2
+"BARD1",2
+"PRKDC",2
+"RFC4",2
+"E2F1",2
+"PCNA",2
+"AIFM1",2
+"SMAD2",2
+"CASP3",2
+"CHEK1",2
+"MIR31",2
+"DDB2",2
+"FANCD2",2
+"HIST1H1A",2
+"NQO1",2
+"CUL3",2
+"HIST1H3A",2
+"CAND1",2
+"RPS8",2
+"MIR25",2
+"MTA3",2
+"NR2C2",2
+"ASCC3",2
+"MED1",2
+"POLA2",2
+"NEDD8",2
+"AKT1",2
+"FOXO1",2
+"PTPLAD1",2
+"FAF1",2
+"HDAC2",2
+"MEPCE",2
+"DDX6",2
+"SSRP1",2
+"RC3H2",2
+"CTNNB1",2
+"CREBBP",2
+"DCPS",2
+"MYBL2",2
+"HIST1H2AB",2
+"MIRLET7A1",2
+"ABL1",2
+"HNRNPH1",2
+"AAR2",2
+"H2AFZ",2
+"HMGA1",2
+"ATM",2
+"BLM",2
+"NUFIP2",2
+"DTX3L",2
+"ATXN3",2
+"NXF1",2
+"RPL10",2
+"NR3C1",2
+"MIR141",2
+"MIRLET7E",2
+"HUWE1",2
+"RPA3",2
+"HEXIM1",2
+"CASP8",2
+"RARA",2
+"PIH1D1",2
+"SUMO3",2
+"MIRLET7B",2
+"MIR34A",2
+"LGALS3",2
+"ARRB2",2
+"GTF2F1",2
+"HIST1H1C",2
+"MIRLET7I",2
+"CETN1",2
+"H1F0",2
+"BAG6",2
+"CDK8",2
+"FAM175A",2
+"RBBP8",2
+"REST",2
+"FXR2",2
+"BCL2",2
+"PIN1",2
+"CARM1",2
+"BUB1B",2
+"CASP7",2
+"HIPK2",2
+"POLD1",2
+"MAST3",2
+"IFI30",2
+"PTEN",2
+"RELA",2
+"ECD",2
+"DERL1",2
+"RPA2",2
+"HDGF",2
+"THRAP3",2
+"CBX4",2
+"HIST3H3",2
+"ITGA4",2
+"BANP",2
+"PHB",2
+"NFKBIA",2
+"METTL14",2
+"ILK",2
+"PIAS4",2
+"POLA1",2
+"KLF5",2
+"TRIM25",2
+"LZTR1",2
+"SHMT2",2
+"MIR19A",2
+"POLB",2
+"HIST1H1B",2
+"NUP153",2
+"G3BP1",2
+"SCARNA22",2
+"MED23",2
+"MED12",2
+"DDX39A",2
+"SENP3",2
+"AIRE",2
+"IMMT",2
+"RIOK1",2
+"CBX2",2
+"RAD50",2
+"LYN",2
+"LIG3",2
+"STUB1",2
+"CDK5RAP2",2
+"CDKN1A",2
+"POU2F1",2
+"TLE1",2
+"MRE11A",2
+"SUPT16H",2
+"SNRNP70",2
+"CTDSPL2",2
+"SFN",2
+"TARDBP",2
+"HSPA1A",2
+"ANXA5",2
+"RPL19",2
+"AIMP2",2
+"GSK3A",2
+"NFATC2",2
+"CTCF",2
+"GTF2H1",2
+"PABPC1",2
+"RPS6",2
+"WDR77",2
+"GTF2H4",2
+"CUL4B",2
+"MAPT",2
+"KAT2B",2
+"CAMK2B",2
+"BUB3",2
+"FEN1",2
+"AKT2",2
+"RNF168",2
+"RAD51",2
+"RBX1",2
+"CAMK2D",2
+"PGR",2
+"TUBB",2
+"USP10",2
+"EXOSC1",2
+"RFC3",2
+"MAB21L2",2
+"RRM2",2
+"MTF1",2
+"CORO1C",2
+"DDX21",2
+"RPS27A",2
+"RPL35",2
+"NUP214",2
+"HIST1H2BC",2
+"IVNS1ABP",2
+"CAPRIN1",2
+"BANF1",2
+"OAS3",2
+"CEBPA",2
+"HDAC4",2
+"PRKAA1",2
+"TOPORS",2
+"MAPK8",2
+"ING4",2
+"PRPF8",2
+"TRIM28",2
+"ETS1",2
+"PABPC4",2
+"TCF7L2",2
+"SMARCA1",2
+"ERG",2
+"RPA1",2
+"VCAM1",2
+"CASP1",2
+"MIR106A",2
+"MED6",2
+"MIR19B1",2
+"NFKB1",2
+"MIR106B",2
+"TCF3",2
+"ERCC2",2
+"SUMO2",2
+"RPF2",2
+"NOTCH1",2
+"ERCC4",2
+"OGT",2
+"TOP1",2
+"MIR222",2
+"RFC1",2
+"MIR206",2
+"ERCC3",2
+"CLEC14A",2
+"ICT1",2
+"MAP1LC3A",2
+"RYK",2
+"POLE3",2
+"CHFR",2
+"SMARCA4",2
+"EIF4G1",2
+"SND1",2
+"IGF2BP3",2
+"TMPO",2
+"MIR21",2
+"CTSB",2
+"TERF2",2
+"DDX24",2
+"MIR10B",2
+"MIR128-1",2
+"RAD23A",2
+"APLF",2
+"WRN",2
+"MIR16-2",2
+"NCAPD2",2
+"RPL14",2
+"MIR7-2",2
+"SPECC1",2
+"HSPA2",2
+"DDX10",2
+"EFS",2
+"NBN",2
+"TXNIP",2
+"H2AFY",2
+"PRDM16",2
+"MIR29C",2
+"THRA",2
+"PIK3R1",2
+"MIR200B",2
+"MED24",2
+"H3F3A",2
+"GNL2",2
+"NF2",2
+"RNF146",2
+"ERCC6",2
+"HIST2H2AA3",2
+"MIR155",2
+"HMGB1",2
+"MIR214",2
+"PIAS3",2
+"UIMC1",2
+"POLE2",2
+"MIR92A1",2
+"TNF",2
+"PTK2",2
+"CENPB",2
+"MIR363",2
+"RPL3L",2
+"MIR200A",2
+"FARS2",2
+"TUBB1",2
+"IRF2",2
+"SMAD4",2
+"PDLIM7",2
+"SIRT6",2
+"MIR205",2
+"RRP1B",2
+"SQSTM1",2
+"MAFF",2
+"MIRLET7F1",2
+"MIR98",2
+"UBE2I",2
+"BRF1",2
+"PIAS1",2
+"USP14",2
+"MIRLET7D",2
+"PPM1G",2
+"RAD23B",2
+"HES1",2
+"ZBTB7A",2
+"ALDH16A1",2
+"MED17",2
+"UBB",2
+"SREK1",2
+"PELI1",2
+"CHD1L",2
+"NCAPG",2
+"RNF111",2
+"PPT1",2
+"GZMM",2
+"POM121",2
+"NRF1",2
+"HDAC9",2
+"RECQL",2
+"HOXB7",2
+"PSMB9",2
+"CETN2",2
+"BLID",2
+"PARP2",2
+"MIR15B",2
+"PRMT1",2
+"UBE2M",2
+"GZMB",2
+"SP1",2
+"NCOA6",2
+"NKX2-1",2
+"MYB",2
+"MIR18A",2
+"METTL22",2
+"SMAD3",2
+"CTSG",2
+"TRIM14",2
+"MIR16-1",2
+"MIR17",2
+"YAP1",2
+"KIN",2
+"TRIM29",2
+"ULK1",2
+"HMGN2",2
+"CCNH",2
+"MIR20B",2
+"MIR34B",2
+"USF1",2
+"MACROD1",2
+"C4orf27",2
+"UBE2V2",2
+"ATXN2L",2
+"RFC5",2
+"TCEA2",2
+"RPS3A",2
+"TNKS",2
+"MIR29B1",2
+"MNAT1",2
+"NUP62",2
+"UBA52",2
+"NEDD9",2
+"TERF2IP",2
+"UHRF1",2
+"XRCC1",2
+"XRCC6",2
+"POLE",2
+"SNRNP27",2
+"RNF166",2
+"MIR107",2
+"SNAI1",2
+"RNH1",2
+"NFATC1",2
+"HIST1H2BA",2
+"LIG4",2
+"MIR1-1",2
+"MIRLET7G",2
+"MED7",2
+"TIA1",2
+"CASP9",2
+"OVOL2",2
+"MIR138-2",2
+"POLD2",2
+"CYP4F12",2
+"MIR145",2
+"MIR200C",2
+"APTX",2
+"SMARCAD1",2
+"SENP1",2
+"HMGN4",2
+"TDP1",2
+"PNKP",2
+"WDR36",2
+"HIST1H4C",2
+"MIR7-3",2
+"GTF2H5",2
+"WWP2",2
+"HNF1B",2
+"NUP88",2
+"STK24",2
+"IL24",2
+"TOPBP1",2
+"GTF2H3",2
+"MIR429",2
+"MIR140",2
+"NMNAT1",2
+"KLHDC3",2
+"MIR93",2
+"XRCC5",2
+"MIRLET7A2",2
+"VHL",2
+"CD86",2
+"GTF2H2",2
+"RIOK2",2
+"UBE2N",2
+"RFC2",2
+"ZBTB9",2
+"SPP1",2
+"USP36",2
+"PARP9",2
+"HMGN1",2
+"ZBTB16",2
+"THRSP",2
+"TIMELESS",2
+"SIRT3",2
+"XPC",2
+"TAF13",2
+"TAL1",2
+"WDR76",2
+"KLF8",2
+"ZBTB10",2
+"TOP2B",2
+"RPA4",2
+"UBAP2",2
+"LIG1",2
+"POLE4",2
+"THRB",2
+"MAFK",2
+"XPA",2
+"RASL10B",2
+"TIAL1",2
+"UHRF2",2
+"POLD3",2
+"POLG2",2
+"VRK3",2
+"SWAP70",2
+"VRK1",2
+"C6orf48",2
+"POLD4",2
+"ZNF746",2
+"PARP3",2
+"SIRT4",2
+"RPL22L1",2
+"WDTC1",2
+"YARS",2
+"POLQ",2
+"PRSS57",2
+"PARG",2
+"ART1",2
+"ZNF423",2
+"ZNF365",2
+"negative regulation of transcription by RNA polymerase II",6
+"nucleotide-excision repair, DNA damage recognition",6
+"nucleotide-excision repair, DNA duplex unwinding",6
+"telomere maintenance",6
+"double-strand break repair via homologous recombination",6
+"nuclear chromosome, telomeric region",6
+"RNA polymerase II regulatory region sequence-specific DNA binding",6
+"DNA-binding transcription activator activity, RNA polymerase II-specific",6
+"DNA binding",6
+"RNA binding",6
+"mRNA binding",6
+"NAD+ ADP-ribosyltransferase activity",6
+"SH3/SH2 adaptor activity",6
+"guanyl-nucleotide exchange factor activity",6
+"protein binding",6
+"nucleus",6
+"nuclear envelope",6
+"nucleoplasm",6
+"transcription factor complex",6
+"nucleolus",6
+"cytoplasm",6
+"mitochondrion",6
+"cytosol",6
+"DNA repair",6
+"nucleotide-excision repair, preincision complex stabilization",6
+"nucleotide-excision repair, preincision complex assembly",6
+"nucleotide-excision repair, DNA incision, 3'-to lesion",6
+"nucleotide-excision repair, DNA incision, 5'-to lesion",6
+"double-strand break repair",6
+"transcription by RNA polymerase II",6
+"protein ADP-ribosylation",6
+"apoptotic process",6
+"cellular response to DNA damage stimulus",6
+"mitochondrion organization",6
+"transforming growth factor beta receptor signaling pathway",6
+"cytoplasmic sequestering of NF-kappaB",6
+"JNK cascade",6
+"small GTPase mediated signal transduction",6
+"Ras protein signal transduction",6
+"transcription factor binding",6
+"zinc ion binding",6
+"positive regulation of signal transduction",6
+"response to gamma radiation",6
+"cytoplasmic stress granule",6
+"positive regulation of cardiac muscle hypertrophy",6
+"regulation of SMAD protein complex assembly",6
+"membrane",6
+"viral process",6
+"protein autoprocessing",6
+"nuclear body",6
+"peptidyl-serine ADP-ribosylation",6
+"peptidyl-glutamic acid poly-ADP-ribosylation",6
+"enzyme binding",6
+"protein kinase binding",6
+"signal transduction involved in regulation of gene expression",6
+"receptor signaling complex adaptor activity",6
+"macrophage differentiation",6
+"estrogen receptor binding",6
+"DNA ADP-ribosylation",6
+"mitochondrial DNA metabolic process",6
+"cellular response to insulin stimulus",6
+"protein-containing complex",6
+"protein-DNA complex",6
+"positive regulation of peptidyl-serine phosphorylation",6
+"positive regulation of intracellular estrogen receptor signaling pathway",6
+"nucleotide-excision repair, DNA incision",6
+"stress granule assembly",6
+"cellular response to oxidative stress",6
+"cellular response to UV",6
+"site of double-strand break",6
+"protein modification process",6
+"DNA damage response, detection of DNA damage",6
+"identical protein binding",6
+"histone deacetylase binding",6
+"mitochondrial DNA repair",6
+"regulation of DNA methylation",6
+"innate immune response",6
+"positive regulation of transcription by RNA polymerase II",6
+"protein N-terminus binding",6
+"regulation of catalytic activity",6
+"mRNA transport",6
+"protein homooligomerization",6
+"NAD binding",6
+"positive regulation of mitochondrial depolarization",6
+"positive regulation of SMAD protein signal transduction",6
+"positive regulation of stress granule assembly",6
+"protein poly-ADP-ribosylation",6
+"protein auto-ADP-ribosylation",6
+"R-SMAD binding",6
+"global genome nucleotide-excision repair",6
+"cellular response to zinc ion",6
+"site of DNA damage",6
+"NAD DNA ADP-ribosyltransferase activity",6
+"positive regulation of protein localization to nucleus",6
+"positive regulation of neuron death",6
+"regulation of oxidative stress-induced neuron intrinsic apoptotic signaling pathway",6
+"positive regulation of single strand break repair",6
+"regulation of cellular protein localization",6
+"response to aldosterone",6
+"negative regulation of telomere maintenance via telomere lengthening",6
+"cellular response to amyloid-beta",6
+"positive regulation of myofibroblast differentiation",6
+"positive regulation of double-strand break repair via homologous recombination",6
+"protein ADP-ribosylase activity",6
+"ribonucleoprotein complex",6
+"ATP generation from poly-ADP-D-ribose",6
+"positive regulation of transcription regulatory region DNA binding",6
+"negative regulation of ATP biosynthetic process",6

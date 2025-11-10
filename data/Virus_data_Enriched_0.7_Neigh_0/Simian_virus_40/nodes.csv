@@ -1,0 +1,502 @@
+"node","type"
+"10633.LT_SV40",0
+"10633.AGNO_SV40",0
+"ULBP1",1
+"RB1",1
+"TP53",1
+"ATM",1
+"HPGDS",1
+"BIRC5",1
+"POU3F3",1
+"BAG3",1
+"RBL1",1
+"HSPG2",1
+"IL10",1
+"POLI",1
+"autophagosome assembly",6
+"DNA damage checkpoint",6
+"G1/S transition of mitotic cell cycle",6
+"negative regulation of transcription by RNA polymerase II",6
+"nuclear chromosome",6
+"magnesium ion binding",6
+"telomere maintenance",6
+"double-strand break repair via homologous recombination",6
+"DNA double-strand break processing",6
+"DNA strand renaturation",6
+"adenyl-nucleotide exchange factor activity",6
+"chromosome, centromeric region",6
+"condensed chromosome kinetochore",6
+"chromosome, telomeric region",6
+"nuclear chromosome, telomeric region",6
+"chromatin",6
+"nuclear chromatin",6
+"RNA polymerase II cis-regulatory region sequence-specific DNA binding",6
+"DNA-binding transcription factor activity, RNA polymerase II-specific",6
+"cis-regulatory region sequence-specific DNA binding",6
+"RNA polymerase II regulatory region DNA binding",6
+"core promoter sequence-specific DNA binding",6
+"RNA polymerase II transcription factor binding",6
+"TFIID-class transcription factor complex binding",6
+"RNA polymerase II activating transcription factor binding",6
+"DNA-binding transcription activator activity, RNA polymerase II-specific",6
+"retinoid metabolic process",6
+"angiogenesis",6
+"amyloid-beta binding",6
+"ovarian follicle development",6
+"response to hypoxia",6
+"in utero embryonic development",6
+"stress fiber",6
+"somitogenesis",6
+"negative regulation of cytokine production",6
+"release of cytochrome c from mitochondria",6
+"tissue homeostasis",6
+"positive regulation of endothelial cell proliferation",6
+"protease binding",6
+"p53 binding",6
+"response to molecule of bacterial origin",6
+"hematopoietic progenitor cell differentiation",6
+"T cell proliferation involved in immune response",6
+"B cell lineage commitment",6
+"pre-B cell allelic exclusion",6
+"T cell lineage commitment",6
+"immunoglobulin production",6
+"negative regulation of cytokine secretion involved in immune response",6
+"negative regulation of chronic inflammatory response to antigenic stimulus",6
+"positive regulation of B cell apoptotic process",6
+"response to ischemia",6
+"aortic valve morphogenesis",6
+"DNA binding",6
+"chromatin binding",6
+"damaged DNA binding",6
+"DNA-binding transcription factor activity",6
+"transcription coactivator activity",6
+"mRNA 3'-UTR binding",6
+"DNA-directed DNA polymerase activity",6
+"glutathione transferase activity",6
+"prostaglandin-D synthase activity",6
+"protein serine/threonine kinase activity",6
+"DNA-dependent protein kinase activity",6
+"cytokine activity",6
+"interleukin-10 receptor binding",6
+"copper ion binding",6
+"calcium ion binding",6
+"protein binding",6
+"ATP binding",6
+"extracellular region",6
+"basement membrane",6
+"extracellular space",6
+"intracellular",6
+"cell",6
+"nucleus",6
+"nucleoplasm",6
+"replication fork",6
+"transcription factor complex",6
+"transcription factor TFIID complex",6
+"nucleolus",6
+"cytoplasm",6
+"mitochondrion",6
+"mitochondrial matrix",6
+"endoplasmic reticulum",6
+"Golgi lumen",6
+"centrosome",6
+"spindle",6
+"cytosol",6
+"spindle microtubule",6
+"plasma membrane",6
+"focal adhesion",6
+"glycosaminoglycan biosynthetic process",6
+"glycosaminoglycan catabolic process",6
+"DNA replication",6
+"DNA repair",6
+"nucleotide-excision repair",6
+"double-strand break repair",6
+"double-strand break repair via nonhomologous end joining",6
+"chromatin organization",6
+"chromatin remodeling",6
+"regulation of transcription, DNA-templated",6
+"protein folding",6
+"protein phosphorylation",6
+"negative regulation of protein kinase activity",6
+"protein import into nucleus",6
+"lipid metabolic process",6
+"prostaglandin metabolic process",6
+"glutathione metabolic process",6
+"receptor-mediated endocytosis",6
+"autophagy",6
+"apoptotic process",6
+"inflammatory response",6
+"immune response",6
+"cellular response to DNA damage stimulus",6
+"DNA damage induced protein phosphorylation",6
+"DNA damage response, signal transduction by p53 class mediator resulting in cell cycle arrest",6
+"DNA damage response, signal transduction by p53 class mediator resulting in transcription of p21 class mediator",6
+"ER overload response",6
+"cell cycle",6
+"cell cycle arrest",6
+"chromosome segregation",6
+"mitotic cell cycle checkpoint",6
+"mitotic spindle assembly checkpoint",6
+"reciprocal meiotic recombination",6
+"male meiotic nuclear division",6
+"female meiotic nuclear division",6
+"signal transduction",6
+"transforming growth factor beta receptor signaling pathway",6
+"cytoplasmic sequestering of NF-kappaB",6
+"Ras protein signal transduction",6
+"regulation of mitotic cell cycle",6
+"gastrulation",6
+"negative regulation of neuroblast proliferation",6
+"central nervous system development",6
+"brain development",6
+"heart development",6
+"aging",6
+"cell aging",6
+"excretion",6
+"sensory perception of sound",6
+"locomotory behavior",6
+"microtubule binding",6
+"protein C-terminus binding",6
+"cyclin/CDK positive transcription elongation factor complex",6
+"growth factor activity",6
+"protein localization",6
+"transcription factor binding",6
+"negative regulation of DNA replication",6
+"zinc ion binding",6
+"positive regulation of cell population proliferation",6
+"negative regulation of cell population proliferation",6
+"determination of adult lifespan",6
+"Ran GTPase binding",6
+"extrinsic apoptotic signaling pathway via death domain receptors",6
+"intrinsic apoptotic signaling pathway in response to DNA damage",6
+"mRNA transcription",6
+"rRNA transcription",6
+"response to salt stress",6
+"post-embryonic development",6
+"animal organ morphogenesis",6
+"tissue development",6
+"external side of plasma membrane",6
+"response to X-ray",6
+"response to ionizing radiation",6
+"response to gamma radiation",6
+"regulation of gene expression",6
+"regulation of autophagy",6
+"negative regulation of autophagy",6
+"positive regulation of gene expression",6
+"negative regulation of gene expression",6
+"negative regulation of striated muscle cell apoptotic process",6
+"positive regulation of cardiac muscle cell apoptotic process",6
+"response to activity",6
+"response to inactivity",6
+"viral process",6
+"aggresome",6
+"1-phosphatidylinositol-3-kinase activity",6
+"nuclear matrix",6
+"SWI/SNF complex",6
+"negative regulation of angiogenesis",6
+"histone phosphorylation",6
+"protein deubiquitination",6
+"nuclear body",6
+"PML body",6
+"nuclear speck",6
+"peptidyl-serine phosphorylation",6
+"cytokine-mediated signaling pathway",6
+"cyclooxygenase pathway",6
+"enzyme binding",6
+"kinase binding",6
+"protein kinase binding",6
+"protein phosphatase binding",6
+"translesion synthesis",6
+"spinal cord development",6
+"cerebellum development",6
+"cerebral cortex radially oriented cell migration",6
+"forebrain ventricular zone progenitor cell division",6
+"Z disc",6
+"extracellular matrix structural constituent conferring compression resistance",6
+"hemopoiesis",6
+"natural killer cell activation",6
+"cell differentiation",6
+"neuron differentiation",6
+"B cell differentiation",6
+"extracellular matrix organization",6
+"negative regulation of cell growth",6
+"DNA damage response, signal transduction by p53 class mediator",6
+"positive regulation of cell migration",6
+"midbody",6
+"negative regulation of transforming growth factor beta receptor signaling pathway",6
+"androgen receptor signaling pathway",6
+"leukocyte chemotaxis",6
+"negative regulation of myeloid dendritic cell activation",6
+"negative regulation of B cell proliferation",6
+"receptor tyrosine kinase binding",6
+"positive regulation of histone deacetylation",6
+"sister chromatid biorientation",6
+"neuron projection development",6
+"cytoplasmic vesicle",6
+"chromatin assembly",6
+"protein-containing complex localization",6
+"mitotic G1 DNA damage checkpoint",6
+"ubiquitin protein ligase binding",6
+"nuclear membrane",6
+"chromosome passenger complex",6
+"regulation of telomere maintenance via telomerase",6
+"positive regulation of telomere maintenance via telomerase",6
+"negative regulation of interferon-gamma production",6
+"negative regulation of interleukin-1 production",6
+"negative regulation of interleukin-12 production",6
+"negative regulation of interleukin-18 production",6
+"negative regulation of interleukin-6 production",6
+"negative regulation of interleukin-8 production",6
+"negative regulation of tumor necrosis factor production",6
+"receptor biosynthetic process",6
+"response to insulin",6
+"protein-containing complex",6
+"T cell differentiation in thymus",6
+"positive regulation of histone phosphorylation",6
+"V(D)J recombination",6
+"tumor necrosis factor-mediated signaling pathway",6
+"maintenance of mitotic sister chromatid cohesion",6
+"regulation of tissue remodeling",6
+"negative regulation of heterotypic cell-cell adhesion",6
+"positive regulation of heterotypic cell-cell adhesion",6
+"glial cell apoptotic process",6
+"response to carbon monoxide",6
+"cellular response to heat",6
+"cellular response to unfolded protein",6
+"cellular response to UV",6
+"histone deacetylase regulator activity",6
+"histone acetyltransferase binding",6
+"Rb-E2F complex",6
+"multicellular organism growth",6
+"cellular response to drug",6
+"interleukin-12-mediated signaling pathway",6
+"cellular response to hepatocyte growth factor stimulus",6
+"positive regulation of mitochondrial membrane permeability",6
+"site of double-strand break",6
+"skeletal muscle cell differentiation",6
+"positive regulation of transcription from RNA polymerase II promoter in response to stress",6
+"phosphatidylinositol-3-phosphate biosynthetic process",6
+"peptidyl-serine autophosphorylation",6
+"cytoplasmic ribonucleoprotein granule",6
+"type 2 immune response",6
+"B cell proliferation",6
+"negative regulation of T cell proliferation",6
+"cellular response to glucose starvation",6
+"lipoprotein catabolic process",6
+"natural killer cell mediated cytotoxicity",6
+"error-prone translesion synthesis",6
+"positive regulation of protein import into nucleus",6
+"negative regulation of tumor necrosis factor biosynthetic process",6
+"neuron maturation",6
+"defense response to bacterium",6
+"intrinsic apoptotic signaling pathway in response to DNA damage by p53 class mediator",6
+"identical protein binding",6
+"protein homodimerization activity",6
+"histone deacetylase binding",6
+"defense response to protozoan",6
+"regulation of apoptotic process",6
+"neuron projection",6
+"cysteine-type endopeptidase inhibitor activity involved in apoptotic process",6
+"positive regulation of macrophage activation",6
+"positive regulation of apoptotic process",6
+"negative regulation of apoptotic process",6
+"entrainment of circadian clock by photoperiod",6
+"negative regulation of cysteine-type endopeptidase activity involved in apoptotic process",6
+"lysosomal lumen",6
+"intracellular membrane-bounded organelle",6
+"enucleate erythrocyte differentiation",6
+"negative regulation of DNA-binding transcription factor activity",6
+"mitochondrial DNA repair",6
+"regulation of DNA damage response, signal transduction by p53 class mediator",6
+"positive regulation of DNA damage response, signal transduction by p53 class mediator",6
+"negative regulation of neuron apoptotic process",6
+"positive regulation of neuron apoptotic process",6
+"regulation of lipid kinase activity",6
+"sequence-specific DNA binding",6
+"protein self-association",6
+"transcription regulatory region DNA binding",6
+"cellular protein metabolic process",6
+"protein-containing complex binding",6
+"negative regulation of nitric oxide biosynthetic process",6
+"meiotic telomere clustering",6
+"regulation of isotype switching",6
+"cadherin binding",6
+"negative regulation of MHC class II biosynthetic process",6
+"positive regulation of MHC class II biosynthetic process",6
+"negative regulation of interferon-alpha biosynthetic process",6
+"myoblast differentiation",6
+"dynein intermediate chain binding",6
+"positive regulation of macrophage differentiation",6
+"positive regulation of cell adhesion",6
+"negative regulation of cell cycle",6
+"positive regulation of cell cycle",6
+"positive regulation of mitotic metaphase/anaphase transition",6
+"negative regulation of proteolysis",6
+"negative regulation of smoothened signaling pathway",6
+"negative regulation of transcription, DNA-templated",6
+"positive regulation of transcription, DNA-templated",6
+"positive regulation of RNA polymerase II transcriptional preinitiation complex assembly",6
+"negative regulation of mitotic cell cycle",6
+"positive regulation of transcription by RNA polymerase II",6
+"positive regulation of receptor signaling pathway via JAK-STAT",6
+"anchored component of plasma membrane",6
+"response to antibiotic",6
+"natural killer cell lectin-like receptor binding",6
+"muscle cell cellular homeostasis",6
+"protein autophosphorylation",6
+"positive regulation of protein export from nucleus",6
+"metal ion binding",6
+"protein heterodimerization activity",6
+"protein dimerization activity",6
+"protein N-terminus binding",6
+"negative regulation of fibroblast proliferation",6
+"circadian behavior",6
+"thymus development",6
+"bone marrow development",6
+"digestive tract development",6
+"embryonic organ development",6
+"oocyte development",6
+"cell morphogenesis involved in neuron differentiation",6
+"chemical homeostasis",6
+"negative regulation of epithelial cell proliferation",6
+"androgen receptor binding",6
+"positive regulation of cytokine secretion",6
+"negative regulation of inflammatory response",6
+"positive regulation of peptidyl-tyrosine phosphorylation",6
+"low-density lipoprotein particle receptor binding",6
+"regulation of immune response",6
+"regulation of catalytic activity",6
+"regulation of synapse organization",6
+"protein stabilization",6
+"negative regulation of membrane protein ectodomain proteolysis",6
+"chaperone binding",6
+"positive regulation of DNA-binding transcription factor activity",6
+"negative regulation of helicase activity",6
+"RNA polymerase II preinitiation complex assembly",6
+"striated muscle cell differentiation",6
+"phosphoprotein binding",6
+"protein tetramerization",6
+"cell division",6
+"regulation of cell division",6
+"response to glucocorticoid",6
+"neuron apoptotic process",6
+"protein phosphatase 2A binding",6
+"regulation of telomerase activity",6
+"negative regulation of telomerase activity",6
+"hematopoietic stem cell differentiation",6
+"negative regulation of cytokine activity",6
+"interferon-gamma-mediated signaling pathway",6
+"cardiac septum morphogenesis",6
+"branching involved in labyrinthine layer morphogenesis",6
+"positive regulation of transcription from RNA polymerase II promoter in response to hypoxia",6
+"importin-alpha family protein binding",6
+"chaperone-mediated autophagy",6
+"collagen-containing extracellular matrix",6
+"positive regulation of programmed necrotic cell death",6
+"protein-containing complex assembly",6
+"intrinsic apoptotic signaling pathway in response to endoplasmic reticulum stress",6
+"extracellular exosome",6
+"positive regulation of thymocyte apoptotic process",6
+"necroptotic process",6
+"aggresome assembly",6
+"histone mRNA catabolic process",6
+"positive regulation of cell cycle arrest",6
+"cellular response to lipopolysaccharide",6
+"cellular response to mechanical stimulus",6
+"cellular response to retinoic acid",6
+"cellular response to estradiol stimulus",6
+"cellular response to hypoxia",6
+"protein localization to chromosome, centromeric region",6
+"cellular response to xenobiotic stimulus",6
+"cellular response to ionizing radiation",6
+"cellular response to gamma radiation",6
+"cellular response to X-ray",6
+"cellular response to UV-C",6
+"cellular response to nitrosative stress",6
+"negative regulation of chemokine (C-C motif) ligand 5 production",6
+"HMG box domain binding",6
+"mitotic cell cycle arrest",6
+"negative regulation of protein serine/threonine kinase activity",6
+"regulation of cohesin loading",6
+"negative regulation of transcription involved in G1/S transition of mitotic cell cycle",6
+"metanephric ascending thin limb development",6
+"metanephric macula densa development",6
+"metanephric thick ascending limb development",6
+"metanephric loop of Henle development",6
+"metanephric DCT cell differentiation",6
+"chaperone-mediated protein transport",6
+"signal transduction by p53 class mediator",6
+"intrinsic apoptotic signaling pathway by p53 class mediator",6
+"cardiovascular system development",6
+"signal transduction involved in mitotic G2 DNA damage checkpoint",6
+"endothelial cell apoptotic process",6
+"cellular response to actinomycin D",6
+"positive regulation of release of cytochrome c from mitochondria",6
+"regulation of centromere complex assembly",6
+"mitotic spindle assembly",6
+"positive regulation of cell aging",6
+"replicative senescence",6
+"oxidative stress-induced premature senescence",6
+"extrinsic apoptotic signaling pathway in absence of ligand",6
+"intrinsic apoptotic signaling pathway",6
+"negative regulation of transcription from RNA polymerase II promoter in response to stress",6
+"oligodendrocyte apoptotic process",6
+"hepatocyte apoptotic process",6
+"MDM2/MDM4 family protein binding",6
+"liver regeneration",6
+"establishment of RNA localization to telomere",6
+"establishment of protein-containing complex localization to telomere",6
+"disordered domain specific binding",6
+"plasma membrane protein complex",6
+"protein transport along microtubule",6
+"chaperone complex",6
+"negative regulation of cold-induced thermogenesis",6
+"regulation of cellular response to heat",6
+"positive regulation of execution phase of apoptosis",6
+"positive regulation of protein insertion into mitochondrial membrane involved in apoptotic signaling pathway",6
+"negative regulation of mitophagy",6
+"glutathione derivative biosynthetic process",6
+"regulation of signal transduction by p53 class mediator",6
+"regulation of mitochondrial membrane permeability involved in apoptotic process",6
+"regulation of intrinsic apoptotic signaling pathway by p53 class mediator",6
+"regulation of cell cycle G2/M phase transition",6
+"positive regulation of pri-miRNA transcription by RNA polymerase II",6
+"negative regulation of tau-protein kinase activity",6
+"regulation of response to wounding",6
+"positive regulation of extracellular matrix organization",6
+"negative regulation of hydrogen peroxide-induced neuron death",6
+"negative regulation of protein targeting to mitochondrion",6
+"positive regulation of DNA catabolic process",6
+"regulation of complement-dependent cytotoxicity",6
+"positive regulation of sprouting angiogenesis",6
+"negative regulation of production of miRNAs involved in gene silencing by miRNA",6
+"positive regulation of production of miRNAs involved in gene silencing by miRNA",6
+"regulation of microglial cell activation",6
+"negative regulation of glucose catabolic process to lactate via pyruvate",6
+"positive regulation of collagen fibril organization",6
+"negative regulation of sensory perception of pain",6
+"negative regulation of TORC1 signaling",6
+"negative regulation of telomere capping",6
+"positive regulation of telomere maintenance via telomere lengthening",6
+"negative regulation of vascular smooth muscle cell proliferation",6
+"positive regulation of vascular smooth muscle cell proliferation",6
+"negative regulation of myofibroblast differentiation",6
+"positive regulation of telomerase catalytic core complex assembly",6
+"positive regulation of aggrephagy",6
+"regulation of cellular response to gamma radiation",6
+"negative regulation of pentose-phosphate shunt",6
+"intrinsic apoptotic signaling pathway in response to hypoxia",6
+"regulation of transcription from RNA polymerase II promoter in response to DNA damage",6
+"DNA repair complex",6
+"positive regulation of transcription from RNA polymerase II promoter in response to endoplasmic reticulum stress",6
+"promoter-specific chromatin binding",6
+"negative regulation of G1/S transition of mitotic cell cycle",6
+"negative regulation of male germ cell proliferation",6
+"regulation of fibroblast apoptotic process",6
+"negative regulation of endothelial cell apoptotic process",6
+"negative regulation of reactive oxygen species metabolic process",6
+"positive regulation of reactive oxygen species metabolic process",6
+"positive regulation of transcription regulatory region DNA binding",6
+"regulation of cellular senescence",6
+"negative regulation of cellular senescence",6
+"negative regulation of apoptotic signaling pathway",6
+"positive regulation of intrinsic apoptotic signaling pathway",6

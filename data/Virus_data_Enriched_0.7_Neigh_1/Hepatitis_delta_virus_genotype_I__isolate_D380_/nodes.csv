@@ -1,0 +1,627 @@
+"node","type"
+"12475.SHDAG_HDVD3",0
+"CSNK2A3",2
+"YY1",2
+"PRMT1",2
+"CYLD",2
+"ELAVL1",2
+"GLTSCR2",2
+"HDAC5",2
+"MCM2",2
+"EFTUD2",2
+"LARP7",2
+"MOV10",2
+"FN1",2
+"FUS",2
+"HIST1H2BB",2
+"KPNA2",2
+"MYC",2
+"SIRT1",2
+"NTRK1",2
+"CUL4A",2
+"AGR2",2
+"HNRNPA1",2
+"DYNLT1",2
+"EP300",2
+"GRWD1",2
+"ITFG1",2
+"ESR1",2
+"CSNK2A2",2
+"CSNK2B",2
+"EP400",2
+"CCT7",2
+"DDB1",2
+"MIR221",2
+"EZH2",2
+"KIAA1429",2
+"CUL7",2
+"CUL1",2
+"APP",2
+"HSPA5",2
+"RNPS1",2
+"MIR199A1",2
+"MECP2",2
+"H2AFX",2
+"GAN",2
+"EWSR1",2
+"BRCA1",2
+"HIST1H4A",2
+"RNF2",2
+"CDC37",2
+"PPIA",2
+"ILF3",2
+"RNF4",2
+"EYA4",2
+"HDAC1",2
+"NR1H2",2
+"COPS6",2
+"HNRNPU",2
+"MCM7",2
+"AURKA",2
+"ARRB1",2
+"MIRLET7F2",2
+"NPM1",2
+"ESR2",2
+"FBXO7",2
+"HIST4H4",2
+"MIRLET7A3",2
+"CSNK2A1",2
+"DAXX",2
+"HNRNPR",2
+"PARP1",2
+"JUN",2
+"HSPA4",2
+"MED31",2
+"ASH2L",2
+"FOXL1",2
+"HDAC3",2
+"C17orf53",2
+"MTOR",2
+"TP53",2
+"COPS3",2
+"NHP2L1",2
+"DGCR8",2
+"COPS5",2
+"BMI1",2
+"MDM2",2
+"DDX5",2
+"POLR2A",2
+"NCL",2
+"ACTB",2
+"RECQL4",2
+"CUL2",2
+"SUZ12",2
+"CDK2",2
+"SNRPD2",2
+"SNRPD3",2
+"HIST1H4F",2
+"EGLN3",2
+"OBSL1",2
+"PRKDC",2
+"F9",2
+"PCNA",2
+"SMAD2",2
+"RUVBL1",2
+"DDB2",2
+"RXRA",2
+"ACTL6A",2
+"CUL3",2
+"HCFC1",2
+"PRMT6",2
+"HIST1H3A",2
+"COPS4",2
+"CAND1",2
+"MIR138-1",2
+"SETD1A",2
+"MIR25",2
+"NEDD4L",2
+"NR2C2",2
+"FOXO1",2
+"GBF1",2
+"HDAC2",2
+"EHMT2",2
+"POLR2G",2
+"CTNNB1",2
+"CREBBP",2
+"DDX3X",2
+"GABPB1",2
+"MIRLET7A1",2
+"RPTOR",2
+"AAR2",2
+"H2AFZ",2
+"NRIP1",2
+"BCCIP",2
+"CDC25B",2
+"FBL",2
+"KHDRBS2",2
+"ATXN3",2
+"MCM4",2
+"NXF1",2
+"FOXK1",2
+"POLR2E",2
+"PPARGC1A",2
+"CIRBP",2
+"DCAF16",2
+"ASXL2",2
+"KHDRBS3",2
+"BAX",2
+"INO80B",2
+"MIR141",2
+"MIRLET7E",2
+"CHTOP",2
+"HUWE1",2
+"POLR2C",2
+"WDR33",2
+"HIST1H4J",2
+"HIST1H4K",2
+"HIST1H4I",2
+"HIST1H4D",2
+"RARA",2
+"PIH1D1",2
+"MIR34A",2
+"ARRB2",2
+"CLNS1A",2
+"HIST2H2BE",2
+"BCLAF1",2
+"GATA1",2
+"CARM1",2
+"SSSCA1",2
+"MAX",2
+"MIR9-2",2
+"RELA",2
+"FOXB1",2
+"TRRAP",2
+"FBXW7",2
+"AR",2
+"ANP32E",2
+"SH3GL1",2
+"PML",2
+"PHB",2
+"NFKBIA",2
+"METTL14",2
+"DCAF8",2
+"TRIM25",2
+"DPF2",2
+"CDKN2A",2
+"SHMT2",2
+"MIR19A",2
+"NCOA3",2
+"TFAP2A",2
+"AGO3",2
+"DVL2",2
+"G3BP1",2
+"ATF7",2
+"UBE2D1",2
+"RBBP7",2
+"MTA2",2
+"CFLAR",2
+"KDM6A",2
+"GABPA",2
+"HIST1H2AC",2
+"RAF1",2
+"TFDP1",2
+"AGO1",2
+"STUB1",2
+"ATF2",2
+"JUNB",2
+"DNM1L",2
+"RUVBL2",2
+"TNIP2",2
+"NCOA2",2
+"POU2F1",2
+"MRE11A",2
+"THOC1",2
+"CEP162",2
+"DHX9",2
+"SNRNP70",2
+"EIF4A3",2
+"C1QBP",2
+"POLR2B",2
+"NEDD4",2
+"SYNCRIP",2
+"BCL6",2
+"ERH",2
+"PSMD9",2
+"CTCF",2
+"MIR9-3",2
+"TP53BP1",2
+"KMT2A",2
+"WDR77",2
+"CUL4B",2
+"NCOR1",2
+"KHDRBS1",2
+"EIF4A1",2
+"KAT2B",2
+"HIST1H2BO",2
+"HABP4",2
+"COIL",2
+"RBX1",2
+"METTL3",2
+"HNRNPK",2
+"HNRNPUL1",2
+"SNRPD1",2
+"EED",2
+"GRN",2
+"SKP2",2
+"SOX2",2
+"PTCH1",2
+"MIR122",2
+"GP1BA",2
+"ERBB2",2
+"BTG2",2
+"FOXK2",2
+"MCRS1",2
+"ID2",2
+"HIST1H2BJ",2
+"CAPRIN1",2
+"ZBTB14",2
+"KPNA6",2
+"HDAC4",2
+"PABPN1",2
+"PCGF2",2
+"SAP30",2
+"GTF2A1",2
+"MIR106A",2
+"COPS7A",2
+"MIR19B1",2
+"NFKB1",2
+"INO80E",2
+"MIR106B",2
+"TCF3",2
+"DUSP23",2
+"NOTCH1",2
+"TNRC6A",2
+"ACLY",2
+"MYCN",2
+"OGT",2
+"HIST1H2BD",2
+"MIR222",2
+"RB1",2
+"FOXO3",2
+"POLR2I",2
+"MIR92A2",2
+"MIR206",2
+"CERK",2
+"FOS",2
+"GTF2I",2
+"S100A8",2
+"MIR18B",2
+"CREB1",2
+"MLST8",2
+"CEP164",2
+"RPS2",2
+"INO80D",2
+"MAGOH",2
+"EIF4B",2
+"TERF2",2
+"TFCP2",2
+"MIR10B",2
+"DNMT3L",2
+"MIR128-1",2
+"HIST1H2AH",2
+"HIST1H2AA",2
+"H2AFV",2
+"AGO2",2
+"RAD23A",2
+"CRY2",2
+"MECOM",2
+"MIR16-2",2
+"KMT2C",2
+"FOXA1",2
+"NBN",2
+"ALYREF",2
+"AGO4",2
+"SMURF1",2
+"UBAP2L",2
+"VIM",2
+"POLR2L",2
+"CTPS1",2
+"MIR29C",2
+"MIR19B2",2
+"MDP1",2
+"SMAD1",2
+"MIR200B",2
+"HIST1H2BM",2
+"CRKL",2
+"ING3",2
+"MIR29A",2
+"E2F3",2
+"E2F2",2
+"AXIN1",2
+"SKP1",2
+"ACP1",2
+"HIST2H2AC",2
+"PRMT5",2
+"MIR155",2
+"WDYHV1",2
+"COPS8",2
+"INO80",2
+"MTMR14",2
+"PTPN7",2
+"NFE2L2",2
+"FBXL17",2
+"RPS6KB2",2
+"TERF1",2
+"GADD45A",2
+"PPP1R8",2
+"FAM9A",2
+"ARPC3",2
+"MIR92A1",2
+"RING1",2
+"RBBP4",2
+"SIN3A",2
+"HIST1H4H",2
+"NR1H4",2
+"FGF2",2
+"NCOA1",2
+"CITED1",2
+"MIR363",2
+"ACTR8",2
+"FOXJ2",2
+"MIR200A",2
+"KMT2D",2
+"LSM14A",2
+"ATF6",2
+"NEK2",2
+"MIR143",2
+"MIR20A",2
+"KMT2B",2
+"CLK3",2
+"SMAD4",2
+"LRIF1",2
+"ACTR5",2
+"YAF2",2
+"POLR2D",2
+"PAX6",2
+"MIRLET7F1",2
+"HIST2H2AB",2
+"SERBP1",2
+"MIR9-1",2
+"KAT5",2
+"BAP1",2
+"GAR1",2
+"MIRLET7D",2
+"RAD23B",2
+"DPY30",2
+"MBD2",2
+"HSF2",2
+"TBP",2
+"SNRPE",2
+"TAF15",2
+"SHFM1",2
+"COPS2",2
+"MIR15A",2
+"RBBP5",2
+"IFNAR1",2
+"KMT2E",2
+"PAXIP1",2
+"TNRC6B",2
+"SLC39A7",2
+"CETN2",2
+"FKBP1A",2
+"GPATCH2L",2
+"RUNX1",2
+"MIR15B",2
+"HIST1H2BN",2
+"UBE2M",2
+"POLR2H",2
+"SP1",2
+"STAT1",2
+"INO80C",2
+"PPARA",2
+"NCOA6",2
+"COPS7B",2
+"MIR29B2",2
+"SMAD3",2
+"DVL1",2
+"MIR16-1",2
+"MIR17",2
+"MIR451A",2
+"HIST1H2BL",2
+"RYBP",2
+"PTP4A1",2
+"SREBF1",2
+"SNRPB",2
+"MIR20B",2
+"USF1",2
+"SMURF2",2
+"GPS1",2
+"MIR1-2",2
+"RELB",2
+"ITGA2B",2
+"GRHL3",2
+"STAT5A",2
+"FKBP3",2
+"HIST2H4A",2
+"OFCC1",2
+"BRD8",2
+"TRPV5",2
+"SMAD6",2
+"GRIP1",2
+"UCHL5",2
+"HIST1H2BK",2
+"MIR29B1",2
+"TENC1",2
+"HIST1H2BH",2
+"SNRPF",2
+"MIR199A2",2
+"HIST3H2A",2
+"FAM83D",2
+"NFRKB",2
+"XRCC6",2
+"MIR107",2
+"POLR2F",2
+"FOXN1",2
+"HIST1H2AD",2
+"HIST1H2BA",2
+"ASXL1",2
+"SPRY1",2
+"MIR1-1",2
+"SIN3B",2
+"POLR2J",2
+"ZNF830",2
+"HNF4A",2
+"MIR145",2
+"MIR34C",2
+"SMARCAD1",2
+"PRMT8",2
+"HIST1H4C",2
+"MIR7-3",2
+"BTG1",2
+"SETD1B",2
+"C4orf17",2
+"GATA3",2
+"SP3",2
+"C20orf196",2
+"FOXO6",2
+"FOXO4",2
+"ZNF232",2
+"HIST1H4E",2
+"NR1I2",2
+"EZH1",2
+"GTF2A2",2
+"LAMC2",2
+"HIST1H2AJ",2
+"XRCC5",2
+"MIRLET7A2",2
+"VHL",2
+"SPSB2",2
+"CNOT8",2
+"YLPM1",2
+"WDR5",2
+"ZNF24",2
+"RBM15",2
+"PTGDR",2
+"HIST1H4B",2
+"HIST2H4B",2
+"FUNDC1",2
+"H2BFS",2
+"CBFB",2
+"IGSF21",2
+"NSUN5",2
+"JUND",2
+"TWIST1",2
+"PTP4A2",2
+"SNRPG",2
+"POLR2K",2
+"HIST1H4L",2
+"UNC93B1",2
+"TFAP2B",2
+"UBE4B",2
+"SUPT5H",2
+"TFAP2C",2
+"XPC",2
+"HOXA11",2
+"RNF187",2
+"WDR76",2
+"PPP1R3B",2
+"VPS72",2
+"TFF1",2
+"TFPT",2
+"TBX6",2
+"THRB",2
+"WDFY3",2
+"H2AFJ",2
+"SPSB1",2
+"TNRC6C",2
+"RARB",2
+"UHRF2",2
+"SPAG8",2
+"WDHD1",2
+"HOXD4",2
+"THBS1",2
+"ZNF451",2
+"SPEG",2
+"TESK1",2
+"TMEM150A",2
+"H2AFB1",2
+"ENSG00000267140",2
+"ENSG00000263020",2
+"TRIM48",2
+"ZFPM1",2
+"ZMYM5",2
+"SAMD3",2
+"ZNF638",2
+"negative regulation of transcription by RNA polymerase II",6
+"four-way junction DNA binding",6
+"double-strand break repair via homologous recombination",6
+"nuclear chromatin",6
+"RNA polymerase II cis-regulatory region sequence-specific DNA binding",6
+"cis-regulatory region sequence-specific DNA binding",6
+"DNA-binding transcription repressor activity, RNA polymerase II-specific",6
+"in utero embryonic development",6
+"DNA binding",6
+"DNA-binding transcription factor activity",6
+"transcription coactivator activity",6
+"transcription corepressor activity",6
+"RNA binding",6
+"protein serine/threonine kinase activity",6
+"protein binding",6
+"ATP binding",6
+"nucleus",6
+"nucleoplasm",6
+"transcription factor complex",6
+"cytoplasm",6
+"cytosol",6
+"protein kinase CK2 complex",6
+"regulation of transcription by RNA polymerase II",6
+"RNA localization",6
+"protein phosphorylation",6
+"protein methylation",6
+"cellular response to DNA damage stimulus",6
+"DNA damage response, signal transduction by p53 class mediator resulting in cell cycle arrest",6
+"cell surface receptor signaling pathway",6
+"spermatogenesis",6
+"methyltransferase activity",6
+"N-methyltransferase activity",6
+"zinc ion binding",6
+"protein methyltransferase activity",6
+"positive regulation of cell population proliferation",6
+"methyl-CpG binding",6
+"anterior/posterior pattern specification",6
+"response to UV-C",6
+"gene expression",6
+"negative regulation of gene expression",6
+"protein-arginine N-methyltransferase activity",6
+"nuclear matrix",6
+"histone methylation",6
+"protein deubiquitination",6
+"peptidyl-serine phosphorylation",6
+"peptidyl-threonine phosphorylation",6
+"peptidyl-arginine methylation",6
+"enzyme binding",6
+"peptidyl-arginine methylation, to asymmetrical-dimethyl arginine",6
+"cell differentiation",6
+"positive regulation of cell growth",6
+"Ino80 complex",6
+"neuron projection development",6
+"PcG protein complex",6
+"negative regulation of interferon-beta production",6
+"cellular response to UV",6
+"response to prostaglandin F",6
+"methylosome",6
+"protein-arginine omega-N monomethyltransferase activity",6
+"protein-arginine omega-N asymmetric methyltransferase activity",6
+"histone methyltransferase activity",6
+"identical protein binding",6
+"sequence-specific DNA binding",6
+"histone H4-R3 methylation",6
+"histone methyltransferase activity (H4-R3 specific)",6
+"transcription regulatory region DNA binding",6
+"positive regulation of erythrocyte differentiation",6
+"regulation of megakaryocyte differentiation",6
+"negative regulation of megakaryocyte differentiation",6
+"positive regulation of protein catabolic process",6
+"positive regulation of transcription by RNA polymerase II",6
+"SMAD binding",6
+"positive regulation of hemoglobin biosynthetic process",6
+"mitogen-activated protein kinase p38 binding",6
+"camera-type eye morphogenesis",6
+"protein homooligomerization",6
+"chromosome organization",6
+"regulation of cell cycle",6
+"negative regulation of cell growth involved in cardiac muscle cell development",6
+"cellular response to interleukin-1",6
+"positive regulation of p38MAPK cascade",6
+"negative regulation of pri-miRNA transcription by RNA polymerase II",6
+"S-adenosyl-L-methionine binding",6

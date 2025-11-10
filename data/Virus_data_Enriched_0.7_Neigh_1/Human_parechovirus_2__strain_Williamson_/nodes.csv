@@ -1,0 +1,723 @@
+"node","type"
+"195054.PRO_0000039755",0
+"RTN2",2
+"RTN1",2
+"RTN4",2
+"BECN1",2
+"IKBKB",2
+"CYLD",2
+"ELAVL1",2
+"EPHA2",2
+"EGFR",2
+"RAB9A",2
+"BAK1",2
+"CDK6",2
+"NTRK1",2
+"AGR2",2
+"FAM134C",2
+"CSNK2B",2
+"KRAS",2
+"DDB1",2
+"KIAA1429",2
+"CUL1",2
+"HSPA5",2
+"FADD",2
+"HNRNPM",2
+"BRCA1",2
+"CHUK",2
+"RNF2",2
+"HIF1A",2
+"CDC37",2
+"ATG16L1",2
+"CANX",2
+"ILF3",2
+"LMNA",2
+"RNF4",2
+"PPARG",2
+"ITCH",2
+"HNRNPU",2
+"CDC34",2
+"IKBKG",2
+"NR4A1",2
+"AURKA",2
+"GNB2L1",2
+"TRIM27",2
+"ESR2",2
+"CDH1",2
+"EIF2AK2",2
+"FBXW11",2
+"RNF31",2
+"JUN",2
+"MAP3K7",2
+"MAP2K5",2
+"UBC",2
+"MDN1",2
+"AKT3",2
+"MTOR",2
+"TP53",2
+"COPS3",2
+"BNIP3",2
+"CRMP1",2
+"COPS5",2
+"BCL10",2
+"TRAF1",2
+"ACBD3",2
+"SPOP",2
+"APEX1",2
+"HSP90AA1",2
+"TNFRSF1A",2
+"EGLN3",2
+"HSD17B10",2
+"PRKDC",2
+"PRKD2",2
+"CLTC",2
+"BTRC",2
+"SMAD2",2
+"FRS2",2
+"CASP3",2
+"E2F4",2
+"SLAMF1",2
+"CUL3",2
+"ARNT",2
+"COPS4",2
+"ARHGDIA",2
+"DYRK2",2
+"RPS27",2
+"NEDD4L",2
+"EXOC4",2
+"AKT1",2
+"FOXO1",2
+"DAPK2",2
+"FAF1",2
+"PTOV1",2
+"PPM1B",2
+"CTNNB1",2
+"MAP3K11",2
+"TEAD2",2
+"LAMP1",2
+"BACE1",2
+"CREBBP",2
+"PPP2CA",2
+"RPTOR",2
+"PIK3CB",2
+"ATG101",2
+"ATXN3",2
+"CIRBP",2
+"IFITM3",2
+"HUWE1",2
+"GAPDH",2
+"ATL3",2
+"GPR161",2
+"HSP90AB1",2
+"RPA3",2
+"CASP8",2
+"ATP1B3",2
+"CHAF1A",2
+"PIK3CA",2
+"ATG4B",2
+"TUFM",2
+"DYNC1I1",2
+"HERC5",2
+"ARL6IP1",2
+"DDX46",2
+"PIK3C2A",2
+"HDAC8",2
+"FXR2",2
+"SMN1",2
+"STAT3",2
+"BCL2",2
+"SNX1",2
+"SLC9A3R2",2
+"PPP1CA",2
+"PTEN",2
+"MAVS",2
+"MAPK6",2
+"RELA",2
+"CDK4",2
+"DERL1",2
+"IRS1",2
+"RPA2",2
+"PARK2",2
+"AR",2
+"CFL1",2
+"ARAF",2
+"POT1",2
+"NOD1",2
+"NRAS",2
+"KEAP1",2
+"NFKBIA",2
+"METTL14",2
+"MCL1",2
+"GSPT1",2
+"TRAF2",2
+"LATS2",2
+"MUC1",2
+"TRIM25",2
+"ATG4A",2
+"CDKN2A",2
+"ATG4C",2
+"NCOA3",2
+"EEF1D",2
+"LSM3",2
+"FANCG",2
+"ATP1B1",2
+"PELI2",2
+"UBE2D1",2
+"IRS4",2
+"DYNLL1",2
+"EPPK1",2
+"ATG3",2
+"GFI1B",2
+"ATG14",2
+"ATG7",2
+"GLI1",2
+"IRAK1",2
+"RAF1",2
+"CAMK2G",2
+"ATIC",2
+"ATF2",2
+"TNIP2",2
+"KTN1",2
+"GCH1",2
+"HLA-DPB1",2
+"GOPC",2
+"CXCL8",2
+"CUEDC2",2
+"HSPB1",2
+"MAPK14",2
+"DAPK1",2
+"ATP1B4",2
+"NEDD4",2
+"BIRC2",2
+"ATP5O",2
+"MAP3K1",2
+"HSPA1A",2
+"MEOX2",2
+"ATG9A",2
+"UBE2D2",2
+"FKBP4",2
+"UBQLN2",2
+"ANXA5",2
+"RNF8",2
+"ATG12",2
+"TNFAIP3",2
+"AMBRA1",2
+"PTPN5",2
+"ACAA2",2
+"BIN1",2
+"AFG3L2",2
+"AKT2",2
+"SHARPIN",2
+"IKBKE",2
+"PINK1",2
+"HTT",2
+"HADHB",2
+"RNF216",2
+"BIRC3",2
+"PEBP1",2
+"USP10",2
+"NOD2",2
+"RAB5A",2
+"ERBB2",2
+"PRKAG1",2
+"FZR1",2
+"RPS27A",2
+"MCRS1",2
+"IFIH1",2
+"FGFR1",2
+"FPR2",2
+"TAB2",2
+"GABARAPL1",2
+"PRKAA1",2
+"SOCS2",2
+"TRAF6",2
+"MAPK8",2
+"FLNC",2
+"REL",2
+"IRS2",2
+"NAPA",2
+"EPAS1",2
+"RPA1",2
+"COPS7A",2
+"NFKB1",2
+"DYNLL2",2
+"MBP",2
+"ATG5",2
+"TSC1",2
+"BAD",2
+"MAP4K4",2
+"PPP4R2",2
+"TIRAP",2
+"FOXO3",2
+"TMEM216",2
+"BAIAP2",2
+"MTDH",2
+"HTR2C",2
+"MAP1LC3A",2
+"PGK1",2
+"RICTOR",2
+"S100A8",2
+"IKBKAP",2
+"LAMP2",2
+"TRADD",2
+"UBE2V1",2
+"PPP4C",2
+"FANCA",2
+"PYGL",2
+"GABARAP",2
+"FLNA",2
+"PRKAB2",2
+"NRBF2",2
+"NBR1",2
+"PSMD10",2
+"RAD23A",2
+"TRIM21",2
+"CYB5R3",2
+"TRAF5",2
+"RTN3",2
+"LAMA4",2
+"DAPK3",2
+"HOMER3",2
+"PIK3C3",2
+"TJP1",2
+"IPPK",2
+"ARL6IP5",2
+"MAP2K3",2
+"COMMD7",2
+"CASP10",2
+"PRKCI",2
+"BCL2L1",2
+"MAP1LC3B",2
+"EXOC8",2
+"SLC25A13",2
+"IRAK4",2
+"GABARAPL2",2
+"RAB7A",2
+"CD40",2
+"HK1",2
+"CYCS",2
+"PRKCZ",2
+"FKBP5",2
+"CDKN2B",2
+"TAB1",2
+"BCL2L11",2
+"MYD88",2
+"VAPA",2
+"DZIP3",2
+"SPAST",2
+"MDM4",2
+"SMC1A",2
+"PIK3R1",2
+"PRKCA",2
+"LPAR1",2
+"HYPK",2
+"RNF41",2
+"IRGM",2
+"RAN",2
+"DDX58",2
+"NF2",2
+"SKP1",2
+"GRHPR",2
+"PRKCD",2
+"KAT2A",2
+"CCND2",2
+"RIPK2",2
+"PLK1",2
+"UQCRC2",2
+"HMGB1",2
+"NDRG1",2
+"PRKAA2",2
+"FGFR4",2
+"PSG1",2
+"TERF1",2
+"STK11",2
+"PRR13",2
+"PLEKHF2",2
+"SASH1",2
+"DUSP1",2
+"HSDL1",2
+"TNF",2
+"TLR1",2
+"MAP3K14",2
+"RBCK1",2
+"BRAP",2
+"PDGFRA",2
+"TANK",2
+"SNX2",2
+"TNIK",2
+"ITPR1",2
+"FASLG",2
+"TP63",2
+"IRF3",2
+"MAP3K3",2
+"RB1CC1",2
+"SPG21",2
+"ATN1",2
+"GYPB",2
+"TERT",2
+"ERC1",2
+"CSF2RB",2
+"SQSTM1",2
+"SDCBP",2
+"NLRX1",2
+"SH3PXD2A",2
+"VTA1",2
+"HAX1",2
+"CARD11",2
+"MAP1LC3C",2
+"GLP1R",2
+"KIAA0226",2
+"ATG13",2
+"GOLT1B",2
+"PTRH2",2
+"NGDN",2
+"USP14",2
+"EXOC2",2
+"RHOA",2
+"GLIS2",2
+"ATG2A",2
+"SCAMP2",2
+"DACT1",2
+"KIAA1033",2
+"STX17",2
+"UBB",2
+"PELI1",2
+"NGFR",2
+"RPS6KA1",2
+"PIK3CG",2
+"TICAM1",2
+"MAP1A",2
+"SNAP23",2
+"LY96",2
+"FAM210B",2
+"BTK",2
+"TYMS",2
+"BIRC5",2
+"DHCR24",2
+"RHEB",2
+"USP21",2
+"RIPK1",2
+"MAP3K13",2
+"PYCARD",2
+"USP2",2
+"STK26",2
+"SLC25A10",2
+"MAP2K6",2
+"TRAF3",2
+"PRDX3",2
+"FAS",2
+"CD14",2
+"MAPKAPK2",2
+"YAP1",2
+"DERL2",2
+"PPP2R3C",2
+"S100A16",2
+"IRAK2",2
+"SBNO1",2
+"ULK1",2
+"NUS1",2
+"RABAC1",2
+"MACROD1",2
+"LINC01554",2
+"PLSCR1",2
+"ATP1B2",2
+"PRKCE",2
+"VTN",2
+"TNKS",2
+"SRC",2
+"PRKCB",2
+"XPO1",2
+"KLHL21",2
+"REEP5",2
+"ATG2B",2
+"CNTNAP1",2
+"PDPK1",2
+"UBA52",2
+"RNF135",2
+"MAP3K8",2
+"SNX12",2
+"PELI3",2
+"JPH1",2
+"TAB3",2
+"USP33",2
+"TP73",2
+"COL4A3BP",2
+"MALT1",2
+"C4orf32",2
+"TNFRSF10A",2
+"KDELR2",2
+"NFKB2",2
+"CASP9",2
+"METTL7A",2
+"C22orf29",2
+"TMEM128",2
+"TSC2",2
+"SEH1L",2
+"TBL2",2
+"TNFRSF10B",2
+"RTN4IP1",2
+"GRM1",2
+"FAM160A2",2
+"TMEM120B",2
+"SCAMP1",2
+"SLC27A4",2
+"IFIT5",2
+"TRIB1",2
+"NFKBIE",2
+"LRPAP1",2
+"OTUD7B",2
+"MARK3",2
+"PLP1",2
+"FOXO6",2
+"PRKAB1",2
+"UQCRC1",2
+"LINGO1",2
+"FOXO4",2
+"RPS6KB1",2
+"CLN8",2
+"TRIM50",2
+"TCOF1",2
+"NLRP2",2
+"SIRT2",2
+"TNFSF10",2
+"ZBP1",2
+"VHL",2
+"PPP4R1",2
+"FAM213A",2
+"ROCK1",2
+"PRAF2",2
+"PPP1R15A",2
+"SMC3",2
+"RAB7B",2
+"TRIM16",2
+"UBE2N",2
+"REEP2",2
+"PIK3R4",2
+"BNIP3L",2
+"IGFBP7",2
+"PRKCQ",2
+"SSR3",2
+"TWIST1",2
+"SH3GLB1",2
+"TLR4",2
+"KCNA2",2
+"ATL1",2
+"TP53BP2",2
+"PIK3C2B",2
+"MAPKAPK3",2
+"SGCZ",2
+"INS",2
+"ATG16L2",2
+"PIK3R5",2
+"DPP4",2
+"SIGMAR1",2
+"TFAP2C",2
+"KCNA1",2
+"NGF",2
+"UVRAG",2
+"TBC1D7",2
+"TRAF3IP2",2
+"LRCH4",2
+"C19orf80",2
+"REEP1",2
+"GRID2",2
+"KIAA0226L",2
+"SYPL2",2
+"CSF2",2
+"ICAM2",2
+"TLR3",2
+"TOP2B",2
+"SLC7A3",2
+"USP13",2
+"PRKAG2",2
+"ATG10",2
+"TLR2",2
+"TMEM43",2
+"RAB33A",2
+"SPHK1",2
+"RIPK3",2
+"UNK",2
+"TMEM208",2
+"RTN4RL1",2
+"MAG",2
+"TMEM70",2
+"LRRC14",2
+"TMEM68",2
+"PYDC1",2
+"NFKBIB",2
+"TICAM2",2
+"NAA20",2
+"ATG4D",2
+"IL6",2
+"SLC25A22",2
+"TRABD",2
+"WDR81",2
+"VSIG1",2
+"WDR91",2
+"SPATA2",2
+"TPX2",2
+"DAP",2
+"USP18",2
+"SERPINE2",2
+"YES1",2
+"WWP1",2
+"OMG",2
+"TMEM222",2
+"CSF2RA",2
+"TRAPPC9",2
+"TRPC4AP",2
+"USP4",2
+"RTN4R",2
+"MEFV",2
+"SYT13",2
+"SYT16",2
+"ZWINT",2
+"NLRP5",2
+"ULK2",2
+"METTL7B",2
+"WDR45",2
+"ZFYVE21",2
+"VMP1",2
+"SNX15",2
+"XIAP",2
+"WIPI2",2
+"PRKAG3",2
+"TLR6",2
+"WIPI1",2
+"NLRC5",2
+"STAP2",2
+"PIK3R6",2
+"CCDC11",2
+"RTN4RL2",2
+"TRIM40",2
+"SHD",2
+"UGCG",2
+"WASH1",2
+"ZPLD1",2
+"TMEM65",2
+"autophagosome assembly",6
+"Golgi membrane",6
+"phagophore assembly site",6
+"autophagy of mitochondrion",6
+"mitophagy",6
+"blastocyst formation",6
+"stimulatory C-type lectin receptor signaling pathway",6
+"antigen processing and presentation of exogenous peptide antigen via MHC class I, TAP-dependent",6
+"MyD88-independent toll-like receptor signaling pathway",6
+"RNA binding",6
+"protein kinase activity",6
+"protein serine/threonine kinase activity",6
+"protein binding",6
+"ATP binding",6
+"cell",6
+"nucleus",6
+"nuclear envelope",6
+"cytoplasm",6
+"mitochondrion",6
+"endosome",6
+"autophagosome",6
+"endoplasmic reticulum",6
+"endoplasmic reticulum membrane",6
+"Golgi apparatus",6
+"cytosol",6
+"plasma membrane",6
+"protein phosphorylation",6
+"endocytosis",6
+"autophagy",6
+"apoptotic process",6
+"inflammatory response",6
+"cellular defense response",6
+"cellular response to nitrogen starvation",6
+"mitotic metaphase plate congression",6
+"I-kappaB kinase/NF-kappaB signaling",6
+"I-kappaB phosphorylation",6
+"axonal fasciculation",6
+"IkappaB kinase activity",6
+"IkappaB kinase complex",6
+"response to virus",6
+"cytoplasmic side of plasma membrane",6
+"endosome membrane",6
+"positive regulation of epithelial cell migration",6
+"regulation of tumor necrosis factor-mediated signaling pathway",6
+"positive regulation of phosphatidylinositol 3-kinase signaling",6
+"postsynaptic density",6
+"terminal cisterna",6
+"viral process",6
+"macroautophagy",6
+"protein deubiquitination",6
+"peptidyl-serine phosphorylation",6
+"extrinsic component of membrane",6
+"protein kinase binding",6
+"cerebral cortex radial glia guided migration",6
+"integral component of endoplasmic reticulum membrane",6
+"negative regulation of cell growth",6
+"T-tubule",6
+"negative regulation of axon extension",6
+"cortical actin cytoskeleton organization",6
+"ubiquitin protein ligase binding",6
+"mitochondrial membrane",6
+"cytoplasm to vacuole transport by the Cvt pathway",6
+"regulation of cytokinesis",6
+"receptor catabolic process",6
+"tumor necrosis factor-mediated signaling pathway",6
+"positive regulation of mammary gland epithelial cell proliferation",6
+"positive regulation of toll-like receptor 9 signaling pathway",6
+"phosphatidylinositol 3-kinase complex, class III, type I",6
+"phosphatidylinositol 3-kinase complex, class III, type II",6
+"phosphatidylinositol 3-kinase complex, class III",6
+"negative regulation of myosin-light-chain-phosphatase activity",6
+"CD40 receptor complex",6
+"TRIF-dependent toll-like receptor signaling pathway",6
+"Fc-epsilon receptor signaling pathway",6
+"cellular response to glucose starvation",6
+"regulation of phosphorylation",6
+"identical protein binding",6
+"protein homodimerization activity",6
+"regulation of apoptotic process",6
+"cell projection",6
+"neuronal cell body",6
+"negative regulation of apoptotic process",6
+"positive regulation of I-kappaB kinase/NF-kappaB signaling",6
+"phosphatidylinositol 3-kinase binding",6
+"early endosome to late endosome transport",6
+"innate immune response",6
+"membrane raft",6
+"cadherin binding",6
+"late endosome to vacuole transport",6
+"positive regulation of transcription, DNA-templated",6
+"positive regulation of transcription by RNA polymerase II",6
+"regulation of glucose import",6
+"protein heterodimerization activity",6
+"negative regulation of axonogenesis",6
+"protein stabilization",6
+"T cell receptor signaling pathway",6
+"GTPase binding",6
+"positive regulation of NF-kappaB transcription factor activity",6
+"nuclear pore complex assembly",6
+"cell division",6
+"stress-activated MAPK cascade",6
+"defense response to virus",6
+"positive regulation of protein kinase B signaling",6
+"cardiac epithelial to mesenchymal transition",6
+"negative regulation of cell death",6
+"protein localization to lysosome",6
+"intracellular protein transmembrane transport",6
+"interleukin-1-mediated signaling pathway",6
+"cellular response to tumor necrosis factor",6
+"endoplasmic reticulum tubular network",6
+"endoplasmic reticulum tubular network organization",6
+"endoplasmic reticulum tubular network formation",6
+"protein localization to plasma membrane",6
+"cellular sphingolipid homeostasis",6
+"scaffold protein binding",6
+"response to mitochondrial depolarisation",6
+"endoplasmic reticulum tubular network membrane",6
+"positive regulation of attachment of mitotic spindle microtubules to kinetochore",6
+"regulation of establishment of endothelial barrier",6
+"negative regulation of bicellular tight junction assembly",6
+"positive regulation of protein localization to endoplasmic reticulum",6
+"positive regulation of ERBB3 signaling pathway",6
+"transferrin receptor binding",6
+"endoplasmic reticulum tubular network membrane organization",6
+"regulation of branching morphogenesis of a nerve",6
+"positive regulation of intrinsic apoptotic signaling pathway",6

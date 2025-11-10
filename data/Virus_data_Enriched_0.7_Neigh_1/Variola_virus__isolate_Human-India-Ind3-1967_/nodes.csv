@@ -1,0 +1,472 @@
+"node","type"
+"10255.DUSP_VAR67",0
+"STAT1",2
+"CYLD",2
+"EGFR",2
+"ITGB1",2
+"ARIH1",2
+"MYC",2
+"GSK3B",2
+"MAPK1",2
+"NTRK1",2
+"HSPA4L",2
+"ACTN4",2
+"ISG15",2
+"EP300",2
+"ESR1",2
+"HSP90B1",2
+"LRRFIP1",2
+"DDB1",2
+"CUL1",2
+"FADD",2
+"BRCA1",2
+"ATG16L1",2
+"RNF4",2
+"PPARG",2
+"HDAC1",2
+"NR1H2",2
+"CDK9",2
+"DCTN1",2
+"GNB2L1",2
+"ESR2",2
+"CDH1",2
+"EIF2AK2",2
+"JUN",2
+"IL23A",2
+"IL12RB1",2
+"HDAC3",2
+"MTOR",2
+"TP53",2
+"CCDC8",2
+"LCK",2
+"VCP",2
+"BPIFB3",2
+"TNFRSF1A",2
+"AHR",2
+"HSPA8",2
+"E2F1",2
+"CASP3",2
+"RXRA",2
+"MBD1",2
+"CAND1",2
+"NR2C2",2
+"AKT1",2
+"DDX6",2
+"CTNNB1",2
+"CREBBP",2
+"KIT",2
+"FOXP3",2
+"NOTCH3",2
+"TGFB1",2
+"PRLR",2
+"DTX3L",2
+"JAK2",2
+"PPARGC1A",2
+"NR3C1",2
+"HUWE1",2
+"HSP90AB1",2
+"PIK3CA",2
+"ACTC1",2
+"ARRB2",2
+"HERC5",2
+"FTH1",2
+"STAT3",2
+"CASP7",2
+"ITGAM",2
+"SNX1",2
+"GFAP",2
+"MAVS",2
+"RELA",2
+"FBXW7",2
+"PTPN11",2
+"PML",2
+"NFKBIA",2
+"NSF",2
+"TRAF2",2
+"PAK2",2
+"PIAS4",2
+"PSMB8",2
+"TRIM25",2
+"LZTR1",2
+"SHMT2",2
+"RUNX2",2
+"G3BP1",2
+"PDGFRB",2
+"ATG7",2
+"FGFR1OP",2
+"IRAK1",2
+"LYN",2
+"CAMK2G",2
+"SPTBN1",2
+"HERC6",2
+"MAPK14",2
+"MAPK11",2
+"BCR",2
+"BCL6",2
+"SOCS3",2
+"ATP6V1C1",2
+"GSK3A",2
+"TNFAIP3",2
+"CAMK2A",2
+"CUL4B",2
+"CAMK2B",2
+"HIST2H3C",2
+"TES",2
+"RBX1",2
+"CAMK2D",2
+"GBP1",2
+"MCM5",2
+"SKP2",2
+"TNK2",2
+"FYN",2
+"CPSF6",2
+"PAWR",2
+"HEY1",2
+"IFIT1",2
+"ERBB2",2
+"ELP2",2
+"JAK1",2
+"AHSA1",2
+"DOT1L",2
+"HIST1H2BJ",2
+"IFIH1",2
+"IFI44L",2
+"NOS2",2
+"OAS3",2
+"HDAC4",2
+"JAK3",2
+"SOCS2",2
+"PLCG1",2
+"MAPK8",2
+"IGBP1",2
+"TRIM28",2
+"KPNA1",2
+"VCAM1",2
+"MAML1",2
+"ITGAV",2
+"BCL3",2
+"RNF11",2
+"MAPK3",2
+"SPTAN1",2
+"CSNK1A1",2
+"UBE2E1",2
+"ATF3",2
+"TNFRSF1B",2
+"FOS",2
+"GTF2I",2
+"PHGDH",2
+"SMARCA4",2
+"MLST8",2
+"TRADD",2
+"AARS",2
+"FGFR2",2
+"SARS",2
+"HADH",2
+"SHMT1",2
+"LAP3",2
+"DDX60",2
+"TGFBR2",2
+"JMJD6",2
+"IDE",2
+"TBK1",2
+"BCL2L1",2
+"IL4R",2
+"MX1",2
+"LMO2",2
+"CTTN",2
+"SMURF1",2
+"NAA10",2
+"CD40",2
+"NMI",2
+"MYD88",2
+"ITGB2",2
+"PRMT3",2
+"EIF2A",2
+"CD274",2
+"EIF1AD",2
+"VPS29",2
+"OTUD4",2
+"FANCE",2
+"DDX58",2
+"SKP1",2
+"PRKCD",2
+"SP110",2
+"CCL5",2
+"U2AF2",2
+"MSX2",2
+"PIAS3",2
+"MYO18A",2
+"GNB2",2
+"STAT5B",2
+"TNF",2
+"APEH",2
+"PTK2",2
+"PIAS2",2
+"IL6R",2
+"PDGFRA",2
+"SNX2",2
+"IRF2",2
+"IRF3",2
+"IL20RB",2
+"IRF8",2
+"HSF1",2
+"YAF2",2
+"CSF2RB",2
+"MAPK12",2
+"KARS",2
+"IRF7",2
+"UBE2I",2
+"PIAS1",2
+"PTPN2",2
+"CCL2",2
+"RBPJ",2
+"FOXA3",2
+"HES1",2
+"GBP2",2
+"PSMC3",2
+"PPARD",2
+"STAT6",2
+"CISH",2
+"ZMYM2",2
+"IFIT2",2
+"MAPK13",2
+"FGFR1OP2",2
+"HIRIP3",2
+"IFNAR1",2
+"IFNAR2",2
+"EPOR",2
+"UBE2L6",2
+"IFIT3",2
+"PDGFB",2
+"CXCR3",2
+"PSMB9",2
+"PRMT1",2
+"RIPK1",2
+"TRIM11",2
+"USP2",2
+"PPARA",2
+"MPL",2
+"CTNNBL1",2
+"RSAD2",2
+"IL6ST",2
+"CUX1",2
+"NOMO1",2
+"DUSP2",2
+"YAP1",2
+"GHR",2
+"IRF1",2
+"MAML3",2
+"VPS26A",2
+"CIAPIN1",2
+"PTGS2",2
+"STAT5A",2
+"OASL",2
+"PARP12",2
+"IL2RG",2
+"PRKCE",2
+"HLA-B",2
+"SRC",2
+"XPO1",2
+"ESRRA",2
+"IL9R",2
+"CXCR4",2
+"EGF",2
+"IL2RB",2
+"GH1",2
+"SOCS1",2
+"POR",2
+"PARP14",2
+"DLX5",2
+"IL20RA",2
+"NR1H3",2
+"TSNAX",2
+"NMD3",2
+"SPTB",2
+"LMO4",2
+"PPP2R4",2
+"GSPT2",2
+"DCAF13",2
+"CIITA",2
+"SOCS6",2
+"IFNGR1",2
+"TRIM24",2
+"RTF1",2
+"GATA3",2
+"SDC2",2
+"FANCC",2
+"IL12RB2",2
+"TBCD",2
+"IL24",2
+"FGFR3",2
+"SPACA1",2
+"RPS6KB1",2
+"NOMO2",2
+"NAA15",2
+"HLA-DRB5",2
+"IRF9",2
+"IL2RA",2
+"SMARCA2",2
+"IL12A",2
+"DOCK4",2
+"CBFB",2
+"IFI35",2
+"ST13",2
+"TWIST1",2
+"SNX6",2
+"SHANK1",2
+"IL1B",2
+"IL21R",2
+"TEX264",2
+"PARP9",2
+"MX2",2
+"IL10",2
+"VDR",2
+"EPO",2
+"STAT2",2
+"DLX6",2
+"INS",2
+"ND4L",2
+"CXCL9",2
+"CSH1",2
+"XAF1",2
+"OSM",2
+"IFNA1",2
+"IL10RA",2
+"VEGFA",2
+"CSF2",2
+"PRL",2
+"TLR3",2
+"USP13",2
+"TBX21",2
+"IL13RA1",2
+"TLR2",2
+"IFNG",2
+"SIRPA",2
+"OAS1",2
+"IFNL1",2
+"IL22RA1",2
+"CXCL12",2
+"EBI3",2
+"CXCL10",2
+"GH2",2
+"IFNLR1",2
+"IL22",2
+"IL12B",2
+"IL6",2
+"IL27RA",2
+"MAGEA3",2
+"OAS2",2
+"IFNGR2",2
+"USP18",2
+"IFI44",2
+"SOCS7",2
+"FCER2",2
+"YES1",2
+"NKX3-2",2
+"MAML2",2
+"IL10RB",2
+"STAT4",2
+"CSF2RA",2
+"IL17A",2
+"GBP5",2
+"SOCS5",2
+"IL9",2
+"IDO1",2
+"TYK2",2
+"PPARGC1B",2
+"TRIM22",2
+"IL4",2
+"MAMLD1",2
+"IL27",2
+"SOCS4",2
+"ITGAX",2
+"IFNB1",2
+"IL2",2
+"IL21",2
+"IL13",2
+"IL23R",2
+"THPO",2
+"IFI6",2
+"TLR8",2
+"IL26",2
+"SAMD9L",2
+"USP41",2
+"negative regulation of transcription by RNA polymerase II",6
+"nuclear chromatin",6
+"RNA polymerase II cis-regulatory region sequence-specific DNA binding",6
+"RNA polymerase II core promoter sequence-specific DNA binding",6
+"DNA-binding transcription factor activity, RNA polymerase II-specific",6
+"DNA-binding transcription activator activity, RNA polymerase II-specific",6
+"negative regulation of endothelial cell proliferation",6
+"positive regulation of mesenchymal cell proliferation",6
+"positive regulation of defense response to virus by host",6
+"negative regulation of mesenchymal to epithelial transition involved in metanephros morphogenesis",6
+"double-stranded DNA binding",6
+"DNA-binding transcription factor activity",6
+"tumor necrosis factor receptor binding",6
+"protein binding",6
+"nucleus",6
+"nucleoplasm",6
+"nucleolus",6
+"cytoplasm",6
+"cytosol",6
+"defense response",6
+"positive regulation of transcription of Notch receptor target",6
+"receptor signaling pathway via JAK-STAT",6
+"response to nutrient",6
+"blood circulation",6
+"response to mechanical stimulus",6
+"macrophage derived foam cell differentiation",6
+"viral process",6
+"negative regulation of angiogenesis",6
+"cytokine-mediated signaling pathway",6
+"enzyme binding",6
+"axon",6
+"dendrite",6
+"CCR5 chemokine receptor binding",6
+"positive regulation of interferon-alpha production",6
+"cellular response to insulin stimulus",6
+"protein-containing complex",6
+"tumor necrosis factor-mediated signaling pathway",6
+"response to cytokine",6
+"histone acetyltransferase binding",6
+"nuclear hormone receptor binding",6
+"response to interferon-beta",6
+"cellular response to interferon-beta",6
+"interleukin-9-mediated signaling pathway",6
+"interleukin-21-mediated signaling pathway",6
+"regulation of cell population proliferation",6
+"histone binding",6
+"response to hydrogen peroxide",6
+"identical protein binding",6
+"protein homodimerization activity",6
+"regulation of apoptotic process",6
+"negative regulation of I-kappaB kinase/NF-kappaB signaling",6
+"response to peptide hormone",6
+"endothelial cell migration",6
+"ubiquitin-like protein ligase binding",6
+"cadherin binding",6
+"positive regulation of erythrocyte differentiation",6
+"positive regulation of transcription, DNA-templated",6
+"positive regulation of transcription by RNA polymerase II",6
+"negative regulation by virus of viral protein levels in host cell",6
+"perinuclear region of cytoplasm",6
+"positive regulation of smooth muscle cell proliferation",6
+"response to cAMP",6
+"defense response to virus",6
+"protein phosphatase 2A binding",6
+"positive regulation of nitric-oxide synthase biosynthetic process",6
+"interferon-gamma-mediated signaling pathway",6
+"regulation of interferon-gamma-mediated signaling pathway",6
+"type I interferon signaling pathway",6
+"renal tubule development",6
+"interleukin-6-mediated signaling pathway",6
+"interleukin-27-mediated signaling pathway",6
+"repressing transcription factor binding",6
+"interleukin-35-mediated signaling pathway",6
+"cellular response to interferon-gamma",6
+"cellular response to organic cyclic compound",6
+"metanephric mesenchymal cell proliferation involved in metanephros development",6
+"metanephric mesenchymal cell differentiation",6
+"negative regulation of metanephric nephron tubule epithelial cell differentiation",6
+"promoter-specific chromatin binding",6

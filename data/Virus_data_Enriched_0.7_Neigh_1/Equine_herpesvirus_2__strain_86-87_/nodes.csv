@@ -1,0 +1,305 @@
+"node","type"
+"12657.CFLA_EHV2",0
+"CASP8",2
+"CYLD",2
+"EGFR",2
+"MYC",2
+"MAPK1",2
+"APP",2
+"HSPA5",2
+"FADD",2
+"CHUK",2
+"EZR",2
+"EIF4G2",2
+"CEBPB",2
+"EIF3A",2
+"COPS6",2
+"CDK9",2
+"IKBKG",2
+"DAXX",2
+"PARP1",2
+"UBC",2
+"BECN1",2
+"MTOR",2
+"TP53",2
+"BIRC6",2
+"BCL10",2
+"CHD3",2
+"TRAF1",2
+"BID",2
+"SNRPD3",2
+"HSP90AA1",2
+"TNFRSF1A",2
+"IKBKB",2
+"CLTC",2
+"CASP3",2
+"CHEK1",2
+"BFAR",2
+"CUL3",2
+"ARHGDIA",2
+"AKT1",2
+"FAF1",2
+"MSN",2
+"PPP2CA",2
+"GABPB1",2
+"ATM",2
+"BLM",2
+"BAX",2
+"PTBP1",2
+"BCL2",2
+"CASP7",2
+"ANGPTL4",2
+"PTEN",2
+"MAVS",2
+"RELA",2
+"BCAP31",2
+"AR",2
+"NOD1",2
+"MCL1",2
+"TRAF2",2
+"TRIM25",2
+"HDAC7",2
+"ATAD2",2
+"DIABLO",2
+"CRYAB",2
+"CFLAR",2
+"OPTN",2
+"DNM1L",2
+"CNBP",2
+"MAPK14",2
+"NOL3",2
+"BIRC2",2
+"COL5A1",2
+"ANXA5",2
+"ERLIN2",2
+"TNFAIP3",2
+"GMEB1",2
+"MAPT",2
+"KHDRBS1",2
+"EIF4A1",2
+"AGR3",2
+"GREB1",2
+"BIRC3",2
+"LRRK2",2
+"SOX2",2
+"IFIH1",2
+"COL6A2",2
+"COL1A1",2
+"IL13RA2",2
+"TOPORS",2
+"TRAF6",2
+"MAPK8",2
+"SERPINB5",2
+"CASP1",2
+"NFKB1",2
+"ITGAV",2
+"ATG5",2
+"ATP1A3",2
+"PARK7",2
+"MAPK3",2
+"RB1",2
+"HBP1",2
+"EIF4G3",2
+"MAP1LC3A",2
+"PRDM14",2
+"TRADD",2
+"EIF4G1",2
+"CASC3",2
+"PLEC",2
+"ERRFI1",2
+"TFCP2",2
+"GMNN",2
+"PRDX6",2
+"COL4A3",2
+"PIK3C3",2
+"CASP10",2
+"DYNC1LI1",2
+"PRKCI",2
+"BCL2L1",2
+"FIS1",2
+"MAP1LC3B",2
+"IFT57",2
+"CYCS",2
+"MAP2K7",2
+"VIM",2
+"CDKN1B",2
+"BCL2L11",2
+"MYD88",2
+"COL1A2",2
+"DDX58",2
+"RIPK2",2
+"CASP4",2
+"COL4A2",2
+"COL4A1",2
+"DAP3",2
+"MADD",2
+"TNF",2
+"MAP3K5",2
+"NR1H4",2
+"EPSTI1",2
+"MAP3K14",2
+"FASLG",2
+"COL11A2",2
+"COL7A1",2
+"SQSTM1",2
+"DYNC1LI2",2
+"CARD11",2
+"MLKL",2
+"BAP1",2
+"ITGB3",2
+"APAF1",2
+"RHOA",2
+"PSMC3IP",2
+"GABPB2",2
+"PTBP2",2
+"TICAM1",2
+"LY96",2
+"COL6A1",2
+"PEA15",2
+"KLK5",2
+"BLID",2
+"CRADD",2
+"RIPK1",2
+"PYCARD",2
+"GZMB",2
+"LYPD3",2
+"USP2",2
+"FAS",2
+"CD14",2
+"CASP8AP2",2
+"RYBP",2
+"SORBS1",2
+"PRSS50",2
+"BEX1",2
+"PLIN4",2
+"SRC",2
+"COL2A1",2
+"SCGB2A2",2
+"RALGDS",2
+"RNF34",2
+"HECTD3",2
+"RNF135",2
+"CASP6",2
+"MALT1",2
+"TNFRSF10A",2
+"CASP9",2
+"RALBP1",2
+"DEDD2",2
+"TSC22D3",2
+"TNFRSF10B",2
+"CASP14",2
+"PDIA6",2
+"EIF4E",2
+"S100A14",2
+"IL24",2
+"PTPN13",2
+"TNFSF10",2
+"VHL",2
+"CASP2",2
+"CLIP3",2
+"DEDD",2
+"QDPR",2
+"TLR4",2
+"IL1B",2
+"HIP1",2
+"SERPINB9",2
+"COL4A5",2
+"COL5A2",2
+"COL3A1",2
+"CDH13",2
+"VPS45",2
+"GLCE",2
+"TNFSF12",2
+"COL4A4",2
+"KLK9",2
+"TNFRSF25",2
+"YBX1",2
+"UMPS",2
+"TLR3",2
+"COL4A6",2
+"NLRC4",2
+"RIPK3",2
+"TICAM2",2
+"COL11A1",2
+"ATG4D",2
+"COL6A3",2
+"WHSC1L1",2
+"BCL2L10",2
+"TNFRSF10C",2
+"ST14",2
+"TNFRSF10D",2
+"WDTC1",2
+"XIAP",2
+"COL6A5",2
+"COL6A6",2
+"PLA2G4B",2
+"TNFAIP8L2",2
+"cysteine-type endopeptidase activity",6
+"death receptor binding",6
+"tumor necrosis factor receptor binding",6
+"protein binding",6
+"nucleoplasm",6
+"cytoplasm",6
+"mitochondrion",6
+"mitochondrial outer membrane",6
+"cytosol",6
+"cytoskeleton",6
+"proteolysis",6
+"apoptotic process",6
+"activation of cysteine-type endopeptidase activity involved in apoptotic process",6
+"cell surface receptor signaling pathway",6
+"peptidase activity",6
+"cysteine-type peptidase activity",6
+"extrinsic apoptotic signaling pathway via death domain receptors",6
+"response to cold",6
+"regulation of tumor necrosis factor-mediated signaling pathway",6
+"natural killer cell activation",6
+"macrophage differentiation",6
+"death-inducing signaling complex",6
+"CD95 death-inducing signaling complex",6
+"ubiquitin protein ligase binding",6
+"response to cobalt ion",6
+"response to estradiol",6
+"response to lipopolysaccharide",6
+"positive regulation of interleukin-1 beta production",6
+"protein-containing complex",6
+"toll-like receptor 3 signaling pathway",6
+"response to tumor necrosis factor",6
+"TRIF-dependent toll-like receptor signaling pathway",6
+"death effector domain binding",6
+"TRAIL-activated apoptotic signaling pathway",6
+"suppression by virus of host cysteine-type endopeptidase activity involved in apoptotic process",6
+"T cell activation",6
+"B cell activation",6
+"identical protein binding",6
+"neuron projection",6
+"positive regulation of I-kappaB kinase/NF-kappaB signaling",6
+"negative regulation of I-kappaB kinase/NF-kappaB signaling",6
+"cell body",6
+"protein-containing complex binding",6
+"membrane raft",6
+"response to ethanol",6
+"positive regulation of macrophage differentiation",6
+"positive regulation of proteolysis",6
+"proteolysis involved in cellular protein catabolic process",6
+"regulation of necroptotic process",6
+"negative regulation of necroptotic process",6
+"syncytiotrophoblast cell differentiation involved in labyrinthine layer development",6
+"nucleotide-binding oligomerization domain containing signaling pathway",6
+"cellular response to mechanical stimulus",6
+"cellular response to organic cyclic compound",6
+"death-inducing signaling complex assembly",6
+"scaffold protein binding",6
+"cysteine-type endopeptidase activity involved in apoptotic process",6
+"apoptotic signaling pathway",6
+"extrinsic apoptotic signaling pathway",6
+"execution phase of apoptosis",6
+"cysteine-type endopeptidase activity involved in apoptotic signaling pathway",6
+"activation of cysteine-type endopeptidase activity",6
+"self proteolysis",6
+"activation of cysteine-type endopeptidase activity involved in apoptotic signaling pathway",6
+"ripoptosome",6
+"positive regulation of protein insertion into mitochondrial membrane involved in apoptotic signaling pathway",6
+"positive regulation of neuron death",6
+"regulation of extrinsic apoptotic signaling pathway via death domain receptors",6
+"negative regulation of extrinsic apoptotic signaling pathway via death domain receptors",6

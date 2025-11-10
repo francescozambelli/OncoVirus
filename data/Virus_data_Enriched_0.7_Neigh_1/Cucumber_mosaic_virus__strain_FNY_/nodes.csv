@@ -1,0 +1,1783 @@
+"node","type"
+"12305.RDRP_CMVFN",0
+"CTTNBP2",2
+"ENO1",2
+"RHEB",2
+"CAMK4",2
+"NEFH",2
+"MAPT",2
+"CDK9",2
+"EIF4E",2
+"CYLD",2
+"EDC4",2
+"ELAVL1",2
+"HDAC5",2
+"MCM2",2
+"EGFR",2
+"CEP250",2
+"EFTUD2",2
+"RAB9A",2
+"CDK7",2
+"RRAGB",2
+"LARP7",2
+"KRT18",2
+"CDK6",2
+"ADD1",2
+"FN1",2
+"ARIH1",2
+"FUS",2
+"HRAS",2
+"SNCA",2
+"CALM1",2
+"ALDOA",2
+"KPNA2",2
+"MYC",2
+"SIRT1",2
+"GSK3B",2
+"MAPK1",2
+"NTRK1",2
+"CUL4A",2
+"AGR2",2
+"HNRNPA1",2
+"ACTN4",2
+"CCNA2",2
+"HK2",2
+"ISG15",2
+"NCBP1",2
+"NIPSNAP1",2
+"EP300",2
+"TUBA1C",2
+"EEF1G",2
+"ESR1",2
+"CSNK2B",2
+"CCNT1",2
+"CDC73",2
+"NUP160",2
+"CCT7",2
+"KRAS",2
+"PAN2",2
+"STAU1",2
+"NENF",2
+"LAMTOR1",2
+"MLH1",2
+"HNRNPL",2
+"EIF5B",2
+"KIAA1429",2
+"HGS",2
+"AGRN",2
+"CUL7",2
+"CUL1",2
+"APP",2
+"CALM2",2
+"HSPA5",2
+"SRRM2",2
+"NEFL",2
+"ACIN1",2
+"NPLOC4",2
+"DHX8",2
+"FADD",2
+"EIF3E",2
+"H2AFX",2
+"PDCD6IP",2
+"BRCA2",2
+"GAN",2
+"FCF1",2
+"HNRNPM",2
+"EWSR1",2
+"BRCA1",2
+"RPL21",2
+"PGM1",2
+"HIST1H4A",2
+"PMS1",2
+"HIF1A",2
+"CDC37",2
+"ATG16L1",2
+"ANXA2",2
+"TPM3",2
+"SF3B2",2
+"RPL27A",2
+"HNRNPA3",2
+"EZR",2
+"CAV1",2
+"RPL23A",2
+"EIF4G2",2
+"CEBPB",2
+"PPIA",2
+"ILF3",2
+"RPL13A",2
+"LMNA",2
+"RNF4",2
+"RNF123",2
+"CDC5L",2
+"PPARG",2
+"HDAC1",2
+"EIF3A",2
+"CENPA",2
+"HNRNPC",2
+"CNOT1",2
+"FKBP8",2
+"ADAR",2
+"HNRNPU",2
+"CDC34",2
+"EMD",2
+"DCTN1",2
+"DYNLRB1",2
+"GIT2",2
+"EXOSC3",2
+"MRPL12",2
+"USP15",2
+"RBM14",2
+"NPM1",2
+"GNB2L1",2
+"TRIM27",2
+"ESR2",2
+"CFTR",2
+"HSPD1",2
+"CDH1",2
+"MRPS27",2
+"ILF2",2
+"CSNK2A1",2
+"LEO1",2
+"CCNY",2
+"HNRNPR",2
+"PARP1",2
+"DCP2",2
+"MAP2K5",2
+"UBC",2
+"BECN1",2
+"EEF1A2",2
+"HSPA4",2
+"CHD4",2
+"CDK1",2
+"METAP2",2
+"CCNC",2
+"FUBP1",2
+"SLIRP",2
+"SNW1",2
+"MAPKAP1",2
+"MTOR",2
+"TP53",2
+"ATP5A1",2
+"CUL5",2
+"CCDC8",2
+"BNIP3",2
+"NHP2L1",2
+"COPS5",2
+"NONO",2
+"MDM2",2
+"DDX5",2
+"POLR2A",2
+"A2M",2
+"LRPPRC",2
+"LMNB1",2
+"NCL",2
+"ACTB",2
+"CD83",2
+"HSPA9",2
+"BCL10",2
+"CHD3",2
+"EIF2S2",2
+"PYHIN1",2
+"RECQL4",2
+"CUL2",2
+"GRB2",2
+"CDK2",2
+"LCK",2
+"MDC1",2
+"CAT",2
+"RPL27",2
+"SNRPD2",2
+"VCP",2
+"LASP1",2
+"PCBP1",2
+"RRS1",2
+"HSP90AA1",2
+"PFKM",2
+"C14orf166",2
+"MAPRE1",2
+"EGLN3",2
+"HSD17B10",2
+"HSPA8",2
+"ACTA1",2
+"OBSL1",2
+"CALR",2
+"EMC1",2
+"HNRNPA0",2
+"BARD1",2
+"PRKDC",2
+"PSMB5",2
+"RPL7A",2
+"SNAPC2",2
+"RFC4",2
+"RPLP1",2
+"PSMC2",2
+"RPL7",2
+"MYL6",2
+"PCNA",2
+"HSD17B6",2
+"AIFM1",2
+"RPS19",2
+"CLTC",2
+"BTRC",2
+"LBR",2
+"SMAD2",2
+"RUVBL1",2
+"CASP3",2
+"HNRNPAB",2
+"CHEK1",2
+"RPS13",2
+"CCT5",2
+"E2F4",2
+"DYRK1A",2
+"EIF2S3",2
+"TALDO1",2
+"PSEN2",2
+"NOP56",2
+"FANCD2",2
+"NDUFA4",2
+"MRPL41",2
+"TBCB",2
+"ACO2",2
+"NMT1",2
+"APC",2
+"ACTL6A",2
+"IPO4",2
+"HNRNPA2B1",2
+"CALM3",2
+"LGMN",2
+"CUL3",2
+"CAPZA1",2
+"ATAD3A",2
+"RPS15",2
+"HIST1H3A",2
+"ARNT",2
+"EEF2",2
+"NME2",2
+"CCND1",2
+"CAND1",2
+"CCDC120",2
+"HIF1AN",2
+"DYRK2",2
+"RPS27",2
+"RPS8",2
+"HSP90AB3P",2
+"CAPZA2",2
+"NR2C2",2
+"ANGEL1",2
+"ASCC3",2
+"MED1",2
+"NOP2",2
+"PLS3",2
+"COPB2",2
+"AKT1",2
+"RBM27",2
+"KRT10",2
+"EXOSC5",2
+"RPRD1B",2
+"PPP1CC",2
+"FAF1",2
+"HDAC2",2
+"OGDH",2
+"MSN",2
+"HDAC6",2
+"ARHGEF7",2
+"MEPCE",2
+"DDX6",2
+"PPM1B",2
+"HIST1H1E",2
+"SSRP1",2
+"POLR2G",2
+"RPL6",2
+"CTNNB1",2
+"PSMD14",2
+"CREBBP",2
+"DDX3X",2
+"PPP2CA",2
+"DCPS",2
+"EIF3J",2
+"HP1BP3",2
+"ASUN",2
+"MYBL2",2
+"CBX3",2
+"KIF23",2
+"MYH10",2
+"ABL1",2
+"RPTOR",2
+"HNRNPH1",2
+"DDX19A",2
+"AAR2",2
+"PRKRA",2
+"SF3A3",2
+"BCCIP",2
+"DBN1",2
+"MOB4",2
+"ATM",2
+"FBL",2
+"CNOT3",2
+"ATG101",2
+"HNRNPH3",2
+"STK3",2
+"PRDX4",2
+"TGFB1",2
+"RPL11",2
+"CHEK2",2
+"ASNS",2
+"CSK",2
+"CDK14",2
+"ATXN3",2
+"PNN",2
+"NXF1",2
+"POLR2E",2
+"KRT17",2
+"FMR1",2
+"RPL10A",2
+"RPL24",2
+"ARF4",2
+"SFXN1",2
+"DDOST",2
+"RPL10",2
+"ABI2",2
+"RPL9",2
+"ANXA1",2
+"IWS1",2
+"NUFIP1",2
+"DLD",2
+"CAD",2
+"BMPR1A",2
+"GFPT1",2
+"FBXO25",2
+"RPL18A",2
+"HUWE1",2
+"GAPDH",2
+"HINT1",2
+"MAP4",2
+"POLR2C",2
+"RPL4",2
+"SRSF2",2
+"HSP90AB1",2
+"LACTB2",2
+"HEXIM1",2
+"COMT",2
+"HIST1H4I",2
+"CLU",2
+"RQCD1",2
+"DHX30",2
+"CASP8",2
+"C9orf78",2
+"CCAR2",2
+"PIH1D1",2
+"PIK3CA",2
+"SUMO3",2
+"KPNB1",2
+"EEF1A1",2
+"ACTC1",2
+"PTBP1",2
+"ALDH4A1",2
+"LGALS3",2
+"AFF4",2
+"RPS10",2
+"KHSRP",2
+"TCP1",2
+"GTF2F1",2
+"DYNC1I1",2
+"INTS12",2
+"HNRNPD",2
+"DSTN",2
+"HERC5",2
+"CLIC4",2
+"HIST2H2BE",2
+"CLIC1",2
+"HTR3A",2
+"RBM34",2
+"SENP2",2
+"CTDP1",2
+"BAG6",2
+"ARPC5L",2
+"CTSD",2
+"STAT3",2
+"PIN1",2
+"PTGES3",2
+"ABCD3",2
+"ATP2A2",2
+"MATR3",2
+"CASP7",2
+"EIF3B",2
+"EIF3I",2
+"SRSF7",2
+"PKN1",2
+"ACTN1",2
+"CCT4",2
+"MCPH1",2
+"CCNL2",2
+"CCT6A",2
+"CDK15",2
+"CNOT7",2
+"PPP2R1A",2
+"FTSJ3",2
+"ECSIT",2
+"FAU",2
+"PPP1CA",2
+"RPL37A",2
+"ATP1A1",2
+"PTEN",2
+"ATP6AP2",2
+"KIAA0368",2
+"DICER1",2
+"RELA",2
+"CDK4",2
+"RPL13",2
+"BCAP31",2
+"IRS1",2
+"FBXW7",2
+"ARPC4",2
+"IQGAP1",2
+"HDGF",2
+"PARK2",2
+"FBXO6",2
+"APOE",2
+"AR",2
+"RPS23",2
+"CFL1",2
+"KRT2",2
+"EIF1AX",2
+"AIP",2
+"ITGA4",2
+"DDX17",2
+"EDC3",2
+"MSH2",2
+"RPS25",2
+"PPP5C",2
+"CSTF3",2
+"ARAF",2
+"MYO1E",2
+"UBE2A",2
+"OTUB1",2
+"RPS4X",2
+"CASK",2
+"PML",2
+"PHB",2
+"RPS11",2
+"METTL14",2
+"TRAF2",2
+"GATAD1",2
+"RBM8A",2
+"CCT2",2
+"ACTBL2",2
+"POLA1",2
+"RPL3",2
+"TRIM25",2
+"RPS18",2
+"SART3",2
+"DPF2",2
+"GANAB",2
+"BMS1",2
+"PHF1",2
+"EEF1D",2
+"BRD4",2
+"MED28",2
+"MYO1C",2
+"RALY",2
+"GPX4",2
+"IGF2BP1",2
+"FH",2
+"CHMP2B",2
+"AGO3",2
+"NUP153",2
+"RPL23",2
+"MMS19",2
+"G3BP1",2
+"CDK13",2
+"PKM",2
+"GLYCTK",2
+"C14orf1",2
+"MED12",2
+"LAMTOR2",2
+"PI4KA",2
+"CPSF3L",2
+"DDX39A",2
+"RPL12",2
+"IMMT",2
+"SEPT9",2
+"TPM1",2
+"RIOK1",2
+"LUC7L3",2
+"RAC1",2
+"SIRT7",2
+"PARN",2
+"RNF10",2
+"PELO",2
+"RAF1",2
+"BHLHE40",2
+"EIF3C",2
+"BCHE",2
+"CAMK2G",2
+"AGO1",2
+"LMO7",2
+"PSMC4",2
+"RAP1A",2
+"RPL29",2
+"SPTBN1",2
+"STUB1",2
+"TAGLN3",2
+"PA2G4",2
+"ATF2",2
+"RPL15",2
+"EIF6",2
+"RUVBL2",2
+"MLLT3",2
+"NUMA1",2
+"AAAS",2
+"CDKN1A",2
+"PRDX1",2
+"EIF3M",2
+"PRKACA",2
+"POU2F1",2
+"INTS6",2
+"MIF",2
+"RMND5B",2
+"SPDL1",2
+"ANKRD28",2
+"SUPT16H",2
+"RPL31",2
+"SLC25A5",2
+"CDCA8",2
+"DHX9",2
+"SNRNP70",2
+"CUEDC2",2
+"EIF4A3",2
+"HSPB1",2
+"MAPK14",2
+"MAPK11",2
+"RPS14",2
+"RPL28",2
+"CYB5B",2
+"POLR2B",2
+"INTS9",2
+"G3BP2",2
+"NEDD4",2
+"SYNCRIP",2
+"SIPA1L1",2
+"PSMA3",2
+"RPL22",2
+"TARDBP",2
+"RPL26",2
+"BIRC2",2
+"HLA-A",2
+"POU2F2",2
+"GOT2",2
+"CAPZB",2
+"ALDH1B1",2
+"UCHL3",2
+"HSPA1A",2
+"CAPN2",2
+"CKAP5",2
+"NUP205",2
+"UBE2D2",2
+"DOCK5",2
+"HLA-DRA",2
+"FKBP4",2
+"UBQLN2",2
+"RPL19",2
+"LIMD1",2
+"GSK3A",2
+"EIF1",2
+"KIF5B",2
+"DNAJA1",2
+"IARS",2
+"CCT3",2
+"SEPT11",2
+"DHX15",2
+"INTS3",2
+"PDCD11",2
+"FAF2",2
+"TP53BP1",2
+"NAP1L4",2
+"GTF2H1",2
+"CAPN1",2
+"ACAA2",2
+"PABPC1",2
+"KMT2A",2
+"RPS6",2
+"BIN1",2
+"WDR77",2
+"CAMK2A",2
+"RELL2",2
+"GTF2H4",2
+"ASS1",2
+"CUL4B",2
+"ATOH1",2
+"CTTNBP2NL",2
+"EIF4A1",2
+"CAMK2B",2
+"CIT",2
+"FEN1",2
+"PSEN1",2
+"AKT2",2
+"PCBP2",2
+"FLNB",2
+"HIST2H3C",2
+"PPP2R5D",2
+"RBX1",2
+"METTL3",2
+"SRPK1",2
+"CAMK2D",2
+"HNRNPK",2
+"EIF4A2",2
+"HTT",2
+"HNRNPUL1",2
+"PPP1CB",2
+"AKTIP",2
+"AK4",2
+"EED",2
+"CREB3",2
+"GTF2B",2
+"MCM5",2
+"NCAM1",2
+"C9orf72",2
+"GRN",2
+"FKBP1B",2
+"SKP2",2
+"KLC4",2
+"TUBB",2
+"LDHB",2
+"ACTR3",2
+"SGK1",2
+"LRRK2",2
+"FYN",2
+"RPS26",2
+"SCARA3",2
+"RPL35A",2
+"DDAH2",2
+"RFC3",2
+"CCDC136",2
+"CARKD",2
+"RANBP2",2
+"WDR61",2
+"NANS",2
+"RRM2",2
+"PRDX5",2
+"CORO1C",2
+"MEF2D",2
+"SRPK2",2
+"PCMT1",2
+"SRP14",2
+"PRKAG1",2
+"ABLIM1",2
+"DDX21",2
+"FANCI",2
+"DDX27",2
+"RPS27A",2
+"RPL35",2
+"SAFB",2
+"IGF2BP2",2
+"UPF2",2
+"NUP214",2
+"PRKACG",2
+"SFPQ",2
+"RPL17",2
+"AHSA1",2
+"CALML5",2
+"IVNS1ABP",2
+"ATR",2
+"EIF3D",2
+"ATP5C1",2
+"BANF1",2
+"ACTG1",2
+"NOS2",2
+"FGFR1",2
+"HIST1H2BG",2
+"PRPF19",2
+"RPS27L",2
+"HDAC4",2
+"PRKAA1",2
+"ATP5B",2
+"PABPN1",2
+"PFKL",2
+"MRPS14",2
+"CCNK",2
+"ABCF1",2
+"EEF1B2",2
+"PLCG1",2
+"TRAF6",2
+"MAPK8",2
+"INTS10",2
+"TFEB",2
+"PRPF8",2
+"PPIB",2
+"FLNC",2
+"GIPC3",2
+"TRIM28",2
+"ATXN2",2
+"EML4",2
+"PABPC4",2
+"NUP93",2
+"MPDZ",2
+"C21orf33",2
+"CAMKK1",2
+"GTF2A1",2
+"PPP2R1B",2
+"NDC1",2
+"CPSF7",2
+"VCAM1",2
+"INA",2
+"NELFA",2
+"CASP1",2
+"RCN1",2
+"LSM1",2
+"ALDH1A1",2
+"ERCC2",2
+"RBM25",2
+"SUMO2",2
+"RPL10L",2
+"RPN1",2
+"EIF3H",2
+"MBP",2
+"ATG5",2
+"TSC1",2
+"RRBP1",2
+"TKT",2
+"ACACA",2
+"ASPH",2
+"NOTCH1",2
+"ABCF2",2
+"GPI",2
+"PARK7",2
+"MAPK3",2
+"OGT",2
+"DPH5",2
+"SPTAN1",2
+"RB1",2
+"CSNK1A1",2
+"GIT1",2
+"FOXO3",2
+"NUP107",2
+"ALDOC",2
+"NUP50",2
+"DNAAF2",2
+"POLR2I",2
+"EIF4G3",2
+"ERCC3",2
+"MTDH",2
+"GSN",2
+"MYH14",2
+"RPN2",2
+"HOOK3",2
+"SF3B1",2
+"MRPL37",2
+"CNOT2",2
+"EIF5",2
+"PGK1",2
+"POLE3",2
+"MAP7D1",2
+"AATF",2
+"RICTOR",2
+"RPS17",2
+"PHGDH",2
+"TPT1",2
+"RNF40",2
+"PDHB",2
+"CREB1",2
+"MARK2",2
+"PRDM14",2
+"LAMP2",2
+"C8orf33",2
+"MLST8",2
+"CSNK1D",2
+"RPL38",2
+"EIF4G1",2
+"RPS2",2
+"EBP",2
+"LDHA",2
+"EIF3K",2
+"CNOT6L",2
+"AARS",2
+"EIF4B",2
+"GSTP1",2
+"TMPO",2
+"PLEC",2
+"CCNB1",2
+"BAG1",2
+"FANCA",2
+"TAF8",2
+"RPLP2",2
+"TERF2",2
+"SRSF3",2
+"FLNA",2
+"PRKAB2",2
+"DDX24",2
+"PRDX6",2
+"TMOD3",2
+"NUP43",2
+"COPB1",2
+"RPL36",2
+"UBR5",2
+"ARHGEF2",2
+"INTS4",2
+"AGO2",2
+"SRPRB",2
+"MPHOSPH8",2
+"MECOM",2
+"ARID3B",2
+"KATNA1",2
+"MYO6",2
+"RPL30",2
+"CYB5R3",2
+"MARS",2
+"FLII",2
+"PDAP1",2
+"GLYR1",2
+"CTR9",2
+"RPL5",2
+"TCEB2",2
+"CDC42BPA",2
+"CCT8",2
+"RPL14",2
+"PIK3C3",2
+"LIMS1",2
+"TJP1",2
+"RPS12",2
+"HSPA2",2
+"HSP90AA5P",2
+"MAP2K3",2
+"CLSPN",2
+"C17orf85",2
+"HINT2",2
+"GEMIN5",2
+"CASP10",2
+"PRKCI",2
+"RAD21",2
+"NBN",2
+"GLRX5",2
+"ATRIP",2
+"ALYREF",2
+"PPP6R2",2
+"RAB11FIP5",2
+"PMPCB",2
+"P4HA1",2
+"CTTN",2
+"AGO4",2
+"RAB7A",2
+"CYFIP1",2
+"MAP2K7",2
+"PRKCZ",2
+"FKBP5",2
+"VIM",2
+"DERA",2
+"POLR2L",2
+"TAB1",2
+"DENR",2
+"SIK1",2
+"VAPA",2
+"EAF1",2
+"DUT",2
+"RNF20",2
+"TRIP12",2
+"MED29",2
+"THRA",2
+"OXSR1",2
+"YWHAZ",2
+"CD4",2
+"ARIH2",2
+"SYK",2
+"PIK3R1",2
+"TPR",2
+"SMAD1",2
+"RPS7",2
+"MAPK10",2
+"HLA-DRB1",2
+"PRKCA",2
+"LUCAT1",2
+"PSMD4",2
+"EIF2S1",2
+"SLBP",2
+"TPM4",2
+"ELL",2
+"RAN",2
+"SEC31A",2
+"SKP1",2
+"NPM3",2
+"GRHPR",2
+"AKR1C3",2
+"WDR24",2
+"NUP210",2
+"CCND2",2
+"RPS16",2
+"ARCN1",2
+"AMPH",2
+"HIST2H2AA3",2
+"STRIP1",2
+"CPT1A",2
+"RPS6KA5",2
+"INTS2",2
+"EIF4E2",2
+"PHAX",2
+"ABAT",2
+"NUPL2",2
+"PPP2CB",2
+"RPL34",2
+"FTL",2
+"FKBP2",2
+"PRKAA2",2
+"GTF2E2",2
+"FGFR4",2
+"ANKRD52",2
+"ELL2",2
+"RPS6KB2",2
+"TERF1",2
+"CLK1",2
+"CCDC51",2
+"MYO18A",2
+"CASP4",2
+"MYO1D",2
+"GNB2",2
+"STK11",2
+"RPL32",2
+"KANK1",2
+"H1FX",2
+"MGST1",2
+"HLTF",2
+"DUSP19",2
+"AFF1",2
+"AKR1B1",2
+"ARPC3",2
+"CLTCL1",2
+"DUSP1",2
+"MED26",2
+"TNF",2
+"AGTPBP1",2
+"FBXL19",2
+"PEPD",2
+"RPRD1A",2
+"INTS1",2
+"SNAPC1",2
+"KIAA1143",2
+"CAMKK2",2
+"SKIV2L",2
+"GCSH",2
+"EIF3G",2
+"ARMC1",2
+"PWP2",2
+"TRAPPC2",2
+"RPL3L",2
+"MYH9",2
+"CDK12",2
+"LSM14A",2
+"FARS2",2
+"PDGFRA",2
+"SERPINH1",2
+"LRRC59",2
+"IRF2",2
+"SSU72",2
+"PRKACB",2
+"TUBA1B",2
+"MPST",2
+"MDH2",2
+"ING5",2
+"ACAA1",2
+"SMAD4",2
+"LAMTOR3",2
+"SLC25A3",2
+"ANKRD40",2
+"CDK5R1",2
+"ALK",2
+"RPL37",2
+"RB1CC1",2
+"RPLP0",2
+"SOD1",2
+"LARP4",2
+"HSPA6",2
+"TERT",2
+"IDH2",2
+"SLC15A1",2
+"POLR2D",2
+"HTATSF1",2
+"NSUN2",2
+"MAPK12",2
+"SQSTM1",2
+"SMC4",2
+"HAX1",2
+"INTS7",2
+"HIST2H2AB",2
+"SMC2",2
+"SERBP1",2
+"CABIN1",2
+"LGALS7",2
+"ATG13",2
+"KNSTRN",2
+"SNRPD2P1",2
+"EDF1",2
+"TCEB1",2
+"MAPK9",2
+"PSMC5",2
+"PRNP",2
+"SUPT6H",2
+"NOS3",2
+"QRICH1",2
+"PAF1",2
+"CDC7",2
+"POLR1A",2
+"NGDN",2
+"STRN",2
+"BRSK1",2
+"GAR1",2
+"TNS3",2
+"LARP1",2
+"RPS5",2
+"PLCG2",2
+"DGUOK",2
+"CDK5",2
+"PACSIN1",2
+"RBPJ",2
+"GTF2E1",2
+"HEMGN",2
+"CTNNA1",2
+"EIF3L",2
+"MAPK8IP1",2
+"DNM2",2
+"NPEPPS",2
+"NDUFAB1",2
+"RPS24",2
+"MYL12A",2
+"TBP",2
+"SNRPE",2
+"UBL4A",2
+"CNOT4",2
+"HTRA1",2
+"UBB",2
+"TAF15",2
+"NUDC",2
+"PDHA1",2
+"DCC",2
+"XPO7",2
+"RPL18",2
+"ENO3",2
+"HSP90AA4P",2
+"RPS6KA1",2
+"CALML3",2
+"TUBA1A",2
+"MAPK13",2
+"DUSP7",2
+"STRN3",2
+"MTHFD1",2
+"PTK2B",2
+"RFFL",2
+"MDFIC",2
+"NUP133",2
+"ROR1",2
+"PLD1",2
+"PPT1",2
+"RPS6KA3",2
+"PTBP2",2
+"KRT8",2
+"PNP",2
+"AK2",2
+"STX6",2
+"KRT7",2
+"POM121",2
+"TAF5",2
+"RPL8",2
+"ATP5J",2
+"EIF4EBP1",2
+"UBE2L6",2
+"TUBA3C",2
+"SH3KBP1",2
+"EXOSC4",2
+"P4HB",2
+"AKT1S1",2
+"RAE1",2
+"MAP2K2",2
+"PUS7",2
+"PAXIP1",2
+"CCDC124",2
+"G6PD",2
+"ACO1",2
+"MDH1",2
+"EIF4ENIF1",2
+"MARCH7",2
+"NUP98",2
+"ENO2",2
+"MSL1",2
+"EIF3F",2
+"FKBP1A",2
+"GPATCH2L",2
+"UFD1L",2
+"RUNX1",2
+"POGZ",2
+"NELFB",2
+"LRRFIP2",2
+"PAIP1",2
+"MTFR1",2
+"FUBP3",2
+"UBE2M",2
+"POLR2H",2
+"C7orf50",2
+"ASAH1",2
+"RCL1",2
+"SP1",2
+"CNOT10",2
+"LAMTOR5",2
+"XRN1",2
+"SLC25A1",2
+"SMARCB1",2
+"STAT1",2
+"STK26",2
+"PPP1R12A",2
+"NFATC2IP",2
+"SF3A1",2
+"BRSK2",2
+"MYB",2
+"STK25",2
+"PCK1",2
+"RPS15A",2
+"IL6ST",2
+"PCF11",2
+"KRT19",2
+"TAF11",2
+"PFKP",2
+"SMAD3",2
+"TCEA1",2
+"NCBP2",2
+"NUP35",2
+"TRIM14",2
+"YAP1",2
+"HSPB2",2
+"RPS3",2
+"GSTM3",2
+"HIST1H2BL",2
+"RPS28",2
+"TUBB4B",2
+"FGR",2
+"ULK1",2
+"S100A10",2
+"AKR1B15",2
+"PGK2",2
+"CCNH",2
+"RDX",2
+"RABAC1",2
+"EIF4EBP2",2
+"ATP6V1H",2
+"KANK2",2
+"C1orf198",2
+"LINC01554",2
+"HIST1H1D",2
+"TAGLN2",2
+"PDPR",2
+"SRRT",2
+"NUP85",2
+"MELK",2
+"CCND3",2
+"FKBP3",2
+"SEPT7",2
+"TCEB3B",2
+"FLCN",2
+"STMN1",2
+"CEP192",2
+"RPS3A",2
+"HIST2H4A",2
+"RPS9",2
+"AHNAK2",2
+"NME1-NME2",2
+"DEPTOR",2
+"PRKCE",2
+"PFN1",2
+"PJA2",2
+"MKNK2",2
+"NEFM",2
+"EIF4H",2
+"VDAC2",2
+"SRC",2
+"IMP3",2
+"STK10",2
+"PRKCB",2
+"RBM39",2
+"SMARCE1",2
+"MYO5A",2
+"GTF2F2",2
+"MNAT1",2
+"EIF2AK4",2
+"NUP62",2
+"PDPK1",2
+"PDCD10",2
+"UBA52",2
+"RRP7A",2
+"NEDD9",2
+"LAMTOR4",2
+"NELFE",2
+"XRCC6",2
+"FABP5",2
+"EFEMP1",2
+"PEF1",2
+"RAPGEF2",2
+"WWOX",2
+"HMGB3",2
+"TRAP1",2
+"PRDX2",2
+"MEF2C",2
+"POLR2F",2
+"CASP6",2
+"OPA1",2
+"MLLT1",2
+"HIST1H2BA",2
+"NUP155",2
+"RCHY1",2
+"RPL26L1",2
+"CCNL1",2
+"NUB1",2
+"IL20RA",2
+"LIG4",2
+"MARK1",2
+"RPS29",2
+"CSRP1",2
+"NELFCD",2
+"AMBP",2
+"UBXN11",2
+"RAD52",2
+"ICE2",2
+"TUBA4A",2
+"TPI1",2
+"ENDOD1",2
+"SCAF8",2
+"TIA1",2
+"RCC1",2
+"CWC15",2
+"CASP9",2
+"DFFB",2
+"BPGM",2
+"MSL2",2
+"PICALM",2
+"ICE1",2
+"POLR2J",2
+"RPRD2",2
+"RPL39",2
+"MKNK1",2
+"CCNT2",2
+"NCAPD3",2
+"C16orf70",2
+"PPP2R4",2
+"NUP188",2
+"RTCB",2
+"NUP54",2
+"RRAGC",2
+"IDH3B",2
+"PGAM1",2
+"PDE6D",2
+"NMNAT2",2
+"TRIM44",2
+"TSC2",2
+"STIP1",2
+"RBMS2",2
+"PROSC",2
+"NIT2",2
+"OSBPL3",2
+"EAF2",2
+"PPFIBP1",2
+"PPM1A",2
+"SCLT1",2
+"FAM103A1",2
+"FAT4",2
+"RTF1",2
+"STX2",2
+"BRDT",2
+"GTF2H5",2
+"TET2",2
+"NABP1",2
+"INTS5",2
+"SETD1B",2
+"WWP2",2
+"NUP88",2
+"STK24",2
+"ATP7A",2
+"MAF1",2
+"MARK3",2
+"YWHAB",2
+"FAM136A",2
+"PRDM4",2
+"GSS",2
+"UNC45A",2
+"ALDOB",2
+"TAF6",2
+"PRKAB1",2
+"RRAGA",2
+"GAPDHS",2
+"MARK4",2
+"RPSA",2
+"RPS6KB1",2
+"SNAPC5",2
+"MTHFD1L",2
+"RPS20",2
+"GTF2H3",2
+"RPL36A",2
+"ADCY2",2
+"CNOT6",2
+"GTF2A2",2
+"TCOF1",2
+"PAN3",2
+"PEG10",2
+"PABPC3",2
+"KLHDC3",2
+"UBE2S",2
+"THOC7",2
+"F2",2
+"XRCC3",2
+"SPATA19",2
+"CPEB1",2
+"INSIG2",2
+"CASP2",2
+"HEXIM2",2
+"PDP1",2
+"CNOT8",2
+"RNF152",2
+"LANCL2",2
+"EHD2",2
+"DEDD",2
+"GTF2H2",2
+"EIF4E3",2
+"JAG2",2
+"SRI",2
+"SNAPC4",2
+"ELL3",2
+"YWHAE",2
+"SLTM",2
+"SMC3",2
+"GNPNAT1",2
+"MYL12B",2
+"ERAP1",2
+"SUPT4H1",2
+"MYOC",2
+"ILKAP",2
+"XRN2",2
+"PRRC2C",2
+"UPF1",2
+"PTPN9",2
+"NLRP1",2
+"SLC9A1",2
+"TUBB3",2
+"TUBA3E",2
+"BNIP3L",2
+"SRSF9",2
+"PPP1R9B",2
+"TKTL1",2
+"VPS35",2
+"ISOC2",2
+"ADCY3",2
+"PRPH",2
+"STXBP1",2
+"CCDC87",2
+"M6PR",2
+"RPL36AL",2
+"DNAJB12",2
+"ZC3H7A",2
+"NABP2",2
+"UBE2W",2
+"STRIP2",2
+"SRCAP",2
+"TXN",2
+"RRP15",2
+"FKBP7",2
+"USP43",2
+"INTS8",2
+"AFF3",2
+"NTN4",2
+"MINPP1",2
+"C19orf53",2
+"MEF2A",2
+"TBCA",2
+"RPAP2",2
+"VPS26B",2
+"TUBB6",2
+"ITPA",2
+"POLR2K",2
+"ADCY9",2
+"HSP90AB4P",2
+"CDKN1C",2
+"PPA2",2
+"PLG",2
+"NAB1",2
+"AKR1B10",2
+"TXLNG",2
+"KCND2",2
+"TAF7",2
+"TPM2",2
+"PGAM2",2
+"MAP2",2
+"ADCY1",2
+"PGAM4",2
+"NOL7",2
+"INS",2
+"MASP1",2
+"NUP37",2
+"SUPT5H",2
+"ENPP7",2
+"CRLF1",2
+"SRF",2
+"RPS21",2
+"TAF13",2
+"VWA9",2
+"CDC42SE1",2
+"SPICE1",2
+"TAL1",2
+"YWHAQ",2
+"LETMD1",2
+"PCK2",2
+"TNKS1BP1",2
+"TBC1D7",2
+"TARBP1",2
+"RNMT",2
+"LRRC42",2
+"UBFD1",2
+"S100B",2
+"PRKCG",2
+"POFUT1",2
+"TMEM33",2
+"CALML6",2
+"RAPGEF6",2
+"SNRNP25",2
+"GATA6",2
+"UBAP1",2
+"UCHL1",2
+"YBX1",2
+"TCEB3",2
+"CASP5",2
+"TMEM52B",2
+"TXNDC11",2
+"MBNL2",2
+"TRIM33",2
+"DCLK2",2
+"TWF1",2
+"MORC4",2
+"PRKAG2",2
+"FAM58A",2
+"RPL39L",2
+"IFRD2",2
+"MVK",2
+"FBXO5",2
+"ZFP36L2",2
+"PKLR",2
+"RAB34",2
+"STRN4",2
+"UQCRFS1",2
+"ITGB8",2
+"WDR1",2
+"NFATC3",2
+"SLC38A9",2
+"DTYMK",2
+"SIPA1L3",2
+"RRAGD",2
+"VPS4A",2
+"TAGLN",2
+"SLC25A22",2
+"H6PD",2
+"ZC3H13",2
+"WDR81",2
+"PDXK",2
+"TUBA3D",2
+"SERPING1",2
+"VARS",2
+"RN7SK",2
+"TDO2",2
+"POM121C",2
+"SZRD1",2
+"OTUD6B",2
+"ZCCHC6",2
+"YES1",2
+"ZC3H8",2
+"TXNDC12",2
+"ZNF598",2
+"PITPNB",2
+"TIGD6",2
+"TTBK1",2
+"PMP2",2
+"SNAPC3",2
+"TRIM22",2
+"USP4",2
+"ADCY8",2
+"SCG3",2
+"TKTL2",2
+"YBX3",2
+"RPL22L1",2
+"SYT12",2
+"TYMP",2
+"RHOF",2
+"YARS",2
+"GP5",2
+"CALML4",2
+"PRKAG3",2
+"MST4",2
+"NCBP2L",2
+"PGC",2
+"RAB3C",2
+"PRM2",2
+"ENSG00000258947",2
+"EIF4E1B",2
+"SLC1A2",2
+"WDR59",2
+"TOMM40L",2
+"EIF4EBP3",2
+"TCEB3C",2
+"TCEB3CL2",2
+"SLC25A39",2
+"ZNFX1",2
+"ZNF638",2
+"ZNF143",2
+"TXNDC16",2
+"ZRANB1",2
+"ZCCHC11",2
+"VIL1",2
+"SNORA6",2
+"MROH7",2
+"ZNF639",2
+"SERPINI1",2
+"phosphopyruvate hydratase complex",6
+"G1/S transition of mitotic cell cycle",6
+"negative regulation of transcription by RNA polymerase II",6
+"Golgi membrane",6
+"microtubule cytoskeleton organization",6
+"magnesium ion binding",6
+"cyclin-dependent protein kinase holoenzyme complex",6
+"RNA cap binding",6
+"RNA 7-methylguanosine cap binding",6
+"nuclear chromatin",6
+"P-body",6
+"RNA polymerase II regulatory region sequence-specific DNA binding",6
+"RNA polymerase II cis-regulatory region sequence-specific DNA binding",6
+"transcription coactivator binding",6
+"DNA-binding transcription repressor activity, RNA polymerase II-specific",6
+"fibrillar center",6
+"behavioral fear response",6
+"microglial cell activation",6
+"adaptive immune response",6
+"myeloid dendritic cell cytokine production",6
+"DNA binding",6
+"AT DNA binding",6
+"chromatin binding",6
+"double-stranded DNA binding",6
+"single-stranded DNA binding",6
+"RNA binding",6
+"translation initiation factor activity",6
+"actin binding",6
+"GTPase activity",6
+"phosphopyruvate hydratase activity",6
+"protein kinase activity",6
+"protein serine/threonine kinase activity",6
+"calmodulin-dependent protein kinase activity",6
+"cyclin-dependent protein serine/threonine kinase activity",6
+"structural constituent of cytoskeleton",6
+"protein binding",6
+"calmodulin binding",6
+"ATP binding",6
+"GTP binding",6
+"extracellular region",6
+"extracellular space",6
+"cell",6
+"nucleus",6
+"nucleoplasm",6
+"spliceosomal complex",6
+"chromosome",6
+"cytoplasm",6
+"mitochondrion",6
+"lysosomal membrane",6
+"endoplasmic reticulum membrane",6
+"cytosol",6
+"mRNA cap binding complex",6
+"cytoskeleton",6
+"microtubule",6
+"neurofilament",6
+"plasma membrane",6
+"cell cortex",6
+"gluconeogenesis",6
+"DNA repair",6
+"regulation of DNA repair",6
+"transcription by RNA polymerase II",6
+"transcription initiation from RNA polymerase II promoter",6
+"transcription elongation from RNA polymerase II promoter",6
+"RNA export from nucleus",6
+"mRNA export from nucleus",6
+"translational initiation",6
+"regulation of translation",6
+"protein phosphorylation",6
+"internal protein amino acid acetylation",6
+"activation of cysteine-type endopeptidase activity involved in apoptotic process",6
+"inflammatory response",6
+"cell cycle arrest",6
+"signal transduction",6
+"small GTPase mediated signal transduction",6
+"cell-cell signaling",6
+"regulation of mitotic cell cycle",6
+"axonogenesis",6
+"brain development",6
+"memory",6
+"long-term memory",6
+"microtubule binding",6
+"synaptic vesicle",6
+"transcription elongation factor complex",6
+"cyclin/CDK positive transcription elongation factor complex",6
+"transcription factor binding",6
+"cell population proliferation",6
+"RNA polymerase II CTD heptapeptide repeat kinase activity",6
+"response to virus",6
+"calcium-dependent protein serine/threonine kinase activity",6
+"cell surface",6
+"response to lead ion",6
+"cytoplasmic stress granule",6
+"regulation of autophagy",6
+"negative regulation of autophagy",6
+"positive regulation of cardiac muscle hypertrophy",6
+"negative regulation of gene expression",6
+"positive regulation of plasminogen activation",6
+"negative regulation of mitochondrial membrane potential",6
+"postsynaptic density",6
+"microtubule cytoskeleton",6
+"membrane",6
+"viral process",6
+"rRNA metabolic process",6
+"regulation of macroautophagy",6
+"eukaryotic translation initiation factor 4F complex",6
+"kinase activity",6
+"RISC complex",6
+"PML body",6
+"nuclear speck",6
+"SH3 domain binding",6
+"negative regulation of translation",6
+"peptidyl-serine phosphorylation",6
+"GDP binding",6
+"stem cell population maintenance",6
+"kinesin binding",6
+"axonal transport of mitochondrion",6
+"enzyme binding",6
+"protein kinase binding",6
+"central nervous system neuron development",6
+"cell projection assembly",6
+"negative regulation of cell growth",6
+"lung development",6
+"cyclin binding",6
+"axon",6
+"dendrite",6
+"growth cone",6
+"axolemma",6
+"protein-macromolecule adaptor activity",6
+"regulation of histone modification",6
+"regulation of microtubule polymerization or depolymerization",6
+"regulation of microtubule polymerization",6
+"positive regulation of microtubule polymerization",6
+"cytoplasmic microtubule organization",6
+"neuron projection development",6
+"replication fork processing",6
+"eukaryotic initiation factor 4G binding",6
+"M band",6
+"positive regulation of TOR signaling",6
+"positive regulation of superoxide anion generation",6
+"positive regulation of transcription elongation from RNA polymerase II promoter",6
+"regulation of chromosome organization",6
+"regulation of T cell differentiation in thymus",6
+"positive regulation of histone phosphorylation",6
+"chromatoid body",6
+"negative regulation of kinase activity",6
+"neurofilament bundle assembly",6
+"stress granule assembly",6
+"apolipoprotein binding",6
+"nuclear periphery",6
+"dynactin binding",6
+"cellular response to heat",6
+"cellular response to reactive oxygen species",6
+"phosphatidylinositol binding",6
+"intracellular signal transduction",6
+"cytoplasmic ribonucleoprotein granule",6
+"somatodendritic compartment",6
+"response to drug",6
+"snRNA transcription by RNA polymerase II",6
+"identical protein binding",6
+"protein homodimerization activity",6
+"neuron projection",6
+"myeloid dendritic cell differentiation",6
+"neuronal cell body",6
+"dendritic spine",6
+"sequence-specific DNA binding",6
+"transcription regulatory region DNA binding",6
+"cell body",6
+"main axon",6
+"membrane raft",6
+"cadherin binding",6
+"tubulin complex",6
+"negative regulation of neuron differentiation",6
+"regulation of osteoclast differentiation",6
+"positive regulation of axon extension",6
+"negative regulation of transcription, DNA-templated",6
+"positive regulation of transcription, DNA-templated",6
+"positive regulation of mitotic cell cycle",6
+"positive regulation of muscle contraction",6
+"positive regulation of transcription by RNA polymerase II",6
+"protein autophosphorylation",6
+"microtubule polymerization",6
+"astrocyte activation",6
+"regulation of synaptic plasticity",6
+"intracellular distribution of mitochondria",6
+"perinuclear region of cytoplasm",6
+"generation of neurons",6
+"positive regulation of oligodendrocyte differentiation",6
+"peripheral nervous system neuron axonogenesis",6
+"positive regulation of viral transcription",6
+"synapse organization",6
+"regulation of calcium-mediated signaling",6
+"GTPase binding",6
+"chaperone binding",6
+"regulation of muscle cell differentiation",6
+"protein polymerization",6
+"protein phosphatase 2A binding",6
+"Hsp90 protein binding",6
+"neurofilament cytoskeleton organization",6
+"axon development",6
+"canonical glycolysis",6
+"extracellular exosome",6
+"repressing transcription factor binding",6
+"regulation of microtubule cytoskeleton organization",6
+"phosphorylation of RNA polymerase II C-terminal domain",6
+"dynein complex binding",6
+"negative regulation of cell cycle arrest",6
+"cellular response to cytokine stimulus",6
+"cellular response to dexamethasone stimulus",6
+"lipoprotein particle binding",6
+"plus-end-directed organelle transport along microtubule",6
+"regulation of mitochondrial fission",6
+"negative regulation of mitochondrial fission",6
+"7SK snRNA binding",6
+"glial cell projection",6
+"neurofibrillary tangle",6
+"supramolecular fiber organization",6
+"Schaffer collateral - CA1 synapse",6
+"postsynapse",6
+"postsynaptic actin cytoskeleton",6
+"axonal transport",6
+"glutamatergic synapse",6
+"histone-dependent DNA binding",6
+"postsynaptic intermediate filament cytoskeleton",6
+"structural constituent of postsynaptic intermediate filament cytoskeleton",6
+"postsynaptic intermediate filament cytoskeleton organization",6
+"postsynaptic cytosol",6
+"regulation of translation at postsynapse, modulating synaptic transmission",6
+"microtubule lateral binding",6
+"cell cortex region",6
+"negative regulation of cold-induced thermogenesis",6
+"regulation of cellular response to heat",6
+"negative regulation of mRNA polyadenylation",6
+"regulation of long-term synaptic depression",6
+"positive regulation of neuron death",6
+"positive regulation of protein localization to synapse",6
+"regulation of organelle transport along microtubule",6
+"phosphatidylinositol bisphosphate binding",6
+"neurofibrillary tangle assembly",6
+"negative regulation of hypoxia-induced intrinsic apoptotic signaling pathway",6
+"negative regulation of establishment of protein localization to mitochondrion",6
+"positive regulation of cellular protein localization",6
+"positive regulation of mRNA 3'-UTR binding",6
+"axon cytoplasm",6
+"negative regulation of tubulin deacetylation",6
+"regulation of modification of postsynaptic actin cytoskeleton",6
+"positive regulation of diacylglycerol kinase activity",6
+"amyloid fibril formation",6
+"cellular response to nerve growth factor stimulus",6
+"cellular response to brain-derived neurotrophic factor stimulus",6
+"cellular response to leukemia inhibitory factor",6
+"regulation of type B pancreatic cell development",6
+"regulation of response to DNA damage stimulus",6
+"positive regulation of histone H2B ubiquitination",6
+"positive regulation of ATP biosynthetic process",6

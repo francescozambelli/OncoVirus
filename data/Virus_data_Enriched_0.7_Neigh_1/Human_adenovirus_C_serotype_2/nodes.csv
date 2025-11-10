@@ -1,0 +1,411 @@
+"node","type"
+"129951.CAP8_ADE02",0
+"DDX3X",2
+"CYLD",2
+"ELAVL1",2
+"HDAC5",2
+"MCM2",2
+"EFTUD2",2
+"LARP7",2
+"FN1",2
+"FUS",2
+"CALM1",2
+"NTRK1",2
+"AGR2",2
+"HNRNPA1",2
+"CRK",2
+"NCBP1",2
+"ITFG1",2
+"ESR1",2
+"KRAS",2
+"STAU1",2
+"MIR221",2
+"EZH2",2
+"EIF5B",2
+"KIAA1429",2
+"CUL7",2
+"CUL1",2
+"SRRM2",2
+"MIR199A1",2
+"EIF3E",2
+"EWSR1",2
+"HIST1H4A",2
+"RNF2",2
+"CDC37",2
+"MIR7-1",2
+"LMNA",2
+"CDC5L",2
+"EIF3A",2
+"COPS6",2
+"CDK9",2
+"CENPA",2
+"INPPL1",2
+"MIRLET7F2",2
+"NPM1",2
+"CDH1",2
+"MIR128-2",2
+"MIRLET7A3",2
+"CSNK2A1",2
+"FBXW11",2
+"HNRNPR",2
+"RNF31",2
+"RC3H1",2
+"MIRLET7C",2
+"CHD4",2
+"TP53",2
+"CUL5",2
+"CCDC8",2
+"COPS5",2
+"CHD3",2
+"CD81",2
+"RECQL4",2
+"CUL2",2
+"SUZ12",2
+"BYSL",2
+"CDK2",2
+"APEX1",2
+"PCBP1",2
+"OBSL1",2
+"MIR31",2
+"EIF2S3",2
+"CUL3",2
+"CAND1",2
+"MIR138-1",2
+"MIR25",2
+"NR2C2",2
+"ASCC3",2
+"NEDD8",2
+"PPP1CC",2
+"HDAC2",2
+"HDAC6",2
+"MEPCE",2
+"RC3H2",2
+"CTNNB1",2
+"EIF3J",2
+"C20orf24",2
+"MIRLET7A1",2
+"AAR2",2
+"TGFB1",2
+"CAD",2
+"MIR141",2
+"MIRLET7E",2
+"RPA3",2
+"HEXIM1",2
+"PIH1D1",2
+"MIRLET7B",2
+"MIR34A",2
+"ARRB2",2
+"MIRLET7I",2
+"REST",2
+"PIN1",2
+"MATR3",2
+"EIF3B",2
+"EIF3I",2
+"MIR9-2",2
+"MAVS",2
+"IQGAP1",2
+"PPIE",2
+"RPA2",2
+"PARK2",2
+"FBXO6",2
+"RPS23",2
+"EIF1AX",2
+"ITGA4",2
+"POT1",2
+"PHB",2
+"RPS11",2
+"ILK",2
+"MIR19A",2
+"ODF2",2
+"DCUN1D1",2
+"G3BP1",2
+"DYNLL1",2
+"EPPK1",2
+"MED12",2
+"AP2M1",2
+"KDM6A",2
+"RIOK1",2
+"RAC1",2
+"EIF3C",2
+"SNRPA1",2
+"TNIP2",2
+"ATP6V1F",2
+"DHX9",2
+"SNRNP70",2
+"EIF4A3",2
+"NEDD4",2
+"SYNCRIP",2
+"TARDBP",2
+"GTPBP4",2
+"UCHL3",2
+"UBQLN2",2
+"GSK3A",2
+"CTCF",2
+"MIR9-3",2
+"DHX15",2
+"PABPC1",2
+"CUL4B",2
+"SAP18",2
+"EIF4A1",2
+"IKBKE",2
+"RBX1",2
+"METTL3",2
+"DHX36",2
+"EIF4A2",2
+"PPP1CB",2
+"EED",2
+"MBD3",2
+"WDR61",2
+"MIR122",2
+"MTF1",2
+"SRPK2",2
+"APBB1",2
+"IL7R",2
+"AHSA1",2
+"EIF3D",2
+"NOS2",2
+"TRAF6",2
+"PRPF8",2
+"ERG",2
+"RPA1",2
+"VCAM1",2
+"MIR106A",2
+"MIR19B1",2
+"MIR106B",2
+"SUMO2",2
+"EIF3H",2
+"ICAM1",2
+"ABCF2",2
+"BICD2",2
+"MIR222",2
+"MAP2K1",2
+"MIR92A2",2
+"MIR206",2
+"HNRNPDL",2
+"LGR4",2
+"MIR18B",2
+"EIF4G1",2
+"RPS2",2
+"MAGOH",2
+"SND1",2
+"EIF3K",2
+"EIF4B",2
+"TMPO",2
+"MIR21",2
+"TERF2",2
+"IMPDH2",2
+"MIR10B",2
+"MIR128-1",2
+"AGO2",2
+"CRY2",2
+"MECOM",2
+"MIR16-2",2
+"ELF3",2
+"MIR7-2",2
+"GEMIN5",2
+"TBK1",2
+"RAD21",2
+"ALYREF",2
+"CD40",2
+"PRKCZ",2
+"API5",2
+"MIR29C",2
+"MIR19B2",2
+"CD4",2
+"TPR",2
+"RPS7",2
+"MIR200B",2
+"MIR29A",2
+"PIK3R2",2
+"DDX58",2
+"MIR155",2
+"U2AF2",2
+"MIR214",2
+"GLE1",2
+"RPS6KB2",2
+"IGSF8",2
+"MIR92A1",2
+"TNF",2
+"EIF3G",2
+"MIR363",2
+"MIR200A",2
+"MIR143",2
+"MIR20A",2
+"IRF3",2
+"FGF11",2
+"MIR205",2
+"MIRLET7F1",2
+"MIR9-1",2
+"MIR98",2
+"USP14",2
+"MIRLET7D",2
+"IMPDH1",2
+"EIF3L",2
+"TAF15",2
+"SREK1",2
+"MIR15A",2
+"PRPF6",2
+"NUP133",2
+"PPT1",2
+"PUF60",2
+"USP9X",2
+"PUS7",2
+"BTK",2
+"EIF3F",2
+"RUNX1",2
+"MIR15B",2
+"SP1",2
+"PCID2",2
+"PCK1",2
+"MIR18A",2
+"TRAF3",2
+"MIR29B2",2
+"SMAD3",2
+"TRIM14",2
+"MIR16-1",2
+"MIR17",2
+"YAP1",2
+"KIN",2
+"MIR451A",2
+"RPS3",2
+"MIR20B",2
+"MIR34B",2
+"MIR1-2",2
+"LINC01554",2
+"SAC3D1",2
+"RPS9",2
+"MIR29B1",2
+"RBM39",2
+"XPO1",2
+"UTP18",2
+"MIR199A2",2
+"XRCC6",2
+"DHX29",2
+"MIR107",2
+"SNAI1",2
+"UBL7",2
+"MIR1-1",2
+"MIRLET7G",2
+"NFKB2",2
+"MIR138-2",2
+"MIR145",2
+"MIR200C",2
+"MIR34C",2
+"SMARCAD1",2
+"MIR7-3",2
+"TET2",2
+"NUP88",2
+"EIF4E",2
+"PSME4",2
+"MIR429",2
+"MIR140",2
+"SRSF5",2
+"MIR93",2
+"TDRD3",2
+"MIRLET7A2",2
+"VHL",2
+"WBP4",2
+"DHX33",2
+"TADA2A",2
+"SRSF9",2
+"TPM2",2
+"KDM4B",2
+"YWHAQ",2
+"ZFX",2
+"TRIP4",2
+"YBX1",2
+"YY1",2
+"MAEL",2
+"VRK1",2
+"ZNF746",2
+"ZFYVE21",2
+"ZNF512B",2
+"DNA binding",6
+"DNA helicase activity",6
+"RNA binding",6
+"RNA helicase activity",6
+"mRNA binding",6
+"GTPase activity",6
+"protein binding",6
+"ATP binding",6
+"extracellular region",6
+"nucleus",6
+"nucleoplasm",6
+"cytoplasm",6
+"centrosome",6
+"cytosol",6
+"eukaryotic translation initiation factor 3 complex",6
+"plasma membrane",6
+"translational initiation",6
+"chromosome segregation",6
+"gamete generation",6
+"transcription factor binding",6
+"poly(A) binding",6
+"eukaryotic initiation factor 4E binding",6
+"extrinsic apoptotic signaling pathway via death domain receptors",6
+"response to virus",6
+"cytoplasmic stress granule",6
+"RNA secondary structure unwinding",6
+"positive regulation of gene expression",6
+"viral process",6
+"Wnt signaling pathway",6
+"ATPase activity",6
+"nucleoside-triphosphatase activity",6
+"negative regulation of translation",6
+"cytosolic small ribosomal subunit",6
+"lamellipodium",6
+"cell differentiation",6
+"positive regulation of cell growth",6
+"negative regulation of cell growth",6
+"cell leading edge",6
+"negative regulation of protein-containing complex assembly",6
+"translation initiation factor binding",6
+"positive regulation of protein autophosphorylation",6
+"DNA duplex unwinding",6
+"positive regulation of interferon-alpha production",6
+"positive regulation of interferon-beta production",6
+"RNA strand annealing activity",6
+"stress granule assembly",6
+"positive regulation of toll-like receptor 7 signaling pathway",6
+"positive regulation of toll-like receptor 8 signaling pathway",6
+"secretory granule lumen",6
+"intracellular signal transduction",6
+"RNA stem-loop binding",6
+"positive regulation of translation in response to endoplasmic reticulum stress",6
+"mature ribosome assembly",6
+"gamma-tubulin binding",6
+"ribosomal small subunit binding",6
+"positive regulation of apoptotic process",6
+"negative regulation of apoptotic process",6
+"negative regulation of cysteine-type endopeptidase activity involved in apoptotic process",6
+"P granule",6
+"CTPase activity",6
+"positive regulation of cysteine-type endopeptidase activity involved in apoptotic process",6
+"neutrophil degranulation",6
+"protein serine/threonine kinase activator activity",6
+"positive regulation of viral genome replication",6
+"innate immune response",6
+"cadherin binding",6
+"positive regulation of translation",6
+"positive regulation of transcription by RNA polymerase II",6
+"positive regulation of translational initiation",6
+"mRNA 5'-UTR binding",6
+"lipid homeostasis",6
+"extracellular exosome",6
+"cellular response to arsenic-containing substance",6
+"cellular response to osmotic stress",6
+"positive regulation of chemokine (C-C motif) ligand 5 production",6
+"positive regulation of protein serine/threonine kinase activity",6
+"NLRP3 inflammasome complex",6
+"positive regulation of canonical Wnt signaling pathway",6
+"intrinsic apoptotic signaling pathway",6
+"positive regulation of G1/S transition of mitotic cell cycle",6
+"positive regulation of NLRP3 inflammasome complex assembly",6
+"negative regulation of NIK/NF-kappaB signaling",6
+"positive regulation of NIK/NF-kappaB signaling",6
+"positive regulation of protein acetylation",6
+"negative regulation of extrinsic apoptotic signaling pathway via death domain receptors",6
+"positive regulation of protein K63-linked ubiquitination",6
+"protein localization to cytoplasmic stress granule",6
+"ficolin-1-rich granule lumen",6
+"negative regulation of intrinsic apoptotic signaling pathway",6

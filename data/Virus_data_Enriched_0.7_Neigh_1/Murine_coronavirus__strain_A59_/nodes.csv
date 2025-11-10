@@ -1,0 +1,568 @@
+"node","type"
+"694005.NCAP_CVMA5",0
+"SMAD3",2
+"HDAC5",2
+"FN1",2
+"KPNA2",2
+"MYC",2
+"GSK3B",2
+"MAPK1",2
+"FLI1",2
+"EP300",2
+"ESR1",2
+"C1orf116",2
+"CCNT1",2
+"NCOR2",2
+"EZH2",2
+"HGS",2
+"CUL1",2
+"CITED2",2
+"APP",2
+"DHX8",2
+"BRCA2",2
+"DACH1",2
+"BRCA1",2
+"MTMR4",2
+"CHUK",2
+"HIF1A",2
+"ATG16L1",2
+"CAV1",2
+"CEBPB",2
+"PPARG",2
+"HDAC1",2
+"CDK9",2
+"ITCH",2
+"DCAF7",2
+"NR4A1",2
+"GIT2",2
+"USP15",2
+"CDH1",2
+"BAG3",2
+"APOB",2
+"RNF31",2
+"PARP1",2
+"JUN",2
+"MAP3K7",2
+"UBC",2
+"HSPA4",2
+"CCNC",2
+"SNW1",2
+"TP53",2
+"FOXH1",2
+"DDX5",2
+"ACTB",2
+"SUZ12",2
+"SMAD7",2
+"CDK2",2
+"LCK",2
+"HSPA8",2
+"CDC16",2
+"BTRC",2
+"SMAD2",2
+"E2F4",2
+"DYRK1A",2
+"SNIP1",2
+"CBL",2
+"EID2",2
+"ARNT",2
+"CHD8",2
+"PSMD11",2
+"NEDD4L",2
+"ERBB2IP",2
+"MED15",2
+"AKT1",2
+"FOXO1",2
+"HDAC2",2
+"CTNNB1",2
+"CREBBP",2
+"DDX3X",2
+"FOXP3",2
+"CDC25A",2
+"TGFB1",2
+"ARID1A",2
+"FOXG1",2
+"BMPR1A",2
+"RBPMS",2
+"NR3C1",2
+"RPL4",2
+"PIK3CA",2
+"GGA1",2
+"KANSL1",2
+"KPNB1",2
+"TCP1",2
+"ISL1",2
+"FBLN1",2
+"MYOD1",2
+"STRAP",2
+"CDK8",2
+"LEF1",2
+"STAT3",2
+"PIN1",2
+"HIPK2",2
+"FHL3",2
+"MTF2",2
+"MAX",2
+"LDLRAD4",2
+"PPP2R1A",2
+"SLC9A3R2",2
+"TSC22D4",2
+"RELA",2
+"CDK4",2
+"KDM5C",2
+"IRS1",2
+"PPIE",2
+"DAB2",2
+"AR",2
+"PTPN11",2
+"APMAP",2
+"OTUB1",2
+"CTDSP2",2
+"PML",2
+"KEAP1",2
+"BMP7",2
+"METTL14",2
+"ELAC2",2
+"PIAS4",2
+"FOXM1",2
+"RPL3",2
+"KLF5",2
+"TRIM25",2
+"MCM3AP",2
+"CDKN2A",2
+"NCOA3",2
+"NUP153",2
+"RUNX2",2
+"SMAD9",2
+"UBE2D1",2
+"RBBP7",2
+"ACVR1B",2
+"CFLAR",2
+"CAMK2G",2
+"TFDP1",2
+"SPTBN1",2
+"STUB1",2
+"ACVR1",2
+"ATF2",2
+"JUNB",2
+"NCOA2",2
+"CDKN1A",2
+"CORO1A",2
+"SNRNP70",2
+"MAPK14",2
+"ATP1B4",2
+"NEDD4",2
+"SAP130",2
+"MEOX2",2
+"CTCF",2
+"PTPN5",2
+"CTDSPL",2
+"PABPC1",2
+"RANBP9",2
+"BLZF1",2
+"SAP18",2
+"NCOR1",2
+"GMEB1",2
+"KAT2B",2
+"BUB3",2
+"DNAJA2",2
+"FHL1",2
+"RBX1",2
+"METTL3",2
+"HNRNPK",2
+"SMARCC1",2
+"ACVR2B",2
+"CRX",2
+"HEY1",2
+"PJA1",2
+"SETD2",2
+"LEMD3",2
+"RPS27A",2
+"NUP214",2
+"PTPN4",2
+"CEBPA",2
+"AES",2
+"HDAC4",2
+"CCNK",2
+"MAPK8",2
+"ETS1",2
+"PTPN6",2
+"EPAS1",2
+"SAP30",2
+"RPA1",2
+"CPSF7",2
+"CASP1",2
+"FHL2",2
+"MED6",2
+"TCF3",2
+"PCDH1",2
+"NOTCH1",2
+"CDC27",2
+"MAPK3",2
+"HIVEP1",2
+"FOXO3",2
+"DCAF4",2
+"ATF3",2
+"ITGB4",2
+"FOS",2
+"AATF",2
+"NFYC",2
+"HP",2
+"SMARCA4",2
+"CSNK1D",2
+"EIF4B",2
+"CTGF",2
+"RBL1",2
+"FLNA",2
+"PROX1",2
+"BPTF",2
+"USP7",2
+"DNMT3L",2
+"MECOM",2
+"DDX3Y",2
+"TGFBR2",2
+"MAP2K3",2
+"SUV39H1",2
+"RAB11FIP5",2
+"CCDC33",2
+"SMURF1",2
+"PRDM16",2
+"CSNK1G2",2
+"CDKN2B",2
+"CDKN1B",2
+"SKI",2
+"BCL2L11",2
+"MYD88",2
+"LACRT",2
+"PTPN12",2
+"MDM4",2
+"ANK3",2
+"SMAD1",2
+"COL1A2",2
+"MAPK10",2
+"MED24",2
+"AXIN1",2
+"PITX2",2
+"NF2",2
+"SKP1",2
+"KAT2A",2
+"CHRD",2
+"PHC2",2
+"UBQLN4",2
+"U2AF2",2
+"ACVR2A",2
+"SIK3",2
+"PTPN7",2
+"PIAS3",2
+"CDK11A",2
+"BACH1",2
+"ANAPC10",2
+"RBBP4",2
+"SIN3A",2
+"SREBF2",2
+"NCOA1",2
+"CITED1",2
+"PIAS2",2
+"PITX1",2
+"PTPN23",2
+"TANK",2
+"KMT2B",2
+"BMP4",2
+"SMAD4",2
+"RPLP0",2
+"PAX6",2
+"SQSTM1",2
+"CEBPD",2
+"IRF7",2
+"MAPK9",2
+"DRAP1",2
+"PTPN2",2
+"BMPR1B",2
+"UBB",2
+"SH2D2A",2
+"DDX4",2
+"RNF111",2
+"RBBP5",2
+"UBE2D3",2
+"DNAJB4",2
+"USP9X",2
+"HYAL2",2
+"TFE3",2
+"MYOCD",2
+"HMGA2",2
+"HOXC11",2
+"KDM6B",2
+"FKBP1A",2
+"RUNX1",2
+"SP1",2
+"SMAD5",2
+"HEYL",2
+"NCOA6",2
+"TGM2",2
+"SOX9",2
+"MKL1",2
+"DVL1",2
+"YAP1",2
+"SKIL",2
+"KLF4",2
+"TDGF1",2
+"TMED1",2
+"SMURF2",2
+"E2F5",2
+"RUNX3",2
+"BMP2",2
+"RELB",2
+"ATXN2L",2
+"PARD3",2
+"SMAD6",2
+"GATA4",2
+"GRIP1",2
+"UCHL5",2
+"MEN1",2
+"FOXL2",2
+"UBA52",2
+"NEDD9",2
+"NFIA",2
+"XRCC6",2
+"EPB41L5",2
+"WWOX",2
+"SNAI1",2
+"MEF2C",2
+"CYP11A1",2
+"OPA1",2
+"RGCC",2
+"SIN3B",2
+"CTDSP1",2
+"TGFB3",2
+"CCNT2",2
+"CFH",2
+"TGFBR1",2
+"TSC2",2
+"BMPR2",2
+"HNF4A",2
+"NFIC",2
+"PTPN14",2
+"PPM1A",2
+"WWP2",2
+"GATA3",2
+"SP3",2
+"TF",2
+"PRDM4",2
+"TEKT4",2
+"FOXO4",2
+"SERPINE1",2
+"CSH2",2
+"PTPN13",2
+"SMARCC2",2
+"KDM2A",2
+"CPTP",2
+"PROC",2
+"S100A4",2
+"PSPC1",2
+"DEDD",2
+"PAPPA",2
+"PARP4",2
+"RIOK2",2
+"PTPN9",2
+"CBFB",2
+"JUND",2
+"ZBTB17",2
+"SLC25A12",2
+"WWTR1",2
+"TLR4",2
+"CFDP1",2
+"FAM83G",2
+"ZBTB16",2
+"PMEPA1",2
+"TIMP1",2
+"CXXC5",2
+"VDR",2
+"ZC3H12A",2
+"DOCK9",2
+"PLG",2
+"TDP2",2
+"TFAP2B",2
+"PLAGL1",2
+"INS",2
+"TGFB1I1",2
+"COL3A1",2
+"SERTAD1",2
+"PPP1R12C",2
+"SS18L1",2
+"NOX4",2
+"TCF12",2
+"PCK2",2
+"SRY",2
+"MMP9",2
+"NODAL",2
+"VEGFA",2
+"ZEB2",2
+"TRIP4",2
+"YBX1",2
+"LRCH1",2
+"TRIM33",2
+"MAFK",2
+"EBI3",2
+"PTPN18",2
+"LBP",2
+"TGIF2",2
+"ACVR1C",2
+"TGFB2",2
+"SQRDL",2
+"XPO4",2
+"YTHDF2",2
+"ZMYND11",2
+"PLAG1",2
+"YY1",2
+"WWP1",2
+"ZEB1",2
+"PRTN3",2
+"INHBA",2
+"C10orf54",2
+"ZBTB3",2
+"RCVRN",2
+"RPSAP15",2
+"VAV2",2
+"DLX1",2
+"NOTCH4",2
+"CFC1",2
+"ZFYVE9",2
+"TRIM62",2
+"IL37",2
+"INHBB",2
+"SVEP1",2
+"TOB1",2
+"MUC5AC",2
+"MSTN",2
+"XPO6",2
+"ZFYVE16",2
+"TGIF1",2
+"PTPN20A",2
+"TRIB3",2
+"ZMIZ1",2
+"ZNF329",2
+"ST6GALNAC2",2
+"ZCCHC14",2
+"ZNF83",2
+"negative regulation of transcription by RNA polymerase II",6
+"nuclear chromatin",6
+"RNA polymerase II cis-regulatory region sequence-specific DNA binding",6
+"DNA-binding transcription factor activity, RNA polymerase II-specific",6
+"cis-regulatory region sequence-specific DNA binding",6
+"RNA polymerase II activating transcription factor binding",6
+"transcription coactivator binding",6
+"DNA-binding transcription activator activity, RNA polymerase II-specific",6
+"ureteric bud development",6
+"response to hypoxia",6
+"in utero embryonic development",6
+"mesoderm formation",6
+"somitogenesis",6
+"liver development",6
+"heart looping",6
+"osteoblast development",6
+"immune system development",6
+"DNA-binding transcription factor activity",6
+"transcription coregulator activity",6
+"transforming growth factor beta receptor binding",6
+"protein binding",6
+"collagen binding",6
+"cell",6
+"nucleus",6
+"nuclear inner membrane",6
+"nucleoplasm",6
+"transcription factor complex",6
+"cytoplasm",6
+"cytosol",6
+"plasma membrane",6
+"regulation of transcription by RNA polymerase II",6
+"activation of cysteine-type endopeptidase activity involved in apoptotic process",6
+"immune response",6
+"cell cycle arrest",6
+"transforming growth factor beta receptor signaling pathway",6
+"SMAD protein complex assembly",6
+"endoderm development",6
+"beta-catenin binding",6
+"transcription factor binding",6
+"zinc ion binding",6
+"embryonic pattern specification",6
+"positive regulation of gene expression",6
+"positive regulation of alkaline phosphatase activity",6
+"positive regulation of epithelial to mesenchymal transition",6
+"regulation of striated muscle tissue development",6
+"protein deubiquitination",6
+"regulation of transforming growth factor beta receptor signaling pathway",6
+"DEAD/H-box RNA helicase binding",6
+"protein kinase binding",6
+"phosphatase binding",6
+"signal transduction involved in regulation of gene expression",6
+"negative regulation of cell growth",6
+"adrenal gland development",6
+"positive regulation of cell migration",6
+"positive regulation of bone mineralization",6
+"negative regulation of transforming growth factor beta receptor signaling pathway",6
+"transforming growth factor beta receptor, pathway-specific cytoplasmic mediator activity",6
+"thyroid gland development",6
+"primary miRNA processing",6
+"chromatin DNA binding",6
+"ubiquitin protein ligase binding",6
+"mineralocorticoid receptor binding",6
+"positive regulation of chondrocyte differentiation",6
+"positive regulation of interleukin-1 beta production",6
+"regulation of transforming growth factor beta2 production",6
+"positive regulation of transforming growth factor beta3 production",6
+"activin receptor signaling pathway",6
+"negative regulation of osteoblast proliferation",6
+"glucocorticoid receptor binding",6
+"cis-regulatory region binding",6
+"nodal signaling pathway",6
+"wound healing",6
+"T cell activation",6
+"negative regulation of protein catabolic process",6
+"positive regulation of protein import into nucleus",6
+"identical protein binding",6
+"protein homodimerization activity",6
+"negative regulation of apoptotic process",6
+"ubiquitin binding",6
+"receptor complex",6
+"bHLH transcription factor binding",6
+"sequence-specific DNA binding",6
+"transcription regulatory region DNA binding",6
+"cell-cell junction organization",6
+"positive regulation of nitric oxide biosynthetic process",6
+"negative regulation of fat cell differentiation",6
+"negative regulation of osteoblast differentiation",6
+"positive regulation of transcription, DNA-templated",6
+"negative regulation of mitotic cell cycle",6
+"positive regulation of transcription by RNA polymerase II",6
+"paraxial mesoderm morphogenesis",6
+"developmental growth",6
+"embryonic foregut morphogenesis",6
+"embryonic cranial skeleton morphogenesis",6
+"regulation of epithelial cell proliferation",6
+"negative regulation of inflammatory response",6
+"regulation of immune response",6
+"protein stabilization",6
+"positive regulation of positive chemotaxis",6
+"positive regulation of DNA-binding transcription factor activity",6
+"regulation of binding",6
+"negative regulation of cytosolic calcium ion concentration",6
+"positive regulation of stress fiber assembly",6
+"positive regulation of focal adhesion assembly",6
+"pericardium development",6
+"transdifferentiation",6
+"SMAD protein signal transduction",6
+"negative regulation of wound healing",6
+"negative regulation of lung blood pressure",6
+"lens fiber cell differentiation",6
+"co-SMAD binding",6
+"R-SMAD binding",6
+"primary miRNA binding",6
+"SMAD protein complex",6
+"heteromeric SMAD protein complex",6
+"cellular response to cytokine stimulus",6
+"cellular response to transforming growth factor beta stimulus",6
+"positive regulation of canonical Wnt signaling pathway",6
+"extrinsic apoptotic signaling pathway",6
+"activation of cysteine-type endopeptidase activity involved in apoptotic signaling pathway",6
+"positive regulation of extracellular matrix assembly",6
+"positive regulation of pri-miRNA transcription by RNA polymerase II",6
+"negative regulation of cardiac muscle hypertrophy in response to stress",6

@@ -1,0 +1,210 @@
+"node","type"
+"11599.NCAP_HANTV",0
+"TSC2",2
+"P4HA2",2
+"RRAGB",2
+"CALM1",2
+"SIRT1",2
+"GSK3B",2
+"MAPK1",2
+"NTRK1",2
+"ESR1",2
+"CCNT1",2
+"LAMTOR1",2
+"SLC39A9",2
+"CAV1",2
+"B3GNT2",2
+"RNF123",2
+"DCAF7",2
+"HECW2",2
+"AKT3",2
+"RPS6KA2",2
+"ARF1",2
+"SNW1",2
+"MAPKAP1",2
+"POU5F1",2
+"MTOR",2
+"TP53",2
+"BMI1",2
+"CD83",2
+"P4HA3",2
+"GRB2",2
+"SAR1A",2
+"APEX1",2
+"IKBKB",2
+"SMAD2",2
+"DYRK1A",2
+"CBL",2
+"MDFI",2
+"TRAPPC2L",2
+"CCND1",2
+"CAND1",2
+"MED1",2
+"AKT1",2
+"FOXO1",2
+"RIPK4",2
+"RPTOR",2
+"IGF1",2
+"PIH1D1",2
+"PIK3CA",2
+"LNX1",2
+"CTDP1",2
+"HDAC8",2
+"PIN1",2
+"CARM1",2
+"MTF2",2
+"PTEN",2
+"IRS1",2
+"FBXW5",2
+"PTPN11",2
+"RALA",2
+"COL20A1",2
+"IGF1R",2
+"IGF2BP1",2
+"LAMTOR2",2
+"B4GALT1",2
+"RAP1A",2
+"RUVBL2",2
+"MAPK14",2
+"MAPK11",2
+"DAPK1",2
+"SFN",2
+"RPS6",2
+"AKT2",2
+"SGK1",2
+"RAB5A",2
+"RAB1A",2
+"PRKAG1",2
+"PRKAA1",2
+"SEC24A",2
+"RP2",2
+"NF1",2
+"RPS6KA6",2
+"PRKCSH",2
+"TSC1",2
+"MAPK3",2
+"HERC1",2
+"FOXO3",2
+"RICTOR",2
+"MLST8",2
+"SPINT2",2
+"PRKAB2",2
+"C12orf5",2
+"SEC23IP",2
+"PIK3C3",2
+"TBK1",2
+"CIAO1",2
+"CDKN1B",2
+"SEC24C",2
+"YWHAZ",2
+"ARIH2",2
+"PLK2",2
+"CBY1",2
+"AXIN1",2
+"CCND2",2
+"PLK1",2
+"TRAPPC12",2
+"PRKAA2",2
+"RPS6KB2",2
+"CD79B",2
+"STK11",2
+"CDK11A",2
+"PTK2",2
+"RABGEF1",2
+"TRAPPC2",2
+"LAMTOR3",2
+"RB1CC1",2
+"SUPT6H",2
+"ALDH3A2",2
+"RNGTT",2
+"YWHAG",2
+"RPS6KA1",2
+"RPS6KA3",2
+"EIF4EBP1",2
+"AKT1S1",2
+"SLC39A7",2
+"RHEB",2
+"TK1",2
+"LAMTOR5",2
+"SMAD3",2
+"MAPKAPK2",2
+"SREBF1",2
+"EIF4EBP2",2
+"CCND3",2
+"FLCN",2
+"SPERT",2
+"DEPTOR",2
+"TNFSF13B",2
+"PDPK1",2
+"NEK1",2
+"LAMTOR4",2
+"YWHAH",2
+"RRAGC",2
+"PAM",2
+"AP1AR",2
+"TRAPPC13",2
+"PKD1",2
+"YWHAB",2
+"EIF4E",2
+"WDR92",2
+"PRKAB1",2
+"RRAGA",2
+"RPS6KB1",2
+"UBE3A",2
+"FAM221B",2
+"PNKD",2
+"YWHAE",2
+"UBE2J1",2
+"INS",2
+"YWHAQ",2
+"SIGLECL1",2
+"TBC1D7",2
+"VPS53",2
+"PRR5",2
+"PRKAG2",2
+"TNS1",2
+"DDIT4",2
+"ADIPOQ",2
+"SLC38A9",2
+"RRAGD",2
+"PRKAG3",2
+"neural tube closure",6
+"GTPase activator activity",6
+"protein binding",6
+"nucleus",6
+"cytoplasm",6
+"lysosome",6
+"Golgi apparatus",6
+"cytosol",6
+"negative regulation of protein kinase activity",6
+"protein import into nucleus",6
+"endocytosis",6
+"heart development",6
+"protein localization",6
+"negative regulation of cell population proliferation",6
+"negative regulation of phosphatidylinositol 3-kinase signaling",6
+"postsynaptic density",6
+"membrane",6
+"viral process",6
+"vesicle-mediated transport",6
+"positive regulation of macroautophagy",6
+"phosphatase binding",6
+"regulation of endocytosis",6
+"negative regulation of Wnt signaling pathway",6
+"small GTPase binding",6
+"negative regulation of TOR signaling",6
+"TSC1-TSC2 complex",6
+"protein homodimerization activity",6
+"anoikis",6
+"protein kinase B signaling",6
+"positive regulation of GTPase activity",6
+"regulation of insulin receptor signaling pathway",6
+"negative regulation of insulin receptor signaling pathway",6
+"insulin-like growth factor receptor signaling pathway",6
+"perinuclear region of cytoplasm",6
+"positive chemotaxis",6
+"regulation of small GTPase mediated signal transduction",6
+"regulation of cell cycle",6
+"Hsp90 protein binding",6
+"negative regulation of protein kinase B signaling",6
+"negative regulation of mitophagy",6

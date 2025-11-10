@@ -1,0 +1,264 @@
+"node","type"
+"12305.RDRP_CMVFN",0
+"CTTNBP2",1
+"ENO1",1
+"RHEB",1
+"CAMK4",1
+"NEFH",1
+"MAPT",1
+"CDK9",1
+"EIF4E",1
+"phosphopyruvate hydratase complex",6
+"G1/S transition of mitotic cell cycle",6
+"negative regulation of transcription by RNA polymerase II",6
+"Golgi membrane",6
+"microtubule cytoskeleton organization",6
+"magnesium ion binding",6
+"cyclin-dependent protein kinase holoenzyme complex",6
+"RNA cap binding",6
+"RNA 7-methylguanosine cap binding",6
+"nuclear chromatin",6
+"P-body",6
+"RNA polymerase II regulatory region sequence-specific DNA binding",6
+"RNA polymerase II cis-regulatory region sequence-specific DNA binding",6
+"transcription coactivator binding",6
+"DNA-binding transcription repressor activity, RNA polymerase II-specific",6
+"fibrillar center",6
+"behavioral fear response",6
+"microglial cell activation",6
+"adaptive immune response",6
+"myeloid dendritic cell cytokine production",6
+"DNA binding",6
+"AT DNA binding",6
+"chromatin binding",6
+"double-stranded DNA binding",6
+"single-stranded DNA binding",6
+"RNA binding",6
+"translation initiation factor activity",6
+"actin binding",6
+"GTPase activity",6
+"phosphopyruvate hydratase activity",6
+"protein kinase activity",6
+"protein serine/threonine kinase activity",6
+"calmodulin-dependent protein kinase activity",6
+"cyclin-dependent protein serine/threonine kinase activity",6
+"structural constituent of cytoskeleton",6
+"protein binding",6
+"calmodulin binding",6
+"ATP binding",6
+"GTP binding",6
+"extracellular region",6
+"extracellular space",6
+"cell",6
+"nucleus",6
+"nucleoplasm",6
+"spliceosomal complex",6
+"chromosome",6
+"cytoplasm",6
+"mitochondrion",6
+"lysosomal membrane",6
+"endoplasmic reticulum membrane",6
+"cytosol",6
+"mRNA cap binding complex",6
+"cytoskeleton",6
+"microtubule",6
+"neurofilament",6
+"plasma membrane",6
+"cell cortex",6
+"gluconeogenesis",6
+"DNA repair",6
+"regulation of DNA repair",6
+"transcription by RNA polymerase II",6
+"transcription initiation from RNA polymerase II promoter",6
+"transcription elongation from RNA polymerase II promoter",6
+"RNA export from nucleus",6
+"mRNA export from nucleus",6
+"translational initiation",6
+"regulation of translation",6
+"protein phosphorylation",6
+"internal protein amino acid acetylation",6
+"activation of cysteine-type endopeptidase activity involved in apoptotic process",6
+"inflammatory response",6
+"cell cycle arrest",6
+"signal transduction",6
+"small GTPase mediated signal transduction",6
+"cell-cell signaling",6
+"regulation of mitotic cell cycle",6
+"axonogenesis",6
+"brain development",6
+"memory",6
+"long-term memory",6
+"microtubule binding",6
+"synaptic vesicle",6
+"transcription elongation factor complex",6
+"cyclin/CDK positive transcription elongation factor complex",6
+"transcription factor binding",6
+"cell population proliferation",6
+"RNA polymerase II CTD heptapeptide repeat kinase activity",6
+"response to virus",6
+"calcium-dependent protein serine/threonine kinase activity",6
+"cell surface",6
+"response to lead ion",6
+"cytoplasmic stress granule",6
+"regulation of autophagy",6
+"negative regulation of autophagy",6
+"positive regulation of cardiac muscle hypertrophy",6
+"negative regulation of gene expression",6
+"positive regulation of plasminogen activation",6
+"negative regulation of mitochondrial membrane potential",6
+"postsynaptic density",6
+"microtubule cytoskeleton",6
+"membrane",6
+"viral process",6
+"rRNA metabolic process",6
+"regulation of macroautophagy",6
+"eukaryotic translation initiation factor 4F complex",6
+"kinase activity",6
+"RISC complex",6
+"PML body",6
+"nuclear speck",6
+"SH3 domain binding",6
+"negative regulation of translation",6
+"peptidyl-serine phosphorylation",6
+"GDP binding",6
+"stem cell population maintenance",6
+"kinesin binding",6
+"axonal transport of mitochondrion",6
+"enzyme binding",6
+"protein kinase binding",6
+"central nervous system neuron development",6
+"cell projection assembly",6
+"negative regulation of cell growth",6
+"lung development",6
+"cyclin binding",6
+"axon",6
+"dendrite",6
+"growth cone",6
+"axolemma",6
+"protein-macromolecule adaptor activity",6
+"regulation of histone modification",6
+"regulation of microtubule polymerization or depolymerization",6
+"regulation of microtubule polymerization",6
+"positive regulation of microtubule polymerization",6
+"cytoplasmic microtubule organization",6
+"neuron projection development",6
+"replication fork processing",6
+"eukaryotic initiation factor 4G binding",6
+"M band",6
+"positive regulation of TOR signaling",6
+"positive regulation of superoxide anion generation",6
+"positive regulation of transcription elongation from RNA polymerase II promoter",6
+"regulation of chromosome organization",6
+"regulation of T cell differentiation in thymus",6
+"positive regulation of histone phosphorylation",6
+"chromatoid body",6
+"negative regulation of kinase activity",6
+"neurofilament bundle assembly",6
+"stress granule assembly",6
+"apolipoprotein binding",6
+"nuclear periphery",6
+"dynactin binding",6
+"cellular response to heat",6
+"cellular response to reactive oxygen species",6
+"phosphatidylinositol binding",6
+"intracellular signal transduction",6
+"cytoplasmic ribonucleoprotein granule",6
+"somatodendritic compartment",6
+"response to drug",6
+"snRNA transcription by RNA polymerase II",6
+"identical protein binding",6
+"protein homodimerization activity",6
+"neuron projection",6
+"myeloid dendritic cell differentiation",6
+"neuronal cell body",6
+"dendritic spine",6
+"sequence-specific DNA binding",6
+"transcription regulatory region DNA binding",6
+"cell body",6
+"main axon",6
+"membrane raft",6
+"cadherin binding",6
+"tubulin complex",6
+"negative regulation of neuron differentiation",6
+"regulation of osteoclast differentiation",6
+"positive regulation of axon extension",6
+"negative regulation of transcription, DNA-templated",6
+"positive regulation of transcription, DNA-templated",6
+"positive regulation of mitotic cell cycle",6
+"positive regulation of muscle contraction",6
+"positive regulation of transcription by RNA polymerase II",6
+"protein autophosphorylation",6
+"microtubule polymerization",6
+"astrocyte activation",6
+"regulation of synaptic plasticity",6
+"intracellular distribution of mitochondria",6
+"perinuclear region of cytoplasm",6
+"generation of neurons",6
+"positive regulation of oligodendrocyte differentiation",6
+"peripheral nervous system neuron axonogenesis",6
+"positive regulation of viral transcription",6
+"synapse organization",6
+"regulation of calcium-mediated signaling",6
+"GTPase binding",6
+"chaperone binding",6
+"regulation of muscle cell differentiation",6
+"protein polymerization",6
+"protein phosphatase 2A binding",6
+"Hsp90 protein binding",6
+"neurofilament cytoskeleton organization",6
+"axon development",6
+"canonical glycolysis",6
+"extracellular exosome",6
+"repressing transcription factor binding",6
+"regulation of microtubule cytoskeleton organization",6
+"phosphorylation of RNA polymerase II C-terminal domain",6
+"dynein complex binding",6
+"negative regulation of cell cycle arrest",6
+"cellular response to cytokine stimulus",6
+"cellular response to dexamethasone stimulus",6
+"lipoprotein particle binding",6
+"plus-end-directed organelle transport along microtubule",6
+"regulation of mitochondrial fission",6
+"negative regulation of mitochondrial fission",6
+"7SK snRNA binding",6
+"glial cell projection",6
+"neurofibrillary tangle",6
+"supramolecular fiber organization",6
+"Schaffer collateral - CA1 synapse",6
+"postsynapse",6
+"postsynaptic actin cytoskeleton",6
+"axonal transport",6
+"glutamatergic synapse",6
+"histone-dependent DNA binding",6
+"postsynaptic intermediate filament cytoskeleton",6
+"structural constituent of postsynaptic intermediate filament cytoskeleton",6
+"postsynaptic intermediate filament cytoskeleton organization",6
+"postsynaptic cytosol",6
+"regulation of translation at postsynapse, modulating synaptic transmission",6
+"microtubule lateral binding",6
+"cell cortex region",6
+"negative regulation of cold-induced thermogenesis",6
+"regulation of cellular response to heat",6
+"negative regulation of mRNA polyadenylation",6
+"regulation of long-term synaptic depression",6
+"positive regulation of neuron death",6
+"positive regulation of protein localization to synapse",6
+"regulation of organelle transport along microtubule",6
+"phosphatidylinositol bisphosphate binding",6
+"neurofibrillary tangle assembly",6
+"negative regulation of hypoxia-induced intrinsic apoptotic signaling pathway",6
+"negative regulation of establishment of protein localization to mitochondrion",6
+"positive regulation of cellular protein localization",6
+"positive regulation of mRNA 3'-UTR binding",6
+"axon cytoplasm",6
+"negative regulation of tubulin deacetylation",6
+"regulation of modification of postsynaptic actin cytoskeleton",6
+"positive regulation of diacylglycerol kinase activity",6
+"amyloid fibril formation",6
+"cellular response to nerve growth factor stimulus",6
+"cellular response to brain-derived neurotrophic factor stimulus",6
+"cellular response to leukemia inhibitory factor",6
+"regulation of type B pancreatic cell development",6
+"regulation of response to DNA damage stimulus",6
+"positive regulation of histone H2B ubiquitination",6
+"positive regulation of ATP biosynthetic process",6

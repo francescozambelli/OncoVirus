@@ -1,0 +1,419 @@
+"node","type"
+"10623.VL2_CRPVK",0
+"10623.VE6_CRPVK",0
+"10623.VE2_CRPVK",0
+"SNX17",1
+"TP53",1
+"NOTCH1",1
+"FOS",1
+"ID3",1
+"negative regulation of transcription by RNA polymerase II",6
+"Golgi membrane",6
+"DNA strand renaturation",6
+"nuclear chromatin",6
+"RNA polymerase II cis-regulatory region sequence-specific DNA binding",6
+"RNA polymerase II core promoter sequence-specific DNA binding",6
+"DNA-binding transcription factor activity, RNA polymerase II-specific",6
+"core promoter sequence-specific DNA binding",6
+"RNA polymerase II transcription factor binding",6
+"TFIID-class transcription factor complex binding",6
+"RNA polymerase II activating transcription factor binding",6
+"DNA-binding transcription activator activity, RNA polymerase II-specific",6
+"metanephros development",6
+"conditioned taste aversion",6
+"acrosomal vesicle",6
+"in utero embryonic development",6
+"cell fate specification",6
+"somitogenesis",6
+"release of cytochrome c from mitochondria",6
+"epithelial to mesenchymal transition",6
+"liver development",6
+"heart looping",6
+"protease binding",6
+"p53 binding",6
+"sprouting angiogenesis",6
+"positive regulation of neuroblast proliferation",6
+"MAML1-RBP-Jkappa- ICN1 complex",6
+"hematopoietic progenitor cell differentiation",6
+"T cell proliferation involved in immune response",6
+"B cell lineage commitment",6
+"T cell lineage commitment",6
+"inflammatory response to antigenic stimulus",6
+"response to ischemia",6
+"outflow tract morphogenesis",6
+"endocardium development",6
+"endocardium morphogenesis",6
+"atrioventricular node development",6
+"coronary vein morphogenesis",6
+"aortic valve morphogenesis",6
+"atrioventricular valve morphogenesis",6
+"coronary sinus valve morphogenesis",6
+"pulmonary valve morphogenesis",6
+"mitral valve formation",6
+"epithelial to mesenchymal transition involved in endocardial cushion formation",6
+"endocardial cushion morphogenesis",6
+"cardiac chamber formation",6
+"cardiac ventricle morphogenesis",6
+"cardiac atrium morphogenesis",6
+"cardiac right atrium morphogenesis",6
+"cardiac left ventricle morphogenesis",6
+"cardiac right ventricle formation",6
+"ventricular trabecula myocardium morphogenesis",6
+"growth involved in heart morphogenesis",6
+"negative regulation of cell proliferation involved in heart valve morphogenesis",6
+"regulation of transcription from RNA polymerase II promoter involved in myocardial precursor cell differentiation",6
+"Notch signaling pathway involved in regulation of secondary heart field cardioblast proliferation",6
+"cell migration involved in endocardial cushion formation",6
+"cardiac septum development",6
+"negative regulation of extracellular matrix constituent secretion",6
+"pericardium morphogenesis",6
+"DNA binding",6
+"chromatin binding",6
+"DNA-binding transcription factor activity",6
+"transcription coactivator activity",6
+"transcription corepressor activity",6
+"mRNA 3'-UTR binding",6
+"enzyme inhibitor activity",6
+"transmembrane signaling receptor activity",6
+"signaling receptor binding",6
+"Notch binding",6
+"copper ion binding",6
+"calcium ion binding",6
+"protein binding",6
+"ATP binding",6
+"extracellular region",6
+"nucleus",6
+"nucleoplasm",6
+"replication fork",6
+"transcription factor complex",6
+"transcription factor TFIID complex",6
+"nucleolus",6
+"cytoplasm",6
+"mitochondrion",6
+"mitochondrial matrix",6
+"endosome",6
+"early endosome",6
+"endoplasmic reticulum",6
+"endoplasmic reticulum membrane",6
+"Golgi apparatus",6
+"centrosome",6
+"cytosol",6
+"plasma membrane",6
+"adherens junction",6
+"regulation of DNA replication",6
+"nucleotide-excision repair",6
+"double-strand break repair",6
+"DNA methylation",6
+"regulation of transcription, DNA-templated",6
+"regulation of transcription by RNA polymerase II",6
+"transcription by RNA polymerase II",6
+"transcription initiation from RNA polymerase II promoter",6
+"protein import into nucleus",6
+"cholesterol catabolic process",6
+"intracellular protein transport",6
+"receptor-mediated endocytosis",6
+"autophagy",6
+"inflammatory response",6
+"immune response",6
+"humoral immune response",6
+"cellular response to DNA damage stimulus",6
+"DNA damage response, signal transduction by p53 class mediator resulting in cell cycle arrest",6
+"DNA damage response, signal transduction by p53 class mediator resulting in transcription of p21 class mediator",6
+"ER overload response",6
+"cell cycle arrest",6
+"signal transduction",6
+"transforming growth factor beta receptor signaling pathway",6
+"Notch signaling pathway",6
+"positive regulation of transcription of Notch receptor target",6
+"Ras protein signal transduction",6
+"multicellular organism development",6
+"spermatogenesis",6
+"determination of left/right symmetry",6
+"gastrulation",6
+"compartment pattern specification",6
+"nervous system development",6
+"negative regulation of neuroblast proliferation",6
+"axonogenesis",6
+"central nervous system development",6
+"foregut morphogenesis",6
+"endoderm development",6
+"heart development",6
+"muscle organ development",6
+"female pregnancy",6
+"aging",6
+"cell aging",6
+"protein C-terminus binding",6
+"protein localization",6
+"transcription factor binding",6
+"negative regulation of DNA replication",6
+"zinc ion binding",6
+"positive regulation of cell population proliferation",6
+"negative regulation of cell population proliferation",6
+"determination of adult lifespan",6
+"mRNA transcription",6
+"rRNA transcription",6
+"response to cold",6
+"response to light stimulus",6
+"response to wounding",6
+"response to gravity",6
+"response to toxic substance",6
+"response to salt stress",6
+"auditory receptor cell fate commitment",6
+"cell surface",6
+"endosome membrane",6
+"response to X-ray",6
+"response to gamma radiation",6
+"negative regulation of cardiac muscle hypertrophy",6
+"positive regulation of gene expression",6
+"negative regulation of gene expression",6
+"positive regulation of cardiac muscle cell apoptotic process",6
+"negative regulation of cell-substrate adhesion",6
+"negative regulation of myotube differentiation",6
+"mesenchymal cell development",6
+"regulation of somitogenesis",6
+"membrane",6
+"integral component of membrane",6
+"viral process",6
+"endosomal transport",6
+"apical plasma membrane",6
+"nuclear matrix",6
+"protein deubiquitination",6
+"nuclear body",6
+"PML body",6
+"cytokine-mediated signaling pathway",6
+"enzyme binding",6
+"protein kinase binding",6
+"protein phosphatase binding",6
+"protein domain specific binding",6
+"cell differentiation in spinal cord",6
+"cerebellum development",6
+"neural tube development",6
+"regulation of endocytosis",6
+"cell differentiation",6
+"neuron differentiation",6
+"keratinocyte differentiation",6
+"negative regulation of ossification",6
+"negative regulation of cell growth",6
+"lung development",6
+"DNA damage response, signal transduction by p53 class mediator",6
+"positive regulation of cell migration",6
+"sleep",6
+"negative regulation of transforming growth factor beta receptor signaling pathway",6
+"positive regulation of BMP signaling pathway",6
+"negative regulation of BMP signaling pathway",6
+"cytoplasmic vesicle membrane",6
+"epithelial cell differentiation",6
+"forebrain development",6
+"notochord development",6
+"receptor tyrosine kinase binding",6
+"positive regulation of histone deacetylation",6
+"hair follicle morphogenesis",6
+"animal organ regeneration",6
+"cytoplasmic vesicle",6
+"chromatin DNA binding",6
+"chromatin assembly",6
+"mitotic G1 DNA damage checkpoint",6
+"ubiquitin protein ligase binding",6
+"cellular response to extracellular stimulus",6
+"response to corticosteroid",6
+"nuclear membrane",6
+"endocytic recycling",6
+"response to muramyl dipeptide",6
+"response to lipopolysaccharide",6
+"response to progesterone",6
+"cellular response to hormone stimulus",6
+"circadian regulation of gene expression",6
+"protein-containing complex",6
+"protein-DNA complex",6
+"T cell differentiation in thymus",6
+"tumor necrosis factor-mediated signaling pathway",6
+"regulation of tissue remodeling",6
+"cellular response to reactive oxygen species",6
+"cellular response to UV",6
+"histone deacetylase regulator activity",6
+"histone acetyltransferase binding",6
+"phosphatidylinositol binding",6
+"embryonic hindlimb morphogenesis",6
+"tube formation",6
+"multicellular organism growth",6
+"cellular response to drug",6
+"positive regulation of mitochondrial membrane permeability",6
+"site of double-strand break",6
+"response to immobilization stress",6
+"aorta development",6
+"skeletal muscle cell differentiation",6
+"cellular response to vascular endothelial growth factor stimulus",6
+"transcription factor AP-1 complex",6
+"response to muscle stretch",6
+"positive regulation of transcription from RNA polymerase II promoter in response to stress",6
+"Fc-epsilon receptor signaling pathway",6
+"cellular response to glucose starvation",6
+"tissue regeneration",6
+"odontogenesis",6
+"intrinsic apoptotic signaling pathway in response to DNA damage by p53 class mediator",6
+"identical protein binding",6
+"histone deacetylase binding",6
+"regulation of apoptotic process",6
+"neuron projection",6
+"positive regulation of apoptotic process",6
+"negative regulation of apoptotic process",6
+"negative regulation of catalytic activity",6
+"entrainment of circadian clock by photoperiod",6
+"intracellular membrane-bounded organelle",6
+"receptor complex",6
+"negative regulation of DNA-binding transcription factor activity",6
+"mitochondrial DNA repair",6
+"regulation of DNA damage response, signal transduction by p53 class mediator",6
+"positive regulation of neuron apoptotic process",6
+"protein self-association",6
+"transcription regulatory region DNA binding",6
+"protein-containing complex binding",6
+"positive regulation of viral genome replication",6
+"positive regulation of endothelial cell differentiation",6
+"negative regulation of inner ear auditory receptor cell differentiation",6
+"positive regulation of keratinocyte differentiation",6
+"negative regulation of myoblast differentiation",6
+"negative regulation of osteoblast differentiation",6
+"positive regulation of osteoclast differentiation",6
+"positive regulation of Notch signaling pathway",6
+"negative regulation of proteolysis",6
+"negative regulation of transcription, DNA-templated",6
+"positive regulation of transcription, DNA-templated",6
+"positive regulation of RNA polymerase II transcriptional preinitiation complex assembly",6
+"positive regulation of transcription by RNA polymerase II",6
+"negative regulation of calcium ion-dependent exocytosis",6
+"negative regulation of growth rate",6
+"positive regulation of receptor signaling pathway via JAK-STAT",6
+"negative regulation of photoreceptor cell differentiation",6
+"positive regulation of Ras protein signal transduction",6
+"response to antibiotic",6
+"positive regulation of protein export from nucleus",6
+"protein heterodimerization activity",6
+"protein dimerization activity",6
+"protein N-terminus binding",6
+"somatic stem cell division",6
+"negative regulation of fibroblast proliferation",6
+"circadian behavior",6
+"bone marrow development",6
+"embryonic organ development",6
+"astrocyte differentiation",6
+"oligodendrocyte differentiation",6
+"positive regulation of astrocyte differentiation",6
+"negative regulation of oligodendrocyte differentiation",6
+"branching morphogenesis of an epithelial tube",6
+"homeostasis of number of cells within a tissue",6
+"positive regulation of epithelial cell proliferation",6
+"positive regulation of peptidyl-tyrosine phosphorylation",6
+"low-density lipoprotein particle receptor binding",6
+"negative regulation of neurogenesis",6
+"protein stabilization",6
+"chaperone binding",6
+"regulation of DNA-binding transcription factor activity",6
+"negative regulation of helicase activity",6
+"RNA polymerase II preinitiation complex assembly",6
+"protein tetramerization",6
+"neuron apoptotic process",6
+"response to corticosterone",6
+"response to cAMP",6
+"protein phosphatase 2A binding",6
+"regulation of cell cycle",6
+"negative regulation of telomerase activity",6
+"cardiac muscle tissue morphogenesis",6
+"cardiac muscle cell proliferation",6
+"positive regulation of cardiac muscle cell proliferation",6
+"hematopoietic stem cell differentiation",6
+"negative regulation of glial cell proliferation",6
+"cilium assembly",6
+"cardiac epithelial to mesenchymal transition",6
+"interferon-gamma-mediated signaling pathway",6
+"negative regulation of cell adhesion molecule production",6
+"SMAD protein signal transduction",6
+"cardiac septum morphogenesis",6
+"ventricular septum morphogenesis",6
+"secretory columnal luminar epithelial cell differentiation involved in prostate glandular acinus development",6
+"prostate gland epithelium morphogenesis",6
+"regulation of epithelial cell proliferation involved in prostate gland development",6
+"arterial endothelial cell differentiation",6
+"venous endothelial cell differentiation",6
+"cardiac vascular smooth muscle cell development",6
+"endocardial cell differentiation",6
+"coronary vasculature development",6
+"vasculogenesis involved in coronary vascular morphogenesis",6
+"coronary artery morphogenesis",6
+"Notch signaling involved in heart development",6
+"heart trabecula morphogenesis",6
+"positive regulation of transcription from RNA polymerase II promoter in response to hypoxia",6
+"positive regulation of cardiac epithelial to mesenchymal transition",6
+"positive regulation of programmed necrotic cell death",6
+"protein-containing complex assembly",6
+"intrinsic apoptotic signaling pathway in response to endoplasmic reticulum stress",6
+"negative regulation of biomineral tissue development",6
+"positive regulation of thymocyte apoptotic process",6
+"necroptotic process",6
+"positive regulation of ERK1 and ERK2 cascade",6
+"R-SMAD binding",6
+"left/right axis specification",6
+"positive regulation of cell cycle arrest",6
+"cellular response to cadmium ion",6
+"cellular response to calcium ion",6
+"cellular response to follicle-stimulating hormone stimulus",6
+"cellular response to hypoxia",6
+"cellular response to ionizing radiation",6
+"cellular response to gamma radiation",6
+"cellular response to UV-C",6
+"mitotic cell cycle arrest",6
+"distal tubule development",6
+"collecting duct development",6
+"glomerular mesangial cell development",6
+"signal transduction by p53 class mediator",6
+"intrinsic apoptotic signaling pathway by p53 class mediator",6
+"interleukin-4 secretion",6
+"cellular response to actinomycin D",6
+"cellular response to leptomycin B",6
+"negative regulation of cell migration involved in sprouting angiogenesis",6
+"negative regulation of canonical Wnt signaling pathway",6
+"positive regulation of release of cytochrome c from mitochondria",6
+"positive regulation of cell aging",6
+"replicative senescence",6
+"oxidative stress-induced premature senescence",6
+"neuronal stem cell population maintenance",6
+"intrinsic apoptotic signaling pathway",6
+"oligodendrocyte apoptotic process",6
+"MDM2/MDM4 family protein binding",6
+"disordered domain specific binding",6
+"negative regulation of cold-induced thermogenesis",6
+"transcription regulator activity",6
+"positive regulation of execution phase of apoptosis",6
+"positive regulation of protein insertion into mitochondrial membrane involved in apoptotic signaling pathway",6
+"regulation of extracellular matrix assembly",6
+"positive regulation of neuron death",6
+"negative regulation of mitophagy",6
+"leptomycin B binding",6
+"regulation of signal transduction by p53 class mediator",6
+"regulation of mitochondrial membrane permeability involved in apoptotic process",6
+"regulation of intrinsic apoptotic signaling pathway by p53 class mediator",6
+"apoptotic process involved in embryonic digit morphogenesis",6
+"positive regulation of apoptotic process involved in morphogenesis",6
+"regulation of cell cycle G2/M phase transition",6
+"positive regulation of pri-miRNA transcription by RNA polymerase II",6
+"positive regulation of nucleic acid-templated transcription",6
+"negative regulation of production of miRNAs involved in gene silencing by miRNA",6
+"positive regulation of production of miRNAs involved in gene silencing by miRNA",6
+"positive regulation of aorta morphogenesis",6
+"negative regulation of glucose catabolic process to lactate via pyruvate",6
+"negative regulation of pentose-phosphate shunt",6
+"retrograde transport, endosome to plasma membrane",6
+"intrinsic apoptotic signaling pathway in response to hypoxia",6
+"regulation of transcription from RNA polymerase II promoter in response to DNA damage",6
+"positive regulation of transcription from RNA polymerase II promoter in response to endoplasmic reticulum stress",6
+"promoter-specific chromatin binding",6
+"negative regulation of cell-cell adhesion mediated by cadherin",6
+"regulation of fibroblast apoptotic process",6
+"negative regulation of reactive oxygen species metabolic process",6
+"positive regulation of reactive oxygen species metabolic process",6
+"negative regulation of stem cell differentiation",6
+"regulation of cellular senescence",6
+"negative regulation of anoikis",6
+"negative regulation of pro-B cell differentiation",6
+"negative regulation of endothelial cell chemotaxis",6
+"positive regulation of intrinsic apoptotic signaling pathway",6
