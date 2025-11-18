@@ -87,8 +87,6 @@
 "Human_rhinovirus_A_serotype_89__strain_41467-Gallo_";2;1569;0.0786663324141389;190;0.000375866223276406;57864;1;"Human_rhinovirus_A_serotype_89";"Picornaviridae";2;6;6;FALSE
 "Human_SARS_coronavirus";8;18;0.000902481825018802;738;0.00145994354093678;1241;0;"Human_SARS_coronavirus";"Coronaviridae";8;18;18;FALSE
 "Human_SARS_coronavirus";8;3491;0.17503133617448;738;0.00145994354093678;155506;1;"Human_SARS_coronavirus";"Coronaviridae";8;18;18;FALSE
-"Human_SARS_coronavirus_2";27;330;0.0165455001253447;2628;0.00519882334089682;7435;0;"Human_SARS_coronavirus_2";"Coronaviridae";27;332;332;FALSE
-"Human_SARS_coronavirus_2";27;10641;0.533517172223615;2628;0.00519882334089682;534593;1;"Human_SARS_coronavirus_2";"Coronaviridae";27;332;332;FALSE
 "Human_T-cell_leukemia_virus_1__isolate_Caribbea_HS-35_subtype_A_";4;1648;0.0826272248683881;385;0.000761623662954823;74326;1;"Human_T-cell_leukemia_virus_1";"Retroviridae";4;10;10;TRUE
 "Human_T-cell_leukemia_virus_1__isolate_Caribbea_HS-35_subtype_A_";4;10;0.000501378791677112;385;0.000761623662954823;517;0;"Human_T-cell_leukemia_virus_1";"Retroviridae";4;10;10;TRUE
 "Influenza_A_virus__strain_A-Puerto_Rico-8-1934_H1N1_";7;43;0.00215592880421158;992;0.00196241733415892;1724;0;"Influenza_A_virus";"Orthomyxoviridae";7;43;45;FALSE
